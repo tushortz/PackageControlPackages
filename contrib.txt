@@ -1,0 +1,14 @@
+
+You can contribute in any of the three ways:
+
+• Write a more efficient code.
+• Write a different languages to do the same job.
+• Update the files.
+
+Updating the files
+------------------
+
+• Fork this repository
+• Run any of the generate.<file format> file
+• Create a pull request
+• The latest file will be merged.
