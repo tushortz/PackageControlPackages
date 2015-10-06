@@ -23,8 +23,8 @@ total = 0
 vall = 0
 
 # Store all available pages number in content
-for text in (txt):
-	content = (re.findall(r'<a href="\?page=[\'"]?([^\'" >]+)">', txt))
+
+content = (re.findall(r'<a href="\?page=[\'"]?([^\'" >]+)">', txt))
 
 # Add "1" at the beginning of content list
 content.insert(0, "1")

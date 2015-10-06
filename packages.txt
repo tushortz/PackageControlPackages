@@ -1,7 +1,7 @@
 Instruction on how to contribute to this repository can be found in `contrib.txt`
 
 
-There are a total of 3177 packages available as at Friday 25 of September, 2015 at 04:44:46 PM
+There are a total of 3191 packages available as at Wednesday 07 of October, 2015 at 12:16:47 AM
 
 List of available Sublime text packages 
 ======================================= 
@@ -45,6 +45,7 @@ APDL (ANSYS) Syntax Highlighting
 API Blueprint
 API Checker
 APICloudLoader
+APICloudPackage
 APICloudSnippets
 APL Highlighting
 ARFF Syntax Highlighting
@@ -488,6 +489,7 @@ Codeigniter Codeintel Helper
 Codeivate
 Codepad.org Paste Plugin
 Codic
+Coffee Color Scheme
 Coffee Formatter
 Coffee2Js
 CoffeeAngular Syntax
@@ -520,6 +522,7 @@ Color Scheme - saulhudson
 Color Schemes by carlcalderon
 ColorPick
 ColorPicker
+ColorSchemeEditor
 ColorSchemeSelector
 Colorcoder
 Colorsublime
@@ -547,6 +550,7 @@ CompleteSharp
 Composer
 Compressor
 ComputerCraft Package
+ConEmuOpen
 Configify
 Conky.tmLanguage
 Console API Snippets (JavaScript)
@@ -630,6 +634,7 @@ DRAMA Syntax Highlighter
 DXL
 Dafny
 Danmakufu
+Dark Fusion Color Scheme
 Dark Neon Color Scheme
 Dark Pastel Color Scheme
 DarkLime Color Scheme
@@ -656,6 +661,7 @@ Demain Color Scheme
 Dependents
 Derby
 Deselect
+Desert Color Scheme
 Desert Night Color Scheme
 DevDocs
 Devastate
@@ -699,6 +705,7 @@ Dota KV
 Dota Lua VScript
 Dota Reborn Package
 Dotfiles Syntax Highlighting
+Download Source
 DoxyDoc
 DoxyDoxygen
 DoxyDoxygen (evolution)
@@ -847,6 +854,7 @@ FT Origami
 FTPSync
 Fabric Engine - KL Language Support
 Fabric Tasks
+Facebook Material Theme
 FactoryGirl
 Factus 12C Color Scheme
 Failcoder Color Scheme
@@ -1029,6 +1037,7 @@ GitStatus
 GitSyntaxes
 Github Color Theme
 Github Tools
+GithubEmoji
 Gitignore
 Gitignored File Excluder
 GitlabIntegrate
@@ -1037,7 +1046,7 @@ GlassIt
 Glorified Copy &#x27;n&#x27; Paste
 GlslViewer
 Glue
-GmESSI-gmsh tools
+GmESSI-gmsh Tools
 Gnuplot
 Go Build
 Go Coverage
@@ -1253,6 +1262,7 @@ ITunes
 IceWorld Color Scheme
 IcedCoffeeScript
 Icon Fonts
+Iconfont snippets
 Idiomatic-CSS-Comments-Snippets
 Idoc
 Ignore Words
@@ -1454,6 +1464,7 @@ Kulture
 
 ---> L
 ======
+L2U AutoComplete
 LC3 Assembly
 LC4 Assembly Syntax
 LD library Path
@@ -1847,6 +1858,7 @@ OnlineSearch
 OnlyCss Snippets
 Opa
 Open
+Open File in Current Folder
 Open Finder
 Open Folder
 Open Recent Files
@@ -1992,6 +2004,7 @@ PhpDoc
 PhpDocumentor
 PhpDox
 PhpNamespace
+PhpNinJaManual
 PhpSimpleRefactor
 PhpSpec Snippets
 PhpTidy
@@ -2022,7 +2035,6 @@ Poster
 PostgreSQL Syntax Highlighting
 Postgres PL pgSQL
 PouchDB Snippets
-Powder Sublime
 PowerCursors
 PowerMTML Completions
 PowerPaste
@@ -2587,7 +2599,6 @@ Sublime Text 3 Snippets
 Sublime Text API Helper
 Sublime Tweet
 Sublime V8
-Sublime WinSCP
 Sublime convert colorcode
 Sublime-Hhhhold
 Sublime-KnockoutJS-Snippets
@@ -2640,6 +2651,7 @@ SublimeLinter-contrib-elixirc
 SublimeLinter-contrib-elm-make
 SublimeLinter-contrib-erlc
 SublimeLinter-contrib-eslint
+SublimeLinter-contrib-eslint_d
 SublimeLinter-contrib-frosted
 SublimeLinter-contrib-ghdl
 SublimeLinter-contrib-glsl
@@ -2699,6 +2711,7 @@ SublimeLinter-html-tidy
 SublimeLinter-javac
 SublimeLinter-jolint
 SublimeLinter-jscs
+SublimeLinter-jsdebugmarkers
 SublimeLinter-jshint
 SublimeLinter-jsl
 SublimeLinter-json
@@ -3177,6 +3190,7 @@ Wild Cherry
 Wildlife
 Wildlife gutter theme
 WinMerge
+WinSCP
 Winamp Skin Developer
 Wind
 Wisedu TrunPage Snippets
