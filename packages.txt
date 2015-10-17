@@ -1,7 +1,7 @@
 Instruction on how to contribute to this repository can be found in `contrib.txt`
 
 
-There are a total of 3191 packages available as at Wednesday 07 of October, 2015 at 12:16:47 AM
+There are a total of 3215 packages available as at Saturday 17 of October, 2015 at 08:45:04 PM
 
 List of available Sublime text packages 
 ======================================= 
@@ -320,6 +320,7 @@ CFG Configuration Syntax Highlighting
 CFMLDocPlugin
 CForm
 CFos ml syntax
+CHeaders
 CJSX Syntax
 CLIPS Rules
 CMS Made Simple Snippets
@@ -346,6 +347,7 @@ CSS Primer
 CSS RTL generator
 CSS Selector Reveal
 CSS Snippets
+CSS To SASS And Stylus Converter
 CSS Unminifier
 CSS-On-Diet
 CSS3
@@ -791,6 +793,7 @@ EmoKid Color Scheme
 Emoji
 EmotiCODE
 EncodingHelper
+Energy Color Scheme
 Enhanced Clojure
 Enhanced HTML and CFML
 EnhancedReadline
@@ -1331,6 +1334,7 @@ JDebug
 JEdit Color Theme
 JQuery
 JQuery Mobile 1.4 Snippets
+JQuery Mobile Demos
 JQuery Mobile Snippets
 JQuery Snippets for Coffeescript
 JQuery Snippets pack
@@ -1351,6 +1355,7 @@ JSML Formatter
 JSON Reindent
 JSON to CSV Converter
 JSONLint
+JSTL autocomplete
 JSTL syntax
 JSX
 JXA Build System
@@ -1382,6 +1387,7 @@ JavaScript Multiline
 JavaScript Patterns
 JavaScript Refactor
 JavaScript Snippets
+JavaScript Snippets for IMWeb
 JavaScript Ultimate
 JavaScriptFunctionDefinition
 JavaScriptNext - ES6 Syntax
@@ -1606,7 +1612,10 @@ Madebyphunky Color Scheme
 Magento - TemplateCopy
 MagentoSnippets
 MagerunCommander
+MagicPython
 MagiclessQuotes
+Magma
+MagmaSnippets
 Make File Executable
 MakeCommands
 MakeExecutable
@@ -1801,6 +1810,7 @@ Nightwalker Color Scheme
 NimLime
 Ninja
 Nix
+NoTutorial
 Nocturnal Color Scheme
 Node Completions
 NodeEval
@@ -1854,6 +1864,7 @@ OmniSharp
 OmnisStudioHighlighter
 One Command Syntax Highlighter
 One Dark Color Scheme
+One Dark Material - Theme
 OnlineSearch
 OnlyCss Snippets
 Opa
@@ -1909,6 +1920,7 @@ PHP Code Coverage
 PHP Codebeautifier
 PHP Companion
 PHP Completions Kit
+PHP Constructors
 PHP Form Builder
 PHP Getters and Setters
 PHP Haml
@@ -1979,6 +1991,7 @@ Pawn syntax
 Pebble
 Pelican
 PeopleCodeTools
+Perfect Code
 Perfectionist
 Perforce
 Perl-Test-Class
@@ -2213,6 +2226,7 @@ Razor-tmpl
 Rbenv
 Rdio
 ReaSyntax
+React ES6 Snippets
 React Templates
 React-native-snippets
 ReactJS
@@ -2502,6 +2516,7 @@ Snippet Destroyer
 SnippetCaller
 SnippetMaker
 SnippetManager
+SnippetX
 Snipplr
 Snipt Snippet Fetcher
 Soar Tools
@@ -2644,6 +2659,7 @@ SublimeLinter-contrib-check-source-formatting
 SublimeLinter-contrib-checkpatch
 SublimeLinter-contrib-clang
 SublimeLinter-contrib-cmakelint
+SublimeLinter-contrib-coffee-jshint
 SublimeLinter-contrib-dartanalyzer
 SublimeLinter-contrib-dennis
 SublimeLinter-contrib-dxl
@@ -2767,6 +2783,7 @@ Subtitle Sync
 Subtoise
 Subway Color Schemes
 Sudden Death
+SuiteCommerce-Advanced
 Summary
 Summerfruit Color Scheme
 SummitEditor
@@ -2842,6 +2859,7 @@ Tabify
 Table Cleaner
 Table Editor
 Table of comments
+Tabr
 Tabright
 TabsExtra
 TabsLimiter
@@ -2910,6 +2928,7 @@ Theme - Eightlime
 Theme - El Capitan
 Theme - Elementary
 Theme - Farzher
+Theme - Fengshui
 Theme - Flatgrammer
 Theme - Flatland
 Theme - Fox
@@ -3126,6 +3145,7 @@ Vintage Numbers
 Vintage Surround
 Vintage YankStack
 Vintage-Origami
+VintageES
 VintageEx
 VintageLines
 Vintageous
@@ -3161,6 +3181,7 @@ WLST
 WP Keygen
 WPath
 WakaTime
+Wanderlei Color Scheme
 Warp-OS Color Scheme
 Waxeye
 WeSnipp Add
@@ -3194,12 +3215,14 @@ WinSCP
 Winamp Skin Developer
 Wind
 Wisedu TrunPage Snippets
+Witcher Script Syntax
 Wok
 Wollok
 Wombat Color Scheme
 Wombat Theme
 Wombatish color scheme
 WooCommerce Autocomplete
+WordCompletion
 WordCount
 WordHighlight
 WordPress
@@ -3227,7 +3250,7 @@ Writing Style
 X to Y
 X10Language
 X3-Alpha Color Scheme
-X86 and X86_64 assembly
+X86 and x86_64 Assembly
 XAML
 XLI Template Converter
 XMPFilter
@@ -3284,6 +3307,7 @@ Zip Browser
 Zissou Color Schemes
 Zmq
 Znuny4OTRS
+Zoneinfo
 Zucchini
 Zurb Foundation 4 Snippets
 Zurb Ink Snippets
