@@ -1,29 +1,28 @@
 # Importing necessary modules
 from urllib.request import urlopen
-import os, re, six, time
+import re, time
 
 # Variable decarations
 target_url = "https://packagecontrol.io/browse/new"
 message = "List of available Sublime text packages"
 domain = "https://packagecontrol.io/packages/"
-sorts = [	 
-			 "0", "1", "2", "3", "4", "5", 
-			 "6", "7", "8", "9", "A", "B", 
-			 "C", "D", "E", "F", "G", "H", 
-			 "I", "J", "K", "L", "M", "N", 
-			 "O", "P", "Q", "R", "S", "T", 
-			 "U", "V", "W", "X", "Y", "Z"     
-		]
+alphabets = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+sorts = []
+
+# Add alphanumeric values to be used for sorting
+for x in range(10):
+	sorts.append(str(x))
+for x in alphabets:
+	sorts.append(x)
+
 txt = str(urlopen(target_url).read())
 current_time = time.strftime("%A %d of %B, %Y at %I:%M:%S %p")
 details_link = [] 
 packdict = {}
 lists = []
-total = 0
 vall = 0
 
 # Store all available pages number in content
-
 content = (re.findall(r'<a href="\?page=[\'"]?([^\'" >]+)">', txt))
 
 # Add "1" at the beginning of content list
@@ -46,7 +45,6 @@ def getpackages(num):
 		i = i.replace(" ", "%20").replace("&amp;", "%26").replace("\\xc3\\xa7", "&#xE7;").replace("#", "%23").replace("'", "&#39;").replace("\\xc3\\xaa", "&#234;").replace("&%23", "&#39;").replace("&#39;x27;", "'")
 
 		result[packagename] = i
-
 	return result
 
 # Find the total packages available
@@ -54,42 +52,34 @@ for val in content:
 	y = getpackages(val)
 	for x in y:
 		packdict[x] =  y[x]
-		total +=1
-
+total = len(packdict)
 # Variable to store result of sorted keys of packdict
 first_item = sorted(packdict)[0]
 
 # Create pacakges.txt and readme.md in write mode and store in respective variable
-packages = open("packages.txt",'w')
-readme = open("README.md",'w')
+with open("packages.txt",'w') as packages, open("README.md",'w') as readme:
+	packages.write("%s \n%s \n\n" % (message,len(message) * "="))
+	packages.write("\nThere are a total of %s packages available as at %s\n\n" % (total, current_time ))
+	packages.write("Instruction on how to contribute to this repository can be found in `contrib.txt`\n\n")
+	readme.write("## %s \n\n" % (message))
+	readme.write("\nThere are a total of `%s` packages available as at `%s`\n\n" % (total, current_time ))
+	readme.write("Instruction on how to contribute to this repository can be found in `contrib.txt` <br>")
 
-# Write some data into readme and packages
-packages.write("Instruction on how to contribute to this repository can be found in `contrib.txt`\n\n")
-readme.write("Instruction on how to contribute to this repository can be found in `contrib.txt` <br\>")
-packages.write("\nThere are a total of %s packages available as at %s\n\n" % (total, current_time ))
-readme.write("\nThere are a total of `%s` packages available as at `%s`\n\n" % (total, current_time ))
-packages.write("%s \n%s \n\n" % (message,len(message) * "="))
-readme.write("## %s \n\n" % (message))
+	# Header storing certain text
+	header = "---> %s" % first_item[0]
 
-# Header storing certain text
-header = "---> %s" % first_item[0]
+	# Write the rest of the data into readme and packages.txt
+	for x in sorted(packdict):
+		url = "%s%s" % (domain, packdict[x])
+		if x[0] == sorts[vall]:
+			packages.write(x + "\n")
+			readme.write("* [%s](%s) \n" % (x, url))
 
-# Write the rest of the data into readme and packages.txt
-for x in sorted(packdict):
-	if x[0] == sorts[vall]:
-		packages.write(x + "\n")
+		elif x[0] != sorts[vall]:
+			sorts[vall] = x[0]
 
-		readme.write("* [%s](%s%s) \n" % (x, domain, packdict[x]))
+			packages.write("\n---> " + x[0] + "\n======\n")
+			readme.write("\n### " + x[0] + "\n\n")
 
-	elif x[0] != sorts[vall]:
-		sorts[vall] = x[0]
-
-		packages.write("\n---> " + x[0] + "\n======\n")
-		readme.write("\n### " + x[0] + "\n\n")
-
-		packages.write(x + "\n")
-		readme.write("* [%s](%s%s) \n" % (x, domain, packdict[x]))
-
-# Close files
-readme.close()
-packages.close()
+			packages.write(x + "\n")
+			readme.write("* [%s](%s) \n" % (x, url))

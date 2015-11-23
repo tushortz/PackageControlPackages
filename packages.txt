@@ -1,10 +1,10 @@
-Instruction on how to contribute to this repository can be found in `contrib.txt`
-
-
-There are a total of 3215 packages available as at Saturday 17 of October, 2015 at 08:45:04 PM
-
 List of available Sublime text packages 
 ======================================= 
+
+
+There are a total of 3274 packages available as at Monday 23 of November, 2015 at 05:12:59 AM
+
+Instruction on how to contribute to this repository can be found in `contrib.txt`
 
 
 ---> 1
@@ -87,6 +87,7 @@ Agile
 Agola Color Schemes
 Aheui
 Aizu Online Judge
+Alda
 Alfresco Snippets
 AlignTab
 Alignment
@@ -162,6 +163,7 @@ Atoum
 Attribute Grammar
 Aurora Color Scheme
 Auto Encoding for Ruby
+Auto Fold
 Auto Match Enabled
 Auto Refresh
 Auto Semi-Colon
@@ -215,7 +217,6 @@ Backbone.js
 Badges
 Baidu FE Code Style
 Bang Search
-Base Encoder
 Base16 Color Schemes
 Base64 Fold
 Bash Build System
@@ -234,6 +235,7 @@ Behave Step Finder
 Behave Toolkit
 Bemmet
 BetaCode
+Better Bookmarks
 Better Build System
 Better Close Window
 Better CoffeeScript
@@ -267,11 +269,13 @@ Boo
 Boo &amp; BooJs
 Bootstrap 3 Jade Snippets
 Bootstrap 3 Snippets
+Bootstrap 4 Snippets
 Bootstrap Jade
 Borat Ipsum
 Boron Color Scheme
 BoundKeys
 Bower
+BowerInjector
 BracketGuard
 BracketHighlighter
 Bracketeer
@@ -455,7 +459,9 @@ CloneFile
 Close Oldest File
 CloseAllButThis
 CloseCommentTag
+CloseFolder
 CloseOtherWindows
+CloseTabsLeft
 ClosureMyJS
 Clouds Color Schemes
 Cloudup
@@ -471,6 +477,7 @@ Code Preview
 Code Runner
 Code Snippets Helper
 Code2Docs Documentation Generator (docco)
+CodeCells
 CodeComplice
 CodeFormatter
 CodeIgniter 2 ModelController
@@ -506,6 +513,7 @@ ColdFusion Docs Launcher
 Color Highlighter
 Color Scheme - AmyCable
 Color Scheme - Baara Dark
+Color Scheme - Chromodynamics
 Color Scheme - Creamy
 Color Scheme - Dusk
 Color Scheme - Eggplant Parm
@@ -522,6 +530,7 @@ Color Scheme - Vintage Terminal
 Color Scheme - Yotsuba
 Color Scheme - saulhudson
 Color Schemes by carlcalderon
+ColorHelper
 ColorPick
 ColorPicker
 ColorSchemeEditor
@@ -569,6 +578,7 @@ Cool Code Scheme
 CoolFormat
 Copy Block
 Copy Code Snippet
+Copy Cut and Paste Lines
 Copy File Name
 Copy Filepath With Line Numbers
 Copy PHP Namespace
@@ -578,6 +588,8 @@ Copy from Find Results
 Copy to HipChat
 CopyEdit
 CopyToSharePointRoot
+CopyWithLineNumbersReloaded
+CopyWithQuotes
 Coq
 Coral
 CoreBuilder
@@ -625,6 +637,7 @@ Cython+
 ======
 D Programming Language
 D3.js Snippets
+DB1
 DBLP Search
 DBTextWorks
 DCPU-16
@@ -659,6 +672,7 @@ Delete Lines
 Delete on Error Color Scheme
 DeleteBlankLines
 Delphi Style Bookmarks
+Delphi Syntax Highlighting
 Demain Color Scheme
 Dependents
 Derby
@@ -789,6 +803,7 @@ Emblem.js Syntax Highlighting
 Emmet
 Emmet Css Snippets
 Emmet Style Reflector
+EmmetOneLine
 EmoKid Color Scheme
 Emoji
 EmotiCODE
@@ -837,6 +852,7 @@ ExpressComplete
 Expression
 ExpressionEngine
 ExpressionEngine Add-On Builder
+Extend Selection
 ExtendScript
 ExtendedTabSwitcher
 External Command
@@ -849,9 +865,11 @@ Extract Text to File
 F#
 F2J - FCore to Java
 FASM x86
+FAlign
 FBP
 FEI Syntax-n-Snippets
 FLAC
+FSP Syntax
 FSharp
 FT Origami
 FTPSync
@@ -870,6 +888,7 @@ Fancy Projects
 FarCry
 FastSwitch
 Fat-Free Framework Snippets
+Fate
 FavoriteFiles
 Fb-Flo
 Feature Presentation
@@ -892,6 +911,7 @@ FileClose
 FileCommands
 FileDialog
 FileDiffs
+FileFinder
 FileHeader
 FileList
 FileModifyStatus
@@ -929,7 +949,6 @@ Flask Starter
 Flat Chameleon
 Flat Colors
 Flatron
-Flex
 Flight JS Snippets
 FloScript
 Floobits
@@ -990,6 +1009,7 @@ GMod Lua
 GN
 GPD
 GPG
+GSAP Snippets
 GSP Snippets
 GTKDarkThemeVariantSetter
 GTags
@@ -1009,6 +1029,7 @@ Genesis
 Gengojs
 Ggu
 Gherkin (Cucumber) Formatter
+Gherkin Auto-Complete Plus
 Gherkin-highlight-sublimetext
 Ghetto CoffeeScript
 Ghost Snippets
@@ -1073,6 +1094,7 @@ GoToTest
 GoTools
 Gocc BNF Syntax
 Godef
+Golang Build
 Golden Dragon Color Scheme
 GoldenRatio
 Google Apps Scripts
@@ -1090,7 +1112,6 @@ Goto Tab
 Goto-CSS-Declaration
 GotoCharacter
 GotoDocumentation
-GotoLastEdit
 GotoLastEditEnhanced
 GotoLineEnhanced
 GotoRecent
@@ -1110,6 +1131,7 @@ Greek Letters
 GreekTeX
 Gregorio
 Grep Code Search
+Grepmark
 Greybeard theme
 Grid6
 GridlabD
@@ -1213,6 +1235,7 @@ Homebrew-formula-syntax
 HoogleSearch
 Hookblime
 Hooks
+Hoon Syntax Highlighting
 Hope
 Hopscotch Color Scheme
 Horizontal Scroll
@@ -1225,6 +1248,7 @@ HtmlTidy
 Http Requester
 HttpStatusCode
 Huely Palette Extractor
+Hugofy
 Hybris Impex Syntax
 Hyle
 Hyojun.couch-bootstrap Snippets
@@ -1290,6 +1314,7 @@ Indent.txt
 IndentGuides
 IndentTips
 IndentX
+Indentation Size Setting
 IndentationNavigation
 Infinidat Plugin
 Initializr
@@ -1354,6 +1379,7 @@ JSLint
 JSML Formatter
 JSON Reindent
 JSON to CSV Converter
+JSON-Template
 JSONLint
 JSTL autocomplete
 JSTL syntax
@@ -1365,6 +1391,7 @@ Jade Build
 Jade Snippets
 Jaggeryjs
 Jai
+Jam Language
 Jamon
 Japanize
 Jasmin JVM Assembler
@@ -1549,7 +1576,6 @@ List2csv
 ListOpenFiles
 Listenr
 Lithium Snippets
-LiveReload
 LiveReloadMake
 LiveScript
 LiveStamps
@@ -1567,6 +1593,7 @@ LogView
 Logger Snippets
 Logging Control
 Logitech G-Series LUA API
+Logos Syntax Highlighting
 Logs Colorize
 Logstash Syntax Highlighting
 London Underground Status
@@ -1620,6 +1647,7 @@ Make File Executable
 MakeCommands
 MakeExecutable
 Makefile Improved
+Makefile Plus
 Makensis
 Mako
 Man Page Support
@@ -1658,8 +1686,10 @@ Material Theme
 Material Theme - White Panels
 Materialize
 Materialized CSS Snippets
+Matlab Completions
 MatlabFilenameAutoComplete
 Matrixify
+Maude Syntax Highlighting
 Maven
 MavensMate
 MaxPane
@@ -1702,6 +1732,7 @@ Mithrilizer
 Miva Template Language (MVT)
 MivaScript
 Moai Debugger
+MobileCaddy
 MobileLogReader
 Mocha Chai CoffeeScript
 Mocha Coffee Snippets
@@ -1801,6 +1832,7 @@ Nette
 Nettuts+ Fetch
 Neutron
 Neverwinter Script syntax and build
+New Moon Color Scheme
 New from Selection
 Ng-snippets
 Ngdoc snippets
@@ -1812,6 +1844,7 @@ Ninja
 Nix
 NoTutorial
 Nocturnal Color Scheme
+Node Assert Snippets
 Node Completions
 NodeEval
 NodeRequirer
@@ -1843,7 +1876,6 @@ OPM (Orbital Parameter Message) Syntax Highlighting
 OPUS
 OSX Font Chooser
 Oasis Theme
-Oauth Mail
 ObjC2RubyMotion
 Objective-C Autocompletion
 Oblivion Color Scheme
@@ -1887,6 +1919,7 @@ Open in Thunar
 Open in Total Commander
 Open project path by shortcut
 Open-Include
+Open-sesame
 OpenBSD PF conf syntax highlight
 OpenCL
 OpenERP Snippets
@@ -1918,6 +1951,7 @@ PEPE Assembly
 PHP Built-in WebServer
 PHP Code Coverage
 PHP Codebeautifier
+PHP Comment Wrap
 PHP Companion
 PHP Completions Kit
 PHP Constructors
@@ -2039,6 +2073,7 @@ Plugin UnitTest Harness
 Pman
 PogoScript
 PokemonTeamSyntax
+Polyfill
 Polymer &amp; Web Component Snippets
 Pomodoro
 Pony Language
@@ -2103,9 +2138,9 @@ PxToEm
 PyBuilder
 PyCover
 PyDOC
-PyFusion
 PyNorm
 PyQt Search
+PyQt5 Completions
 PyRefactor
 PySide
 PyTags
@@ -2131,6 +2166,7 @@ Python Output Format
 Python PEP8 Autoformat
 Python Path to Clipboard
 Python Pep8 Lint
+Python Pretty Print
 Python Unittest Helper
 Python2UnicodeFixer
 PythonOpenModule
@@ -2150,6 +2186,8 @@ QMakeProject
 QSwitch
 Qiita for Sublime
 Qooxdoo Tools
+Qt Completions for C++
+Quake3 Script
 QuarkPHP
 Quartz-Syntax
 Query Completions Silencer
@@ -2161,6 +2199,7 @@ Quick Look
 QuickCal
 QuickGotoAnything
 QuickLinks
+QuickMail
 QuickOpen
 QuickPrint
 QuickRails
@@ -2266,6 +2305,7 @@ Request
 Require CommonJS Modules Helper
 Require Helper
 Requirementstxt
+Resesif Color Scheme
 Resize Active Group
 Resize Group with Keyboard
 ResponsiveBoilerplate
@@ -2311,6 +2351,7 @@ RubyMotionBuilder
 RubyMotionSpec
 RubyTest
 RubyToggleString
+Rubycritic
 Run
 Run Apps
 Run In InDesign
@@ -2433,7 +2474,7 @@ Send To Sandbox
 Send by Mail
 Send to 3ds Max
 SendText
-SendTextPlus
+SendText+
 SendToPasteBin
 Sepiarize Color Scheme
 SequentialBuilder
@@ -2453,6 +2494,7 @@ Shell Exec
 Shell Turtlestein
 ShellCommand
 ShellStatus
+ShenMa
 Shinken
 Shlisp Syntax
 Shoulda-matchers Snippets
@@ -2466,6 +2508,7 @@ Side-by-Side Settings
 SideBarEnhancements
 SideBarFolders
 SideBarGit
+SidebarSeparator
 Sign
 Silex Snippets
 Silk Web Toolkit Snippets
@@ -2482,6 +2525,7 @@ SimpleMarker
 SimpleMovements
 SimplePHPSpec
 SimplePHPUnit
+SimpleSession
 SimpleStateManager Snippets
 SimpleSync
 SimpleTODO
@@ -2494,6 +2538,7 @@ Six - Future JavaScript Syntax
 Sketch.js
 Slack
 Slate
+Sleet
 SlideShow(S9)
 Slugify
 Smali
@@ -2557,9 +2602,12 @@ SplitScreen-Resizer
 Splunk Conf File Syntax Highlighting
 Splunk Syntax
 Spotify
+Sprak Syntax &amp; Completions for else Heartbreak()
 SproutCore Snippets and JSHint Integration
 SqlBeautifier
 Squib Snippets
+Squiggle
+Stack Overflow Snippets
 StackMob JS Snippets
 Stan
 StandardFormat
@@ -2679,6 +2727,7 @@ SublimeLinter-contrib-gotype
 SublimeLinter-contrib-govet
 SublimeLinter-contrib-haml-lint
 SublimeLinter-contrib-happiness
+SublimeLinter-contrib-hdevtools
 SublimeLinter-contrib-htmlhint
 SublimeLinter-contrib-iverilog
 SublimeLinter-contrib-jade-lint
@@ -2692,6 +2741,8 @@ SublimeLinter-contrib-mlint
 SublimeLinter-contrib-nvc
 SublimeLinter-contrib-perl
 SublimeLinter-contrib-perlcritic
+SublimeLinter-contrib-polylint
+SublimeLinter-contrib-proselint
 SublimeLinter-contrib-protoc-gen-lint
 SublimeLinter-contrib-puppet
 SublimeLinter-contrib-puppet-lint
@@ -2828,6 +2879,7 @@ SyncedSideBar
 SyncedSidebarBg
 Synchronized File Scrolling
 Synesthesia
+Syntax Highlighting for PostCSS
 Syntax Highlighting for Sass
 Syntax Manager
 Syntax Matcher
@@ -2877,6 +2929,7 @@ Taskwarrior
 Tau Time Tracker
 Tcsh and Csh Mode
 TeX Live Package Manager
+Tea Color Scheme
 Teaspoon
 Telerik AppBuilder
 TemplateNinja
@@ -2939,6 +2992,7 @@ Theme - Haft Lang
 Theme - Hero
 Theme - HueAccent
 Theme - Interstellar
+Theme - Kronuz
 Theme - Ksix
 Theme - LP
 Theme - Lyte
@@ -2971,6 +3025,7 @@ Theme - Solarized Space
 Theme - Spaceblack
 Theme - Spacefunk
 Theme - Spacegray
+Theme - Spacezero
 Theme - Spark
 Theme - Superman
 Theme - Tech49
@@ -3030,7 +3085,9 @@ Toolbar
 TopCoder Helper
 Tortoise
 TortoiseGIT
+TortoiseGit Context Integration
 TortoiseSVN
+Toss File
 Touch WSGI
 Tpl
 TracRPC
@@ -3048,6 +3105,7 @@ Transpose Word
 TransposeCharacter
 Traverse
 Travis YML Lint
+Travis-CI
 TreeTop
 Trello
 Trimmer
@@ -3057,6 +3115,7 @@ Tubaina (afc)
 Tubsted Color Schemes
 Tully Color Schemes
 Tumblr Themes Syntax and Completions
+Tup
 Twee
 TweetLine
 Twig
@@ -3098,7 +3157,6 @@ UniqueWindow
 UnitJS
 UnitTesting
 Unittest (python)
-Unity C# Snippets
 Unity Completions
 Unity Completions Light
 Unity3D
@@ -3120,12 +3178,12 @@ VBDotNet
 VBScript
 VCS Gutter
 VDF
+VDP Logs
 VEX Syntax
 VGR-Assistant
 VHDL
 VIM Navigation
 Vagrant
-Vala
 Vala-TMBundle
 Valgrind
 Vanilla lodash Snippets
@@ -3183,6 +3241,7 @@ WPath
 WakaTime
 Wanderlei Color Scheme
 Warp-OS Color Scheme
+WaveOC Apex Snippets
 Waxeye
 WeSnipp Add
 Web Audio API Autocomplete
@@ -3208,7 +3267,7 @@ WhoCalled Function Finder
 Wiggle
 Wiki
 Wild Cherry
-Wildlife
+Wildlife Color Scheme
 Wildlife gutter theme
 WinMerge
 WinSCP
