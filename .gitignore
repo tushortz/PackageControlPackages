@@ -1,4 +1,3 @@
 *.pyc
 *.class
-*.o
-README.html
+*.html

@@ -2,7 +2,7 @@ List of available Sublime text packages
 ======================================= 
 
 
-There are a total of 3274 packages available as at Monday 23 of November, 2015 at 05:12:59 AM
+There are a total of 3774 packages available as at Monday 19 of December, 2016 at 11:12:47 PM
 
 Instruction on how to contribute to this repository can be found in `contrib.txt`
 
@@ -19,6 +19,7 @@ Instruction on how to contribute to this repository can be found in `contrib.txt
 ---> 3
 ======
 3024 Color Scheme
+3D Tool Syntax Hilight
 
 ---> 4
 ======
@@ -27,11 +28,11 @@ Instruction on how to contribute to this repository can be found in `contrib.txt
 
 ---> A
 ======
-AAAPackageDev
 ABC Notation
 ACF Snippets
 ACTG
 ADBView
+AGC Assembly
 AGSBS Markdown Helper
 AMD Butler
 AMD Snippets
@@ -47,6 +48,7 @@ API Checker
 APICloudLoader
 APICloudPackage
 APICloudSnippets
+APICloudWifiSync
 APL Highlighting
 ARFF Syntax Highlighting
 ARIA attributes and roles
@@ -58,20 +60,27 @@ ASCII Presentation
 ASCII Replacer
 ASP Snippets
 ASPComment
+ATG(CocoR C#) Syntax
 ATS Syntax Highlight
 ATS2 Build System
+AVA
+AVA Standard
 AVM2 Pcode Syntax Highlighting
 AVR
 AVR-ASM-Sublime
+AWS Lambda
 Abacus
+Abaqus
 Abstract Markup Language
 AcademicMarkdown
 Accessibility
 AceJump
 Achievement
+Acme Color Scheme
 Acme Plumbing
 ActionScript 3
 Active4D
+AdDa Apex Snippets
 Ada
 Adaptionary
 Add Folder To Project
@@ -83,22 +92,32 @@ AdvancedNewFile
 Aery32
 Affixify
 Aftersave
+Agila Theme
 Agile
 Agola Color Schemes
 Aheui
 Aizu Online Judge
 Alda
 Alfresco Snippets
+AlgoLang
+Align Arguments
 AlignTab
 Alignment
 All Autocomplete
 Alphpetize
+Alrighty Snippets
+AltUp
 Alternate VIM Navigation
 Alternative Autocompletion
 Amalgamate
+AmbientTalk 2
 AmpScript Highlighter
+AmpersandJS Snippets
+AnB (Alice and Bob Notation)
 Anaconda
+Anaconda_go
 Anaconda_php
+Anaconda_rust
 Andrew
 Android
 AndroidImport
@@ -108,21 +127,28 @@ AndyJS2
 AndyPHP
 AndyPython
 AngelScript
+Angular 2 Snippets (John Papa)
 Angular Material Snippets
+Angular-io-Code
+Angular2 HTML Syntax
 AngularInject
 AngularJS
 AngularJS (CoffeeScript)
+AngularJS Jasmine Boilerplate
 AngularJS Snippets
 AngularZen
 Animate.css Snippets
 Ansible
+Ansible Vault
 AnsibleSnippets
 Ant
 Ant Buildfile
 Ant Color Scheme
+Antescofo
 Antiki
 Anypreter
 Anyword completion
+AoikConsolePanelStartup
 Apache Hive
 Apache Pig
 ApacheConf.tmLanguage
@@ -133,6 +159,8 @@ Apiary.io Blueprint
 Apidock
 AppStormJS
 Appealr
+AppendComma
+AppendNewline
 AppendSelection
 AppendSemiColon
 Apple Pips Color Scheme
@@ -147,11 +175,13 @@ Arduino-like IDE
 Argument Noun
 AriaTemplates Highlighter
 AriaTemplates Snippets
+ArmaBuild
 Artisan
 AsAbove
 Ascetic color schemes
 AsciiConverter
 AsciiDoc
+AsciiGraph
 Asciidoctor
 Asp.Net File Switch
 AspectJ
@@ -159,28 +189,33 @@ Asterisk Config
 Asterisk Extended Language
 Async Mindset Snippets
 Async Snippets
+Atomic Color Scheme
+Atomizr
 Atoum
 Attribute Grammar
 Aurora Color Scheme
+Auto Close HTML Tags
 Auto Encoding for Ruby
 Auto Fold
-Auto Match Enabled
+Auto Hide Sidebar
 Auto Refresh
 Auto Semi-Colon
+Auto-Spacing
 Auto-save
 AutoAligner
 AutoBackups
 AutoComments
-AutoCompleteJS
 AutoCopyright
 AutoDocstring
 AutoFileName
 AutoHotkey
 AutoImport
 AutoItScript
+AutoMatchEnabled
 AutoPEP8
 AutoPHPDollar
 AutoSelect
+AutoSetSyntax
 AutoSlim
 AutoSoftWrap
 AutoSpell
@@ -194,8 +229,11 @@ Automatic Backups
 AutomaticFullscreen
 Autoprefixer
 Autotools
+AvrAssembler
+Avro-reader
 Aweibo
 Awk
+Ayu
 AzureResourceManager
 
 ---> B
@@ -217,14 +255,18 @@ Backbone.js
 Badges
 Baidu FE Code Style
 Bang Search
+Base Encoder
+Base Snippets
 Base16 Color Schemes
 Base64 Fold
 Bash Build System
 Bats (Bash Automated Testing System)
 Beancount
 Beanstalk Tools
+Beautiful Soup Completion
 BeautifyLatex
 BeautifyRuby
+BeautifyRust
 Befunge-93
 Behat
 Behat Completions
@@ -243,16 +285,22 @@ Better Completion
 Better JavaScript
 Better RSpec
 BetterFindBuffer
+BetterTabCycling
+BeyondCompare
 Bidirectional text support
+Bigine
 BinaryPlist
 Bind Zone files
 Bing Translator
 BioPythonUtils
 Bison
+Bitbake Syntax
 BitcoinTicker
 Bitly
 Bitrix Painkiller
 BitrixHelp
+BlackBird-ColorScheme
+BlackRain
 Blade Snippets
 Blade Spacer
 BlameHighlighter
@@ -261,30 +309,41 @@ BlessCss
 BlitzMax
 Block Cursor Everywhere
 Block Nav
+Blogger
 Blogify
 Blue Zen Color Scheme
 Blusted Scheme
 BoGo
+Bonsucesso
 Boo
 Boo &amp; BooJs
+Bootstrap 3 Autocomplete
 Bootstrap 3 Jade Snippets
 Bootstrap 3 Snippets
+Bootstrap 4 Autocomplete
 Bootstrap 4 Snippets
 Bootstrap Jade
 Borat Ipsum
 Boron Color Scheme
+Bottle
 BoundKeys
+Bourbon_completions
 Bower
 BowerInjector
+Boxy Theme
+Boxy Theme Addon - Font Face
+Boxy Theme Addon - Mono File Icons
+Boxy Theme Addon - Widget Font Size
+BracketFlasher
 BracketGuard
 BracketHighlighter
 Bracketeer
 Brackets Color Scheme
 Brainfuck
 Brainfuck Interpreter
+Breadboard
 BridleNSIS
 BrightScript
-Broadcast Color Scheme
 Browse
 Browser Integration
 Browser Refresh
@@ -293,7 +352,6 @@ Browser Sync
 BrowserBookmarks
 BsHelper Snippets
 Bubububububad and Boneyfied Color Schemes
-BufferScroll
 BuffersBackup
 Build Ant Target
 Build Next
@@ -308,35 +366,44 @@ Business Catalyst Liquid Snippets
 C Improved
 C# Compile &amp; Run
 C# Snippets
+C++ Completions
 C++ Snippets
 C++ Starting Kit
 C++11
 C++NamespaceTool
 C++YouCompleteMe
 C0
+C11
 C99
 CAside
 CBP Syntax Highlighter
+CCL Tools
+CComplete
 CFAutoMock
 CFDocs
 CFEngine
 CFG Configuration Syntax Highlighting
+CFML
 CFMLDocPlugin
 CForm
 CFos ml syntax
 CHeaders
 CJSX Syntax
 CLIPS Rules
+CMB snippets
 CMS Made Simple Snippets
 CMSSWLookup
 CMake
 CMakeEditor
 CMakeSnippets
+CNC BoschRexroth MTX
+CNC SINUMERIK 840D language support
 CNPunctuationAutopair
 COBOL Syntax
 COLT
 CQ Clientlibs Syntax Highlight
 CQ5Saver
+CSON Converter
 CSPM
 CSS Auto Commenting
 CSS Color Converter
@@ -351,6 +418,7 @@ CSS Primer
 CSS RTL generator
 CSS Selector Reveal
 CSS Snippets
+CSS Table of Contents
 CSS To SASS And Stylus Converter
 CSS Unminifier
 CSS-On-Diet
@@ -365,20 +433,20 @@ CSSTidy
 CSScheme
 CSScomb
 CSScomb Alpha Sort
-CSSfmt
 CSV
 CSharpreter
 CTags
 CTags for PHP
 CUDA C++
+CUDA Snippets
 CUE Sheet
+Cadence Skill
 CakePHP (Native)
 CakePHP (tmbundle)
 Calculate
+Calculate Relative Path
 Calendar Week
-Camaleon
 Can I Use
-CanISwitchToSublimeText3
 CanJS-Snippets
 Caniuse_local
 Canvas Snippets
@@ -390,27 +458,32 @@ Capybara Snippets
 Carto
 Case Conversion
 CasperJS
+Catkin Builder
 Cdnjs
 Ceedling
 Ceer
 Center Comment
+Cert Tools
 Cexio-ticker
 Cfengine_beautifier
 Cfserver
 Chai Completions
 Chain of Command
+Chains
 Change Tracker
 ChangeList
 ChangeQuotes
 ChannelRepositoryTools
+ChapelLang
 Chaplin.js
 Char Value
 Character Table
-Chatscript Syntax
+Charcoal
+ChatScript Syntax
 Cheat Sheets
 Cheater
+Cheatsheet
 Cheatsheets Rails
-CheckBounce
 CheckTypos
 ChecksumUPC
 CheerfullyDark
@@ -418,42 +491,50 @@ Cheetah Syntax Highlighting
 Chef
 ChefEncryptedDataBag
 ChefSpec
-ChineseLocalization
+Chinese-English Bilingual Dictionary
+ChineseLocalizations
 ChineseLoremIpsum
 ChineseOpenConvert
+ChineseTranslator
+Chipper
 Chmod
 Choice Script
-Chopstick Autocompletion
 ChordPro
 Chouku Color Scheme
 Chrome Apps and Extensions
 Chrome Refresh
+Chrome Snippets
 ChromeExtensionI18nHelper
 Chuby Ninja Color Scheme
 ChucK Syntax
+Chunks
 Ciapre Color Scheme
+CircleCi Status
 Cirru
 Cisco Syntax Highlighter
 CiteBibtex
 Citer
+Civic Color Scheme
 Clafer Tools
 Clang Format
 Clang-Complete
 ClangAutoComplete
 Clarion
+Class Navigator
 ClassHierarchy
 ClassName
 Clay Schubiner Color Schemes
 CleanCSS
 Clear Dirty Flag
+ClearConsole
 Click
+Clickability Velocity
 Clickable URLs
 Clientside
 Clipboard Diff
 Clipboard History
 Clipboard Manager
 Clipboard Path
-ClipboardCommands
 ClojureDocSearch
 CloneFile
 Close Oldest File
@@ -465,13 +546,20 @@ CloseTabsLeft
 ClosureMyJS
 Clouds Color Schemes
 Cloudup
-Cndict
+Coala
+Coati
+Cobalt2 Flat Theme
+CoberturaCoverage
 Cobra
 Coco R Syntax Highlighting
+Coconut
 Cocos2d lua api
+Cocos2dx js api
 CocosRubyEditor
+Coda Redux
 Code Alignment
 Code Cast
+Code Champion
 Code Foo
 Code Preview
 Code Runner
@@ -485,9 +573,11 @@ CodeIgniter Snippets
 CodeIgniter Utilities
 CodeKit
 CodeKit Commands
+CodePresenter
 CodeRunner - Color Scheme
 CodeSearch
 CodeTestSwitcher
+CodeTimeTracker
 CodeWrapper
 Codebug
 Codec
@@ -496,7 +586,6 @@ Codecs26
 Codecs33
 Codeigniter Codeintel Helper
 Codeivate
-Codepad.org Paste Plugin
 Codic
 Coffee Color Scheme
 Coffee Formatter
@@ -510,6 +599,8 @@ CoffeeScriptHaml
 ColdBox Platform
 ColdFusion
 ColdFusion Docs Launcher
+Collider Snippets
+ColobotSyntaxHighlighting
 Color Highlighter
 Color Scheme - AmyCable
 Color Scheme - Baara Dark
@@ -529,15 +620,18 @@ Color Scheme - Thunderstorm
 Color Scheme - Vintage Terminal
 Color Scheme - Yotsuba
 Color Scheme - saulhudson
+Color Schemes - Wicked Schemes by b0xw00d
 Color Schemes by carlcalderon
 ColorHelper
 ColorPick
 ColorPicker
 ColorSchemeEditor
 ColorSchemeSelector
+Color_scheme_unit
 Colorcoder
 Colorsublime
 Colour Complete
+Columbus Syntax
 Column Select
 Column Sort
 CombineAndMinify
@@ -545,6 +639,7 @@ CombineMediaQueries
 Combyne
 Command Help
 CommandOnSave
+Commandbox
 Commando
 Comment-Snippets
 CommentAnyWhere
@@ -556,21 +651,27 @@ Compadre Ipsum Snippet
 Compare Side-By-Side
 Compass
 Competitive Programming
+Compile Jasper Template
 Compile Selected ES6
 CompleteSharp
 Composer
 Compressor
 ComputerCraft Package
 ConEmuOpen
+Conditional ColorSchemes
 Configify
+Confluence
 Conky.tmLanguage
 Console API Snippets (JavaScript)
 Console Exec
 Console Wrap for js
+Contao Front-End Snippets
 Context
 ContextBuild
 ContextualMove
 ControlScroll
+ConvertChineseCharacters
+ConvertFullHalfWidth
 ConvertJaZenHan
 ConvertToUTF8
 Cool
@@ -585,6 +686,7 @@ Copy PHP Namespace
 Copy Python Path
 Copy Relative Path
 Copy from Find Results
+Copy on Select
 Copy to HipChat
 CopyEdit
 CopyToSharePointRoot
@@ -592,24 +694,30 @@ CopyWithLineNumbersReloaded
 CopyWithQuotes
 Coq
 Coral
+Core dna snippets
 CoreBuilder
 Corona Editor
 Cortex
 Cotonti
 Cowsay
+Cp2k-syntax
 CppBuilder
 Craft Development Snippets
 Craft-Twig
 Create Backup Copy
+Create Js Completions
 Create Save Prompt
+CreativeCrocodile
 Creole
 Crestron
 Crontab Syntax
 Crypto
 Crystal
 Cscope
+Cslint
 CssDOC
 Csslisible
+Cssnext
 CthulhuDolorem
 Ctranslator tool
 Cube2Media Color Scheme
@@ -637,15 +745,17 @@ Cython+
 ======
 D Programming Language
 D3.js Snippets
-DB1
+DBLP
 DBLP Search
 DBTextWorks
 DCPU-16
 DFML (for Dwarf Fortress raws)
 DFormat
+DIBOL Programming Language
 DLX Syntax
 DNS Lookups
 DRAMA Syntax Highlighter
+DW Site Tools
 DXL
 Dafny
 Danmakufu
@@ -653,12 +763,14 @@ Dark Fusion Color Scheme
 Dark Neon Color Scheme
 Dark Pastel Color Scheme
 DarkLime Color Scheme
+DarkMosquito Color Scheme
 Darkula Color Scheme
 Dart
 Darwin
 DashDoc
 Dashed Comments
 DataConverter
+Dataiku
 Date
 Date Formatter
 Dayle Rees Color Schemes
@@ -671,6 +783,7 @@ Delete Current File
 Delete Lines
 Delete on Error Color Scheme
 DeleteBlankLines
+Delphi IDE
 Delphi Style Bookmarks
 Delphi Syntax Highlighting
 Demain Color Scheme
@@ -682,30 +795,40 @@ Desert Night Color Scheme
 DevDocs
 Devastate
 DevastateMini
+Deviot
 Devrabbit Paste
 Diction
-Dictionaries
 DictionaryAutoComplete
+DiffTabs
+DiffView
 Diffy
 Dilmes Ipsum
 Dimmed Color Scheme
+DirectEdit
 Directory Settings
 Direnv
 DisableArrowKeys
+Disk Inventory X
 Display Functions (Java)
 DistZilla Build
 DistractionFreeWindow
+Distractionless
 Djaneiro
 Django
 Django Click
+Django Lookup Snippets
 Django Manage Commands
 Django Starter
+Django Tags
 Django-DocsSearch
 Django-Tools
 DjangoNoseTestRunner
 DoTjs Template Syntax Highlighting
 DobDark Color Scheme
 DocBlockr
+DocBlockr_Python
+DocBlockr_with_update_capability
+DocPHPManualer
 DocPy
 Docker Based Build Systems
 Dockerfile Syntax Highlighting
@@ -715,6 +838,8 @@ Dog Ears
 Dogs Colour Scheme
 Doi2bibSublime
 DokuWiki
+DokuWiki Syntax
+DotENV
 DotNetComments
 DotNetNuke Snippets
 Dota KV
@@ -741,6 +866,8 @@ DrupalContribSearch
 Drush
 Dummy Image Generator
 DummyData
+Duotone Dark Red
+Duotones Colorschemes
 Duplicate Lines
 Duplicate Same
 DuplicateSelections
@@ -758,19 +885,29 @@ ECSStractor
 ECT
 EDN
 EJS
+EJS 2
+EML (E-Mail)
+EON JS snippets
+EPL
 EPM
-EPub
 ERB Autocomplete
 ERB Snippets
 ES6-Toolkit
+ESLint
+ESLint-Formatter
+ESLintAutoFix
 ESOLua
 ESP (EcmaScript Pages) Edit Mode
+ESpec
 ETPL
 EZ Publish Syntax
 EZWebSequenceDiagrams
 Easy Digital Downloads
+Easy Import
 Easy Open
 Easy Siebel
+EasyCatalog
+EasyClangComplete
 EasyDiff
 EasyElement
 EasyMotion
@@ -782,10 +919,14 @@ Echo Evaluator
 EclipseJavaFormatter
 Ecmascript Syntax
 Eco
+EddyMalou LoremIpsum
+Edge Theme Addon - Linter Theme
+EdifactHighlighter
 Edit Command Palette
 Edit History
 Edit Preferences
 EditorConfig
+EditorConfigSnippets
 ElasticTabstops
 ElasticsearchClient
 Element Finder
@@ -794,11 +935,15 @@ Elixir
 ElixirPlayground
 ElixirSublime
 Elm Language Support
+Elm Snippets
+Eloquent Snippets
 Emacs Tabstops
 Emacs-like Modelines
 Ember CLI Snippets
+Ember Template Component Split View
 Ember.js Snippets
 EmberScript
+EmberToolBox
 Emblem.js Syntax Highlighting
 Emmet
 Emmet Css Snippets
@@ -806,25 +951,28 @@ Emmet Style Reflector
 EmmetOneLine
 EmoKid Color Scheme
 Emoji
+Emoji Code
 EmotiCODE
-EncodingHelper
 Energy Color Scheme
 Enhanced Clojure
 Enhanced HTML and CFML
 EnhancedReadline
+Enki Theme
 Enlightened Color Scheme
 Enlister
 Ensime
 Entheogen Color Scheme
 Entropy
 Entypo Completions
+Environment Settings
+Equalize
 Erato Markdown
 ErlDoc
 Erlyman
 EsFormatter
-Escape &amp; unescape tool
 Esuna Framework Snippets
 Ethereum
+Eval
 Eval Sel
 EvalPrinter
 Evaluate
@@ -835,6 +983,7 @@ Everything Search
 Exalt
 Example Overflow
 ExcelExec
+Exclude Paths
 Exec In Window
 Exec Parser
 Expand Group
@@ -844,6 +993,7 @@ Expand Selection to Line Before
 Expand Selection to Quotes
 Expand Selection to Whitespace
 Expand Tabs on Save
+ExpandCMacro
 ExpandRegion
 Expect
 ExportHtml
@@ -857,6 +1007,7 @@ ExtendScript
 ExtendedTabSwitcher
 External Command
 External REPL
+External_Programs
 Extract Sublime Package
 Extract Text to File
 
@@ -864,6 +1015,7 @@ Extract Text to File
 ======
 F#
 F2J - FCore to Java
+F5 iRules
 FASM x86
 FAlign
 FBP
@@ -879,12 +1031,12 @@ Facebook Material Theme
 FactoryGirl
 Factus 12C Color Scheme
 Failcoder Color Scheme
-FakeDataGenerator
 FakeImg Image Placeholder Snippet
 FakeImg.pl Image Placeholder Snippet
 Falcon
 Famous
 Fancy Projects
+Fantom
 FarCry
 FastSwitch
 Fat-Free Framework Snippets
@@ -892,8 +1044,8 @@ Fate
 FavoriteFiles
 Fb-Flo
 Feature Presentation
-Fecoding
-FeelingLucky
+Feedwhack
+Felix
 Fenom
 Ferm Syntax
 Fex
@@ -914,6 +1066,7 @@ FileDiffs
 FileFinder
 FileHeader
 FileList
+FileMerge
 FileModifyStatus
 FileOpTabContextMenu
 FileReloader
@@ -929,17 +1082,19 @@ Filter Lines
 FilterPipes
 Find Function Definition
 Find Non ASCII Characters
+Find Yaml Anchor
 Find++
 FindCursor
 FindDoc
 FindKeyConflicts
-FindResultsApplyChanges
 FindSelected
 FireCode Color Scheme
 Firebase Snippets
-Firelime
+Firewatch Color Scheme
 Fis
 Fish-shell
+FishTank
+Five_easy_color_schemes
 Fix Mac Path
 FixMyJS
 Fizzy Theme
@@ -949,39 +1104,50 @@ Flask Starter
 Flat Chameleon
 Flat Colors
 Flatron
+Flexbox Snippets
 Flight JS Snippets
 FloScript
 Floobits
 Flow
 Flow Built-In Type Completion
+FlowIDE
+Flowstate
 Fluent-logger
 Fluentd
 Flux Snippets
+Fn
 Focus
 Focus File on Sidebar
 Focus Last Tab
 Fold Comments
+Fold Javascript Functions
 Fold Python
 Fold Python Docstrings
 Folder List
+Folder2Project
 FolderAlias Rename Tool
 FolderFiles
 FolderTouch
 Follow Function PHP
 FontCycler
+Format JSDoc @params
 Format SQL
 FormatLua
 Fortify Highlighter
 Fortran
 Foundation 5 Snippets
+Foundation 6 Autocomplete
 Foundation Snippets
 Fountain
 Fountainhead
 Four Spaces JavaScript (snippets)
 FoxCode
 FramerCompletion
+FrancaIDL
 FreeMarker
+Freya
 Front End Snippets
+Front-end Project Snippets
 Frontend Light Color Scheme
 Fugly Syntax Highlight
 Full House Color Scheme
@@ -1000,15 +1166,19 @@ G-code Syntax Highlighting
 GAMS language
 GAS-x86 (or x64) highlighting scheme
 GBK Encoding Support
+GBK Support
+GCC Assembly Listing
 GDL
 GDScript (Godot Engine)
+GISDK
 GL Shader Validator
+GLSL Compiler
 GLSL Validator
 GM Syntax
 GMod Lua
 GN
+GNU Octave Completions
 GPD
-GPG
 GSAP Snippets
 GSP Snippets
 GTKDarkThemeVariantSetter
@@ -1016,11 +1186,13 @@ GTags
 GYP
 Gaelyk
 Galen
+Galen v2+
 Galil DMC language
 Game of Life
 Gauche
 GearboxSencha
 Gem Browser
+Gemma
 GenExpr
 Generate Password
 GenerateUUID
@@ -1042,8 +1214,8 @@ Git Commit Message Syntax
 Git Config
 Git Conflict Resolver
 Git GUI Clients
+Git Message Auto Save
 Git Mode
-Git-StatusBar
 GitAutoCommit
 GitCommitMsg
 GitDiffHelper
@@ -1053,13 +1225,18 @@ GitGutter-Edge
 GitHub Flavored Markdown Preview
 GitHub Markdown Snippets
 GitHub.app Menu
+GitHubIssue
 GitHubinator
 GitLink
 GitOpenChangedFiles
 GitSavvy
 GitStatus
+GitStatusBar
 GitSyntaxes
+GitTimeMetric
+GitUp
 Github Color Theme
+Github Search
 Github Tools
 GithubEmoji
 Gitignore
@@ -1070,20 +1247,27 @@ GlassIt
 Glorified Copy &#x27;n&#x27; Paste
 GlslViewer
 Glue
-GmESSI-gmsh Tools
+GmESSI-Tools
+Gmail
+Gmsh-Tools
 Gnuplot
 Go Build
 Go Coverage
+Go Playground
 Go To Definition
 Go To Node Module Homepage
 Go Toggle Declare
+GoEscape
 GoFindCallers
 GoGdb
+GoGuru
 GoImports
 GoOracle
 GoRazor
-GoSnippets
+GoRename
 GoSublime
+GoTags
+GoTests
 GoToAnchor
 GoToClass
 GoToDoc
@@ -1095,11 +1279,13 @@ GoTools
 Gocc BNF Syntax
 Godef
 Golang Build
+Golang Tools Integration
 Golden Dragon Color Scheme
 GoldenRatio
 Google Apps Scripts
 Google Closure Library snippets
 Google Closure Template snippets
+Google Dictionary
 Google Reader
 Google Search
 Google Spell Check
@@ -1108,10 +1294,13 @@ Google Translate
 Goto Bootstrap
 Goto Drupal API
 Goto Folder
+Goto Related
 Goto Tab
+Goto Usage
 Goto-CSS-Declaration
 GotoCharacter
 GotoDocumentation
+GotoEndOfLineOrScope
 GotoLastEditEnhanced
 GotoLineEnhanced
 GotoRecent
@@ -1120,28 +1309,32 @@ GotoTab
 GotoWindow
 Gourmet
 Grace
+Graciela
 Gradle_Language
 Grails
 Grammatical Framework
 Grandson-of-Obsidian
+GraphQL
 GraphvizPreview
 Grasp
 GraveSkip
 Greek Letters
 GreekTeX
 Gregorio
+Gremlins
 Grep Code Search
 Grepmark
 Greybeard theme
-Grid6
 GridlabD
 Grocery Crud Snippets myIgniter
 Groovy Imports
 Groovy Snippets
+Groupie
 Groupy
 GrowlNotifier
 Grunt
 Grunt Snippets
+Gruvbox
 Gruvbox Dark
 Guard
 GuardHelpers
@@ -1151,11 +1344,14 @@ Gutter Themes for SL
 
 ---> H
 ======
+HDLProject
 HIVE Log File
 HL7
 HMMM
+HMpTy Snippets
 HOCON Syntax Highlighting
 HSP
+HTML (C#)
 HTML Boilerplate
 HTML Compress and Replace
 HTML Compressor
@@ -1163,11 +1359,13 @@ HTML Crush Switch
 HTML Email Snippets
 HTML Export
 HTML Extended
+HTML Head Snippets
 HTML Minifier
 HTML Mustache
 HTML Nest Comments
 HTML Page Snippets
 HTML Snippets
+HTML Typographer
 HTML Underscore Syntax
 HTML-CSS-JS Prettify
 HTML2Haml
@@ -1195,6 +1393,7 @@ Handlebars
 HaoGist
 Haoide
 HapoItak
+Haproxy
 Harmonious Color Schemes
 Haroopad Markdown
 Harper Color Scheme
@@ -1202,7 +1401,6 @@ Harvey
 Hasher
 Hashids
 Haxe
-Haxelang
 Hayaku - tools for writing CSS faster
 Header Creator
 Helios
@@ -1215,11 +1413,14 @@ HexViewer
 Hexcode
 HextoASCII
 Hg4subl
+HgCommitMsg
 Hide Files
 Hide Menu
+Hide Sidebar When Not Focussed
 Hide Tabs
 Highlight
 Highlight Build Errors
+Highlight Dodgy Chars
 Highlight Whitespaces
 HighlightDuplicates
 HighlightWords
@@ -1244,14 +1445,17 @@ HostsEdit
 Hot Dog Stand
 Hound Search
 How Do I Code Search
+How2
 HtmlTidy
 Http Requester
 HttpStatusCode
 Huely Palette Extractor
 Hugofy
+Hungry Backspace
 Hybris Impex Syntax
 Hyle
 Hyojun.couch-bootstrap Snippets
+HyperClick
 Hyperion for gettext
 HyperlinkHelper
 Hyperloop EJS
@@ -1282,6 +1486,8 @@ IPS Syntax
 IPython Notebook
 IPython Pick
 IRC
+IReset
+IRules
 ISML
 ITDCHelper
 ITodo
@@ -1289,6 +1495,7 @@ ITunes
 IceWorld Color Scheme
 IcedCoffeeScript
 Icon Fonts
+Icon Fonts (Legacy)
 Iconfont snippets
 Idiomatic-CSS-Comments-Snippets
 Idoc
@@ -1297,10 +1504,13 @@ Iifefy
 Image2Base64
 Image2tag
 ImageMagick
+ImagePaste
 Imba
 ImgHolder
 ImpactJS
+ImportJS
 ImprovedSQL
+ImsiEncoder
 InQlik-Tools
 InactivePanes
 Inc-Dec-Value
@@ -1322,6 +1532,7 @@ Inline Calculator
 Inline Google Translate
 Inline Python
 Inno Setup
+InputArgs
 InputHelper
 Insert Callback
 Insert Equation
@@ -1330,11 +1541,13 @@ Insert Nums
 Insert to Column
 InsertDate
 Inspired GitHub Color Scheme
+InstaGoogling
 Instacode
-IntelXDK
+Intel HEX
 IntelliDocs
 Intellitip
 InterSystems Cache
+Interactive Data Language (IDL)
 Internet Search
 Interpol
 Invert Selection
@@ -1354,6 +1567,7 @@ Ixio
 ---> J
 ======
 J Language
+JCShell Tools
 JCommander
 JDebug
 JEdit Color Theme
@@ -1369,7 +1583,6 @@ JS Coverage
 JS Minify
 JS Snippets
 JS Var Shortcuts
-JS-firebug
 JS2Coffee
 JSCS-Formatter
 JSHint
@@ -1377,6 +1590,7 @@ JSHint Gutter
 JSHint Inline
 JSLint
 JSML Formatter
+JSON L18n Resources Editor
 JSON Reindent
 JSON to CSV Converter
 JSON-Template
@@ -1384,6 +1598,7 @@ JSONLint
 JSTL autocomplete
 JSTL syntax
 JSX
+JUnit Completions
 JXA Build System
 Jack
 Jade
@@ -1397,7 +1612,9 @@ Japanize
 Jasmin JVM Assembler
 Jasmine CoffeeScript
 Jasmine JS
+Jasmine Matchers ES6 Snippets
 Jasmine Matchers Snippets
+Jasmine Overview
 Jasmine Promise Matchers
 Jasmine Scaffold
 Java Bytecode
@@ -1435,10 +1652,11 @@ JoinAssignment
 JoinChainCall
 JoinLinesEnhanced
 JoinStatement
-Jolie Language
+Jolie
 Joomla! 3.x Snippets
 Jrnl
 JsBDD
+JsDebuggr
 JsFormat
 JsMinifier
 JsRun
@@ -1449,7 +1667,6 @@ Jsimports
 JsonTree
 Jsrevival
 Julia
-JuliaCompletions
 Jump Along Indent
 JumpTo
 Junos
@@ -1460,16 +1677,23 @@ Justify
 ---> K
 ======
 K Framework
+KABEMS
 KCPS Theme
 KISSY Snippets
 KIXtart
 KRL (Kinetic Rule Language) Syntax
 KRL (Kinetic Rule Language) Validator
+KSP (Kontakt Script Processor)
 KWrite Color Scheme
+Kahlan PHP Snippets
+KanaKana
 Kaneva API (KPI) Completions
+Kconfig Syntax Highlight
 Keep Open On Last Tab Close
 Kellys Color Scheme
 Kerbal Space Program Configuration Syntax
+KeybindingHelper
+KeyboardSelection
 KeyboardSpellCheck
 Keymap Redefiner
 KeymapEnhanced
@@ -1484,8 +1708,11 @@ KnifeSolo
 Knitr
 Knockdown
 KnowledgeBase
-Koan
+KoLMafia ASH Syntax
+Koala
+Koala - Snippets
 Kodery
+KodiDevKit
 Kohana
 Kohana 2.x Snippets
 Kohana 3 Snippets
@@ -1494,10 +1721,12 @@ Kotlin
 Kraken Snippets
 Kroman
 Kulture
+Kustom Color Schemes
 
 ---> L
 ======
 L2U AutoComplete
+LC-2K Assembly
 LC3 Assembly
 LC4 Assembly Syntax
 LD library Path
@@ -1506,25 +1735,30 @@ LESS
 LESS-build
 LFE
 LLVM
+LLVM TableGen
 LPC
 LPrint
 LSL
 LaTeX Accents
 LaTeX Blindtext
+LaTeX Equation Preview
 LaTeX Snippets
-LaTeX Track Changes
 LaTeX Word Count
 LaTeX-IPA
-LaTeX-Plus
 LaTeX-cwl
+LaTeXBox
 LaTeXSmartQuotes
 LaTeXTab
 LaTeXTools
+LaTeXZeta
 LaTeXing
 Lambda Substitution
+LangDocs
 Language - French - Fran&#xE7;ais
 Language - Up-Goer-5
+Language 1C (BSL)
 LanguageInjector
+LanguageTool
 Laravel 4 Artisan
 Laravel 4 Facades
 Laravel 4 Snippets
@@ -1532,30 +1766,39 @@ Laravel 5 Artisan
 Laravel 5 Snippets
 Laravel Blade Highlighter
 Laravel Bootstrapper Snippets
+Laravel Cheat Sheet
 Laravel Color Scheme
 Laravel Forms Bootstrap Snippets
 Laravel Generator
+Laravel Helper Completions
+LaravelCollective HTML Form Snippets
+LaravelDumpMan
+Laroute
 Lasso
 LastEdit
 LastModifiedIndicator
 Lay-out Syntax
 Laynger
+Layout
 Lazy Backbone.js
 LazyTimeTracker
+Leaf
 Leanpub
+Lebab
 Ledger syntax highlighting
 Legal Document Creator
 Legal Document Snippets
 Leiningen
 Less Tabs
 Less2Css
+LessImproved
 Lessc
 Lessy
-Lestle
 LettuceFarmer
 Levels
 Liberty
 Libraries from CDN
+Libsass Build
 Licence Snippets
 Lift Snippets
 Lifted Color Scheme
@@ -1563,11 +1806,13 @@ LightPaper Markdown
 Lightning
 Line Completion
 Line Endings Unify
-LineEndings
 LineJumper
 LineProfiler
 LinkOpener
+LinkerScript
+LinqPad
 LioshiTheme
+Lipsum Chinese
 Liquid
 Lispindent
 List LESS Variables
@@ -1576,6 +1821,7 @@ List2csv
 ListOpenFiles
 Listenr
 Lithium Snippets
+LiveReload
 LiveReloadMake
 LiveScript
 LiveStamps
@@ -1586,9 +1832,14 @@ Local History
 Local Packages
 LocalVariable
 Locales
+LocalizedMenu
 Locate
 LockTab
+Lodash Completions
 Lodash modules snippets
+Lodestone Color Scheme
+Log Highlight
+LogMagic
 LogView
 Logger Snippets
 Logging Control
@@ -1603,13 +1854,17 @@ LoremGibson
 LoremIpsum
 LoremPixel
 LoremText
+LsBookmarks
 Lua Dev
 Lua Love
 LuaAutocomplete
+LuaExtended
+LuaJumpDefinition
 LuaProjectHelper
 LuaSimpleComplete
 LuaSmartTips
 Lucario Color Scheme
+Lucky Link
 Ludik
 Ludum Dare Countdown
 LufylegendDev
@@ -1618,22 +1873,27 @@ LyxMath
 ---> M
 ======
 M3U Syntax
+M4Expand
 M68k Assembly
 MB Warband API
+MBXTools
 MCA Language
 MDL Language
 MDN Search
 MDN Search Doc
 MFScript
 MIPS Syntax
+MIST
 MIT_Alloy
+MJML-syntax
+MLFi
 MODX Placeholder Snippets
 MODx Revolution Snippets
 MSBuild
+MSBuild selector
 MTML Completions
 MXUnit
 MacDown App Menu
-MacTerminal
 Macroptimize
 Madebyphunky Color Scheme
 Magento - TemplateCopy
@@ -1643,6 +1903,7 @@ MagicPython
 MagiclessQuotes
 Magma
 MagmaSnippets
+Make Bookmarklet
 Make File Executable
 MakeCommands
 MakeExecutable
@@ -1651,25 +1912,31 @@ Makefile Plus
 Makensis
 Mako
 Man Page Support
+Mandarin Peacock Color Scheme
 ManiaScript
 MantisBT
 Map Snippets
 Maperitive
+MapfileSyntax
+Marc Mentat Proc Highlighting
 MarieAssembly
 MarkAndMove
 MarkLogic
 MarkPress
-Markboard
 Markboard3
+Markdeep
 Markdown Extended
 Markdown HTML Preview
 Markdown Preview
 Markdown Slideshow
+Markdown Table Formatter
 Markdown Todo
 Markdown to Clipboard
 MarkdownBuild
 MarkdownCodeBlockWrapper
 MarkdownEditing
+MarkdownFootnotes
+MarkdownHighlighting
 MarkdownLight
 MarkdownTOC
 Marked App Menu
@@ -1677,17 +1944,22 @@ Marking Changed Rows
 Markmon real-time markdown preview
 Marko
 Marksy Convert
-Markup Jira Confluence
 Mask
 MasmAssembly
 Mason
+Match
 Material Color Scheme
+Material Nil
 Material Theme
+Material Theme - Appbar
 Material Theme - White Panels
 Materialize
+Materialize-Appbar
+Materialize-White-Panels
 Materialized CSS Snippets
 Matlab Completions
 MatlabFilenameAutoComplete
+MatrixList Snippets
 Matrixify
 Maude Syntax Highlighting
 Maven
@@ -1696,10 +1968,10 @@ MaxPane
 MayaSublime
 Maybs Quit
 Maze Syntax
+Meav
 MediaPlayer
 Mediawiker
 Melbourne Ipsum
-Meld diff
 MemTask
 Mercurial
 Mercurial for Sublime
@@ -1714,17 +1986,24 @@ MetaQuotes (MQL4) Language Package
 Meteor Autocomplete (TernJS)
 Meteor Snippets
 Method
+Micro16 Syntax
+Microbit Build System
 MikrotikScript
+Milotic
 Mimosa
 Mina
 Minecraft Command Format
+MinecraftCommandCode
 MiniPy
+MiniZinc Language
 Minifier
 Minify
 Minify JS To Clipboard
+Minify on Save
 MinimalFortran
 Miniscript
 MinkExtension default feature step completions
+Minteresting
 Mirodark Color Scheme
 Missing Palette Commands
 Mistral
@@ -1745,12 +2024,16 @@ ModernPerl
 Modific
 ModoPluginBuilder
 Modula-2 Language Syntax
+ModxElements
 Mojolicious
+Molokai
 Monarch
 MongoDB - PHP Completions
 MongoExec
 Mongomapper Snippets
 Mongoose CoffeeScript
+Monkberry
+MonkeyC
 MonoRun
 Monochrome Color Schemes
 Monocyanide Colorscheme
@@ -1760,31 +2043,37 @@ Monokai Extended
 Monokai Gray
 Monokai JSON+
 Monokai Neue
+Monokai Rich
 Moo
 Moodle Completions
 MoonScript
 Moonscripty
 Mootools Snippets
 More Layouts
+More Python Completions
 Morse
 Morse Code for Foundation
 Mote
 MotionLookitup
-Mou Markdown App (OSX)
 MouseEventListener
 Move By Paragraph
 Move By Symbols
 Move Tabs
 MoveTab
 MoveText
+MozillaQuery
+Mp3Player
 Mplus
 MrIgor
 Mreq Color Scheme
 Mscgen
+Multi Select Alphabetizer
+Multi line paste
 MultiEditUtils
 MultiFill
 MultiLang Color Scheme
 MultiTaskBuild
+Multibyte Word Separators
 MultipleSelectionScroller
 Mussum Ipsum
 Mustang Color Scheme
@@ -1802,7 +2091,6 @@ NASM x86 Assembly
 NCL
 NESASM
 NFO
-NP-Complete
 NPMInfo
 NRepeat
 NSIS
@@ -1812,13 +2100,16 @@ NSIS for Translators
 NSOA
 Named (Bind) Helpers
 NamedMark
+Naomi
 Nasl
 NativeScript Snippets
 NaturalDocs
+Nav Panel
 Navigation History
 Nbspr
 Neat Sass Snippets
 Neka Theme
+Neko nml syntax
 Nemerle
 NemoDreaming
 Neon Color Scheme
@@ -1827,21 +2118,27 @@ Neopolitan
 NestedSnippet
 NestingSnippet
 NetLinx
+NetLogo Syntax
 NetSuite Bundle
 Nette
+Nette + Latte + Neon
 Nettuts+ Fetch
 Neutron
 Neverwinter Script syntax and build
 New Moon Color Scheme
 New from Selection
 Ng-snippets
+NgAnnotate
 Ngdoc snippets
 Nginx
 NightCycle
 Nightwalker Color Scheme
 NimLime
 Ninja
+Nirum
+NitSyntaxHighliter
 Nix
+NoDialogs
 NoTutorial
 Nocturnal Color Scheme
 Node Assert Snippets
@@ -1851,11 +2148,15 @@ NodeRequirer
 Nodejs
 NodejsLauncher
 Non Text Files
+Norber Theme
+Normal Mode
 Normalize Indentation
 Not that useless project report
 Notes
 Notifications
+Nova Theme
 Npackd
+Npc_sheets
 Npm
 NsL Assembler
 NuGet
@@ -1883,10 +2184,13 @@ Obsidian Color Scheme
 Occur
 Oceanic Color Scheme
 Oceanic Next Color Scheme
+Oceanic Next Italic Color Scheme
+Octo
 OctoTool
 Octopress
 Octopress Snippets
 Oddly
+Odoo Snippets
 OfLang
 Ogre Scripts Highlighting
 Ohdeung-eun
@@ -1894,9 +2198,12 @@ OmniDocs
 OmniMarkupPreviewer
 OmniSharp
 OmnisStudioHighlighter
+OmnisStudioIndenter
+On Save
 One Command Syntax Highlighter
 One Dark Color Scheme
 One Dark Material - Theme
+One Half Color Schemes
 OnlineSearch
 OnlyCss Snippets
 Opa
@@ -1911,6 +2218,7 @@ Open Search in a New Tab
 Open Shading Language
 Open TortoiseHg
 Open URL
+Open With
 Open in ConEmu
 Open in Default Application
 Open in Nautilus
@@ -1918,7 +2226,6 @@ Open in Relevant Window
 Open in Thunar
 Open in Total Commander
 Open project path by shortcut
-Open-Include
 Open-sesame
 OpenBSD PF conf syntax highlight
 OpenCL
@@ -1927,6 +2234,7 @@ OpenEdge ABL
 OpenFromPath
 OpenGL Shading Language (GLSL)
 OpenInBrowser
+OpenLastRPT
 OpenPath
 OpenResty lua snippets
 OpenScad
@@ -1934,18 +2242,23 @@ OpenSees
 OpenType Feature Bundle
 Oracle PL SQL
 Orbit Color Scheme
+Orchid Color Scheme
+Org_agenda
 Orgmode
 Origami
 OrigamiEmacs
+Outline
 Outroot Color Schemes
 Owl Color Scheme
 
 ---> P
 ======
+P4 Syntax Highlighter
 P4Gutter
 P4Sublime
 PDB Finder
 PEG.js
+PEGjs CoffeeScript
 PEGjs LiveScript
 PEPE Assembly
 PHP Built-in WebServer
@@ -1955,6 +2268,7 @@ PHP Comment Wrap
 PHP Companion
 PHP Completions Kit
 PHP Constructors
+PHP Faker Completions
 PHP Form Builder
 PHP Getters and Setters
 PHP Haml
@@ -1972,9 +2286,11 @@ PHPTools
 PHPUnit
 PHPUnit Completions
 PHPUnit Snippets
+PICO-8
 PKGBUILD
 PKs Color Scheme
 PM2-Snippets
+PPCL Language Syntax and Editor
 PSLHighlight
 Package Bundler
 Package Control
@@ -1982,12 +2298,15 @@ Package Coverage
 Package Reloader
 Package Snippets
 Package Syncing
+PackageDev
+PackageReloader
 PackageResourceViewer
 PackageSync
 PackageTesting
 Pad
 Padawan (PHP completion)
 PageLines Snippets
+Panda Syntax Sublime
 Pandoc
 Pandoc (Markdown)
 Pandoc Academic
@@ -1996,14 +2315,18 @@ Pandown
 Pane Navigation
 Pane Resizer
 Panezr
+Panstamps Snippets
 Pants Build
 Papyrus
 Papyrus Assembly
+Paradox
 Paraiso Black Color Scheme
 Paraiso Color Scheme
 Parallel Builder
 Paredit
 ParentalControl
+Parinfer
+Parquet
 Parva Syntax
 Pascal
 Pascal Snippets
@@ -2014,10 +2337,14 @@ Paste as Column
 Paste as One Line
 Paste to friendpaste.com
 Paste to paste.pm
+PasteAsString
+PasteRepeater
 PasteSelOnClick
 PasteWrap
 Pastebin-sublime-plugin
 Pastel Paws Color Scheme
+Pastery
+Patch Apply
 Path Tools
 Path Translator
 Path to File
@@ -2028,15 +2355,18 @@ PeopleCodeTools
 Perfect Code
 Perfectionist
 Perforce
+Perl Completions
 Perl-Test-Class
 Perl-Test-More
 PerlSubs
 PerlTidy
 Perldoc
+PersistentPython
 PersistentRegexHighlight
 Perv - Color Scheme
 PgSQL
 PgcliSublime
+PhJade
 Phabricator
 PhalconPHP Completions
 Phaser Snippets
@@ -2057,6 +2387,7 @@ PhpSpec Snippets
 PhpTidy
 Phpcs
 Phpfmt
+Phpunitkit
 Pipe Dream
 Placehold.it Image Tag Generator
 Placeholders
@@ -2074,10 +2405,14 @@ Pman
 PogoScript
 PokemonTeamSyntax
 Polyfill
+Polyglot Snippets
 Polymer &amp; Web Component Snippets
 Pomodoro
 Pony Language
+Poppins - Color Scheme
 Portage
+PostCSS Sorting
+PostScript
 Postap
 Poster
 PostgreSQL Syntax Highlighting
@@ -2090,18 +2425,17 @@ PowerShell
 Powershell Help Generator
 PowershellUtils
 Pre language syntax highlighting
-Preap
 Predawn
 Predawn Monokai
 Predawn Twilight Theme
 Preference Helper
+PreferenceSync
 Preferences Editor
 Premake
 Preset Command
 Pretty JSON
 Pretty Ruby
 Pretty YAML
-PreventFakeClones
 Preview
 Prevu
 Primitive Filler
@@ -2111,29 +2445,33 @@ ProcessWire Snippets - Basic
 Processing
 ProductiveSnippetsERB
 ProductiveSnippetsRuby
-Project Manager
 Project PHP ClassBrowser
+Project Planner
 Project Port
 Project Specific Syntax Settings
 Project Sync
 ProjectCompletions
 ProjectFiles
+ProjectManager
 ProjectSpecific
 ProjectTreeTemplater
 Prolog
 Promela_Spin
 Propel
 ProtoBufCodeFormatter
+Protobuf Syntax Hightlighting
 Protocol Buffer Syntax
-Prototypo Syntax Highlighting
+Pug
 Pumpkin Color Scheme
 Puppet
 Puppet Syntax checking
 PureCM
 PureCSS
 PureScript
+PurpleHaze
 Pushb
 Pushbullet
+PxRemTooltip
 PxToEm
 PyBuilder
 PyCover
@@ -2145,15 +2483,16 @@ PyRefactor
 PySide
 PyTags
 PyYapf Python Formatter
+Pygame Completions
 Pylinter
 Pymol Language
 PyroCMS Snippets
 Pytest Snippets
 Python 3
 Python Anywhere Editor
-Python Auto-Complete
 Python Breakpoints
 Python Checker
+Python Completions
 Python Create Package
 Python Fix Imports
 Python Flake8 Lint
@@ -2164,6 +2503,7 @@ Python Nose Testing Snippets
 Python Open Module (New)
 Python Output Format
 Python PEP8 Autoformat
+Python PEP8 Indent
 Python Path to Clipboard
 Python Pep8 Lint
 Python Pretty Print
@@ -2181,6 +2521,8 @@ PzFormat
 
 ---> Q
 ======
+Q KDB
+QLSyntax
 QML
 QMakeProject
 QSwitch
@@ -2188,7 +2530,6 @@ Qiita for Sublime
 Qooxdoo Tools
 Qt Completions for C++
 Quake3 Script
-QuarkPHP
 Quartz-Syntax
 Query Completions Silencer
 Quick Docs Launcher
@@ -2199,8 +2540,8 @@ Quick Look
 QuickCal
 QuickGotoAnything
 QuickLinks
-QuickMail
 QuickOpen
+QuickPanelEnhanced
 QuickPrint
 QuickRails
 QuickRef Command Lookup
@@ -2220,11 +2561,13 @@ R Tools
 R-Box
 R-snippets
 RAML Syntax Highlighter
+RDate Editor
 REBOL
 REG
 REM PX
 RESTer HTTP Client
 REXX
+ROBLOXLua
 RPM Spec Syntax
 RPN
 RSBIDE
@@ -2234,6 +2577,7 @@ RSpec
 RSpecNavigator
 RSync
 RVM
+R_comments
 Racket
 Rails Developer Snippets
 Rails File Switcher
@@ -2248,8 +2592,10 @@ Rails Status Snippets
 RailsBase16 Color Schemes
 RailsCasts Colour Scheme
 RailsEval
+RailsGoToSass
 RailsGoToSpec
 Railscasts Extended
+RainbowDrops Inspired - Color Scheme
 Rainbowth
 Rainmeter
 Rake
@@ -2264,9 +2610,13 @@ Razor
 Razor-tmpl
 Rbenv
 Rdio
+ReIndent
 ReaSyntax
+React Coffee Snippets
+React Development Snippets
 React ES6 Snippets
 React Templates
+React and React Router Snippets
 React-native-snippets
 ReactJS
 ReactJS Snippets
@@ -2276,7 +2626,9 @@ ReadmePlease
 ReadonlyProtect
 ReadonlyWritable
 Reaktoro
+RealityCheck
 RecentActiveFiles
+RecentTabSort
 RecenterTopBottom
 Recessify
 Red
@@ -2284,23 +2636,32 @@ Red Planet Color Scheme
 RedBeanPHP ORM Snippets
 Redacted
 Redlime
+Redmine Pastie
 Redux Snippets
 Refactor
 Reform
+Refresh File and Folders
 RegExLink
 RegReplace
+RegexExplainTip
 Reindent on save
+Rekit
 Related Files
+Rem-unit
 Remify
 RemoteCollab
+RemoteCpp
 RemoteEdit
 RemoteOpen
 RemotePHPUnit
+RemoveDuplicateCharacters
 RemoveSelection
 RenameTab
 Renpy Language
+Renpy Script
 Repeat Macro
 RepeatCommand
+ReqsLang
 Request
 Require CommonJS Modules Helper
 Require Helper
@@ -2318,11 +2679,16 @@ Revert All Files
 RevertFontSize
 Review Myself
 RhetosDSL
+RichTextFormat
+Riemann Completions
+Riot Syntax
 Riot Tag
+RiveScript
 Rmate
 RoboType
 Robot Framework
 Robot Framework Assistant
+Ros Snippets
 Rosetta Code Snippets
 Roy
 Rspec-snippets
@@ -2334,6 +2700,7 @@ RtagsComplete
 RuboCop
 Ruby Block Converter
 Ruby Blue Color Scheme
+Ruby Completions
 Ruby Coverage
 Ruby Debugger
 Ruby Extract Method
@@ -2357,13 +2724,14 @@ Run Apps
 Run In InDesign
 RunCommand
 RunMacroFileWithContext
-Rust
+Rust Enhanced
 Rust Share
 RustAutoComplete
-RustCodeFormatter
+RustFormat
 
 ---> S
 ======
+SAS Programming
 SASS Build
 SASS Snippets
 SBT Runner
@@ -2377,6 +2745,7 @@ SDLang
 SFTP
 SHARC or Blackfin DSP assembly highlighting
 SJSON
+SLAB
 SLAX
 SM RAD
 SML (Standard ML)
@@ -2385,9 +2754,12 @@ SPARQL
 SPARQL Runner
 SPIP
 SQF Language
+SQF for VBS3
 SQL (simple-db-migrate)
 SQLExec
 SQLPlus
+SQLTools
+SREC
 SRT
 SSE &amp; AVX Intrinsics
 SSH Config
@@ -2396,23 +2768,29 @@ ST2SyntaxFromFileName
 STProjectMaker
 ST_AWK
 SVG Icons
+SVG to JSX
 SVG-SMIL-Snippets
 SVG-Snippets
 SVN
 Sablecc-syntax
 Saccades
 Sail Color Scheme
+Sails Snippets
 Salesforce Reference
 SaltStack-related syntax highlighting and snippets
 Sandor&#x27;s Glowfish Colour Scheme
 SaneSnippets
+SashaSublime
 Sass
 Sass-Director
 SassBeautify
 SassBuilder
+SassSolution
+Sassy Comments
 Save Copy As
 Scaffolder
 Scaffolding
+Scala Snippets
 Scala Syntax
 ScalaFormat
 ScalaProjectGeneratorFacade
@@ -2432,6 +2810,7 @@ ScopeAlways
 ScopeContext
 ScopeHunter
 ScopeStatus
+Scrapy
 Scratch
 Scratchpad
 ScreencastDirector
@@ -2442,6 +2821,7 @@ Scriptogram
 Scroll Other Pane
 ScrollAlternative
 ScrollOffset
+Scuggest
 ScummC
 Search Anywhere
 Search CakePHP API
@@ -2456,14 +2836,15 @@ SearchPanelEnhanced
 Section Comment
 Seeing Is Believing
 Select By Regex
+Select Multi Lines
 Select Quoted
 Select all by current scope
+SelectExact
 SelectNextNumber
 SelectUntil
 Selection Evaluator
 SelectionRubyEval
 SelectionTools
-SelectionsToFiles
 Selector
 Selenium Snippets
 Semantic UI
@@ -2473,8 +2854,11 @@ Sencha
 Send To Sandbox
 Send by Mail
 Send to 3ds Max
+Send to Shell
+SendREPL
 SendText
-SendText+
+SendTextPlus
+SendToJsonBlob
 SendToPasteBin
 Sepiarize Color Scheme
 SequentialBuilder
@@ -2485,19 +2869,24 @@ SetDjangoSyntax
 SetSyntax
 Seti_UI
 Seti_UX
+SetlX Helper
 SexySnippets
-SfCommand
 Shader Syntax (GLSL HLSL Cg)
 ShaderLanguages
+Share File
 Shebang
 Shell Exec
 Shell Turtlestein
 ShellCommand
+ShellScriptImproved
 ShellStatus
 ShenMa
+Sherumite - Color Scheme
+Shiftswitch
 Shinken
 Shlisp Syntax
 Shoulda-matchers Snippets
+ShouldjsSnippets
 Show Character Code
 Show Open Files
 ShowEncoding
@@ -2506,16 +2895,17 @@ Shrink Whitespaces
 Shuffle
 Side-by-Side Settings
 SideBarEnhancements
-SideBarFolders
-SideBarGit
+SidebarHoverToggle
 SidebarSeparator
 Sign
+SikuliTools
 Silex Snippets
 Silk Web Toolkit Snippets
 Silky Jump
 SilverStripe
 Simple Ember.js Navigator
 Simple FTP Deploy
+Simple Import
 Simple MVC Framework Snippets
 Simple Print Function
 Simple Rails Navigator
@@ -2531,14 +2921,19 @@ SimpleSync
 SimpleTODO
 SimpleTesting
 SimplestDebugger
+Simutrans dat Syntax
+SingleTrailingNewLine
 SingularitySnippets
 Sinon
 Siteleaf Liquid Syntax
 Six - Future JavaScript Syntax
 Sketch.js
+Skins
 Slack
 Slate
 Sleet
+Slice
+SlideNav
 SlideShow(S9)
 Slugify
 Smali
@@ -2546,6 +2941,7 @@ Smart Delete
 Smart Duplicate
 Smart Match
 Smart Region
+Smart Repeat
 Smart Title Case
 Smart less build
 SmartGoogle
@@ -2568,28 +2964,29 @@ Soar Tools
 Solarized Color Scheme
 Solarized Toggle
 Sonic Pi
+Sort JavaScript Imports
 Sort Lines (Numerically)
 Sort Lines By Selection
 SortBy
 SortLinesByColumn
+SortList
 SortTabs
 Soulburn Color Scheme
 Sound
 SourceDown
+SourcePawn Completions
 SourcePawn Syntax Highlighting
 SourceSharer
 SourceTalk
 SourceTree
 SourceTree.app Menu
 SourceTreeCommands
-Sourcegraph
 Soy
 SpaceSnippets
 Spark
 Spec Finder
 Spec Focuser
 Specificity Calculator
-Speech
 Sphere Online Judge
 Sphinx Office
 Spice
@@ -2607,10 +3004,13 @@ SproutCore Snippets and JSHint Integration
 SqlBeautifier
 Squib Snippets
 Squiggle
+Squirrel
 Stack Overflow Snippets
+StackExchangeQuery
 StackMob JS Snippets
 Stan
 StandardFormat
+Stanza Syntax
 Starbound Lua
 Stata
 Stata Enhanced
@@ -2621,10 +3021,13 @@ Status Bar Time
 Status Bar Weather
 StatusMessage
 Statusbar Path
+Steadfast Color Scheme
+Stencil
 StepList
 StickySearch
 Stposh
 Strapdown Markdown Preview
+Streamer Mode
 String 2 Lower Hyphen
 String Counter
 StringEncode
@@ -2635,6 +3038,7 @@ StrongView
 Stupid Indent
 StyleSorter
 StyleToken
+Stylefmt
 StylishHaskell
 Stylus
 Stylus Clean Completions
@@ -2660,6 +3064,7 @@ Sublime TFS
 Sublime Text 2 Snippets
 Sublime Text 3 Snippets
 Sublime Text API Helper
+Sublime Tutor
 Sublime Tweet
 Sublime V8
 Sublime convert colorcode
@@ -2676,6 +3081,8 @@ Sublime-symfony
 Sublime-text-2-buildview
 SublimeAStyleFormatter
 SublimeAlternate
+SublimeAnarchy
+SublimeAnarchyDebug
 SublimeAxosoft
 SublimeBlockCursor
 SublimeBufmod
@@ -2702,12 +3109,18 @@ SublimeLinter-coffee
 SublimeLinter-coffeelint
 SublimeLinter-contrib-CFLint
 SublimeLinter-contrib-alex
+SublimeLinter-contrib-au3check
+SublimeLinter-contrib-avr-gcc
+SublimeLinter-contrib-bashate
+SublimeLinter-contrib-bemlint
 SublimeLinter-contrib-bootlint
 SublimeLinter-contrib-check-source-formatting
 SublimeLinter-contrib-checkpatch
+SublimeLinter-contrib-cheetah-flake
 SublimeLinter-contrib-clang
 SublimeLinter-contrib-cmakelint
 SublimeLinter-contrib-coffee-jshint
+SublimeLinter-contrib-csstree
 SublimeLinter-contrib-dartanalyzer
 SublimeLinter-contrib-dennis
 SublimeLinter-contrib-dxl
@@ -2716,6 +3129,7 @@ SublimeLinter-contrib-elm-make
 SublimeLinter-contrib-erlc
 SublimeLinter-contrib-eslint
 SublimeLinter-contrib-eslint_d
+SublimeLinter-contrib-foodcritic
 SublimeLinter-contrib-frosted
 SublimeLinter-contrib-ghdl
 SublimeLinter-contrib-glsl
@@ -2725,28 +3139,37 @@ SublimeLinter-contrib-golint
 SublimeLinter-contrib-gometalinter
 SublimeLinter-contrib-gotype
 SublimeLinter-contrib-govet
+SublimeLinter-contrib-hadolint
 SublimeLinter-contrib-haml-lint
 SublimeLinter-contrib-happiness
 SublimeLinter-contrib-hdevtools
 SublimeLinter-contrib-htmlhint
+SublimeLinter-contrib-htmllint
 SublimeLinter-contrib-iverilog
-SublimeLinter-contrib-jade-lint
 SublimeLinter-contrib-java
 SublimeLinter-contrib-jslint
 SublimeLinter-contrib-julialint
+SublimeLinter-contrib-julialintserver
+SublimeLinter-contrib-lessc
+SublimeLinter-contrib-lesshint
 SublimeLinter-contrib-lintr
+SublimeLinter-contrib-lslint
 SublimeLinter-contrib-lua-globals
+SublimeLinter-contrib-makensis
 SublimeLinter-contrib-mdl
 SublimeLinter-contrib-mlint
+SublimeLinter-contrib-mypy
 SublimeLinter-contrib-nvc
 SublimeLinter-contrib-perl
 SublimeLinter-contrib-perlcritic
 SublimeLinter-contrib-polylint
 SublimeLinter-contrib-proselint
 SublimeLinter-contrib-protoc-gen-lint
+SublimeLinter-contrib-pug-lint
 SublimeLinter-contrib-puppet
 SublimeLinter-contrib-puppet-lint
 SublimeLinter-contrib-raml-cop
+SublimeLinter-contrib-reek
 SublimeLinter-contrib-rstylelint
 SublimeLinter-contrib-ruby-lint
 SublimeLinter-contrib-rustc
@@ -2759,7 +3182,11 @@ SublimeLinter-contrib-spider
 SublimeLinter-contrib-sqlint
 SublimeLinter-contrib-standard
 SublimeLinter-contrib-stylelint
+SublimeLinter-contrib-stylelint_d
 SublimeLinter-contrib-stylint
+SublimeLinter-contrib-sublime-syntax
+SublimeLinter-contrib-swiftlint
+SublimeLinter-contrib-textlint
 SublimeLinter-contrib-tslint
 SublimeLinter-contrib-twiglint
 SublimeLinter-contrib-write-good
@@ -2785,12 +3212,12 @@ SublimeLinter-json
 SublimeLinter-jsxhint
 SublimeLinter-lua
 SublimeLinter-luacheck
-SublimeLinter-pep257
 SublimeLinter-pep8
 SublimeLinter-php
 SublimeLinter-phpcs
 SublimeLinter-phplint
 SublimeLinter-phpmd
+SublimeLinter-pydocstyle
 SublimeLinter-pyflakes
 SublimeLinter-pylint
 SublimeLinter-pyyaml
@@ -2804,6 +3231,7 @@ SublimeLinter_CatGutterTheme
 SublimeLog
 SublimeLogHelper
 SublimeLove
+SublimeMagic
 SublimeManpage
 SublimeNFDToNFCPaste
 SublimeOnSaveBuild
@@ -2825,26 +3253,30 @@ SublimeWebColors
 SublimeWeibo
 SublimeXiki
 Sublimelint
+Sublimerge 3
 Sublimerge Pro
 SubliminalCollaborator
 Sublimious
 Sublimipsum
 Sublpress
+Subpry
 Subtitle Sync
 Subtoise
+Subversion_for_sublime_txt3
 Subway Color Schemes
 Sudden Death
-SuiteCommerce-Advanced
 Summary
 Summerfruit Color Scheme
 SummitEditor
 SummitLinter
 SunCycle
 Sunnyvale Color Scheme
+Sunrise Theme
 Super Ant
 Super Calculator
 Super-Awesome Paste
 SuperCollider
+SuperCollider ST3
 SuperNavigator
 SuperPython
 SuperSelect
@@ -2858,13 +3290,17 @@ Susy Snippets
 Swap Selections
 SwapStrings
 Swift
+Swift Foundation Completions
 Swift for F*ing Sublime
+SwiftKitten
 Swig
 SwigSnippets
 Switch
 Switch File Deluxe
 Switch Script
+Switch Settings
 Switch View in Group
+SwitchDictionary
 SwitchLanguage
 Symfony2 Override
 Symfony2 Snippets
@@ -2874,14 +3310,12 @@ Symitar
 Sync Settings
 Sync View Scroll
 SyncFileYouWant
-SyncR
 SyncedSideBar
 SyncedSidebarBg
 Synchronized File Scrolling
 Synesthesia
 Syntax Highlighting for PostCSS
 Syntax Highlighting for Sass
-Syntax Manager
 Syntax Matcher
 Syntax ProtoList
 Syntax QBasic
@@ -2892,6 +3326,7 @@ SyntaxDefinitionHelper
 SyntaxFold
 SyntaxHighlightTools
 SyntaxHighlighter Reloaded Color Scheme
+SyntaxManager
 SysLog
 SystemVerilog
 
@@ -2899,42 +3334,51 @@ SystemVerilog
 ======
 TADS3
 TASM Syntax
+TECS
 TJ3-syntax-sublimetext2
 TOML
 TQuery
+TSQLEasy
 TWiki
 TXL syntax highlighting
 TXT2PYNB
 TYPO3 Fluid Snippets
 Tab Filter
+TabNukerNuker
+TabSnippets
+TabTeleport
 Tabify
 Table Cleaner
 Table Editor
 Table of comments
+Tabletop Simulator Lua
 Tabr
 Tabright
 TabsExtra
 TabsLimiter
 TabsShortcuts
 TabsToTable
-Tag
+Tachyons Autocomplete
 TagWrapper
 Tagger Script Syntax
 Tagify
 Takana
 Task
-Task Mill
 Task Timer
 Taskwarrior
+Tastic Snippets
 Tau Time Tracker
 Tcsh and Csh Mode
 TeX Live Package Manager
+TeXPreview
 Tea Color Scheme
 Teaspoon
 Telerik AppBuilder
 TemplateNinja
+TemplateToolkit
 Tera Term Language
 Term Presenter
+TermX
 Terminal
 Terminal In Packages
 Terminal Notifier
@@ -2944,16 +3388,20 @@ TernJS
 Tern_for_sublime
 Terraform
 Test Double
+Test Jumper
 Test Plier
 Test Runner
 TestChooser
 TestNameGenerator
+TestRSpec
 Testify
 Text Pastry
 Text Reader
 TextCommands
 TextFormatting
+Textract
 Theme - Afterglow
+Theme - Alpenglow
 Theme - Aprosopo
 Theme - Aqua
 Theme - Argonaut
@@ -2980,6 +3428,7 @@ Theme - DefaultPlus
 Theme - Eightlime
 Theme - El Capitan
 Theme - Elementary
+Theme - Faarikaal
 Theme - Farzher
 Theme - Fengshui
 Theme - Flatgrammer
@@ -2990,14 +3439,17 @@ Theme - Glacier
 Theme - Gravity
 Theme - Haft Lang
 Theme - Hero
+Theme - Hsiang
 Theme - HueAccent
 Theme - Interstellar
 Theme - Kronuz
 Theme - Ksix
 Theme - LP
+Theme - Lanzhou
+Theme - LevelUpTuts
 Theme - Lyte
+Theme - Mersi
 Theme - Midnight
-Theme - Minimal
 Theme - Moka
 Theme - Monokai
 Theme - Nexus
@@ -3005,6 +3457,7 @@ Theme - Night
 Theme - Nil
 Theme - Numix
 Theme - Numix Light
+Theme - Onlywsx
 Theme - Orchis
 Theme - Pacific
 Theme - Petroleum
@@ -3013,12 +3466,17 @@ Theme - Piatto
 Theme - Praxis
 Theme - Primer
 Theme - Pseudo OSX
+Theme - Rainbow
 Theme - Reeder
 Theme - Refined
 Theme - Refresh
+Theme - Retina
+Theme - Sea Lion
+Theme - Seti Monokai
 Theme - SoDaReloaded
 Theme - Soda
 Theme - Soda SolarizedDark
+Theme - SodaSeti
 Theme - Sodarized
 Theme - Solarized Flat
 Theme - Solarized Space
@@ -3030,14 +3488,17 @@ Theme - Spark
 Theme - Superman
 Theme - Tech49
 Theme - Toxin
+Theme - TwoDark
 Theme - Vim Blackboard
 Theme - Watson
+Theme - Windows 10
 Theme - amCoder
 Theme - itg.flat
 ThemeAutomator
 ThemeScheduler
 ThemeTweaker
 Themes Menu Switcher
+Themosis Framework Snippets
 Themr
 Thesaurus
 Thinkphp
@@ -3048,7 +3509,9 @@ TideSDK Autocomplete
 TidyHTML5
 TidyTabs
 TikZ
+TimeTracker
 TinTin++ Syntax Highlighter
+Tinacious Design colour scheme
 Tint
 TipJS Snippets
 Titanium API Document
@@ -3063,7 +3526,6 @@ Todo
 Todo Manager
 Todo.txt Syntax
 TodoReview
-Toggl Timer
 Toggle Css Format
 Toggle Delphi File
 Toggle File
@@ -3080,9 +3542,15 @@ ToggleWrap
 Toks
 TomDoc
 TomDoc+
+TomcatMavenHotReload
 Tomorrow Color Schemes
-Toolbar
+Tomorrow Night Italics Color Scheme
+ToolRunner
+ToolTip-Helper
+TooltipLSL
 TopCoder Helper
+Topas Syntax
+Tornado
 Tortoise
 TortoiseGIT
 TortoiseGit Context Integration
@@ -3097,6 +3565,7 @@ TrailingSpaces
 Trainz Config
 Transcrypt
 Transience
+TransientNamer Snippets
 Translate
 Translit
 Transmit Docksend
@@ -3110,14 +3579,18 @@ TreeTop
 Trello
 Trimmer
 Tritium
+Tron Color Scheme
+Troubleshooting
 Tryton Snippets
+TtcnComplete
 Tubaina (afc)
 Tubsted Color Schemes
 Tully Color Schemes
-Tumblr Themes Syntax and Completions
 Tup
+TurboBadger
 Twee
 TweetLine
+TwelfTools
 Twig
 Twilightcyanide Colorscheme
 Twitter Bootstrap Snippets
@@ -3131,6 +3604,8 @@ TypescriptCompletion
 Typewriter
 TypoFixr
 TypoScript
+TypoScriptr
+Typora Markdown App (OSX)
 
 ---> U
 ======
@@ -3143,6 +3618,7 @@ UberSelection
 Ublime Color Schemes
 Ubuntu Unity Recents
 UbuntuPaste
+Udev rules
 Udp-trace
 Ulysses Style Sheets
 Umajin
@@ -3151,7 +3627,11 @@ Underliner
 Underscore.js Snippets
 Underscorejs snippets
 Unicode Character Highlighter
+Unicode Character Insert
+Unicode Escape
+UnicodeCompletion
 UnicodeMath
+UnicodeTeX
 UnindentPreprocessor
 UniqueWindow
 UnitJS
@@ -3166,9 +3646,12 @@ Unity3D Script Reference Search
 Unity3D Shader Highlighter and Snippets
 Unity3D Snippets and Completes
 Unity3d LeanTween Snippets
+Unnatural
 Unquote
 UnrealScriptIDE
 Unsplash
+UnusedCssFinder
+Unyson Snippets
 Updater
 
 ---> V
@@ -3195,11 +3678,13 @@ Vash
 Verbose
 Verilog
 Verilog Automatic
+Verilog Gadget
 View In Browser
 View Movement
 VimL
 Vintage Escape
 Vintage Numbers
+Vintage Solid Caret
 Vintage Surround
 Vintage YankStack
 Vintage-Origami
@@ -3229,21 +3714,25 @@ Vtex Snippets
 Vue Syntax Highlight
 Vuejs Complete Package
 Vuejs Snippets
+Vuln
 VvPHPDollar
 
 ---> W
 ======
 W2P
 W3CValidators
+WD AngularJS Snippets
 WLST
 WP Keygen
-WPath
+WRAMPAssemblyLanguage
 WakaTime
+Wallaby
 Wanderlei Color Scheme
 Warp-OS Color Scheme
-WaveOC Apex Snippets
+WarpScript
 Waxeye
 WeSnipp Add
+Weave
 Web Audio API Autocomplete
 Web Encoders
 Web Inspector
@@ -3263,6 +3752,7 @@ White Night Color Scheme
 Whitespace
 Whitespace Diff Trim
 Whitespaces
+WhizzML
 WhoCalled Function Finder
 Wiggle
 Wiki
@@ -3272,25 +3762,28 @@ Wildlife gutter theme
 WinMerge
 WinSCP
 Winamp Skin Developer
-Wind
 Wisedu TrunPage Snippets
 Witcher Script Syntax
+Wkhtmltopdf
 Wok
+WolframAlpha Lookup
 Wollok
 Wombat Color Scheme
 Wombat Theme
 Wombatish color scheme
 WooCommerce Autocomplete
 WordCompletion
-WordCount
 WordHighlight
 WordPress
+WordPress Completions
+WordPress Customizer
 WordPress Developer Resources
 WordPress Generate Salts
 WordPress Readme to Markdown
 Wordless
 WordpressDev
 Worksheet
+World of Warcraft Macro Syntax
 World of Warcraft TOC file Syntax
 World of Warcraft XML file Syntax
 Wpseek.com WordPress Developer Assistant
@@ -3314,6 +3807,7 @@ XAML
 XLI Template Converter
 XMPFilter
 XQuery
+XSL
 XSLT Snippets
 XSnippet
 Xdebug
@@ -3325,6 +3819,7 @@ XmlDocs
 Xmllint
 Xpath
 XpressEngine
+XssEncode
 Xtemplate
 Xtend
 
@@ -3333,12 +3828,14 @@ Xtend
 YAML Nav
 YUI Compressor
 YUML
+Yaf Completions
 Yammy Syntax Highlighting
 YandexTranslate
 Yang Syntax Highlighting
 Yara Rule Syntax
 Yardgen
 Yardoc
+Yasi-indenter
 Yate
 YcmdCompletion
 Yellow Blog Extensions
@@ -3346,6 +3843,7 @@ Yesod
 YetAnotherCodeSearch
 Yii Framework 1.1 Snippets
 Yii Framework Docs Search
+Yii2 Auto-complete
 Yii2 Snippets
 
 ---> Z
@@ -3368,5 +3866,7 @@ Zmq
 Znuny4OTRS
 Zoneinfo
 Zucchini
+Zurb Foundation
 Zurb Foundation 4 Snippets
 Zurb Ink Snippets
+Zz File Icons

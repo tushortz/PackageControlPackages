@@ -83,3 +83,5 @@ with open("packages.txt",'w') as packages, open("README.md",'w') as readme:
 
 			packages.write(x + "\n")
 			readme.write("* [%s](%s) \n" % (x, url))
+
+print("Completed")
