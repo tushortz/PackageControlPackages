@@ -1,13 +1,11 @@
 
 **List of available Sublime text packages**
 
-`4476` packages are available as at `Tuesday 11 of December, 2018 at 06:08:03 PM`
+`4801` packages are available as at `Friday 21 of May, 2021 at 09:02:02 AM`
 
 [10% Too Dull for My Tastes Color Scheme](https://packagecontrol.io/packages/10%25%20Too%20Dull%20for%20My%20Tastes%20Color%20Scheme) - For fun Color Scheme by Scotch.io for your Sublime Text 3 Editor
 
 [1337 Color Scheme](https://packagecontrol.io/packages/1337%20Color%20Scheme) - 1337 - A Color Scheme for dark Sublime Text
-
-[1Self](https://packagecontrol.io/packages/1Self) - Track your activity with the 1self Sublime Text 2/3 Plugin
 
 [2pdf](https://packagecontrol.io/packages/2pdf) - /!\ inactive /!\ plugin for sublime generate a pdf file for print
 
@@ -23,7 +21,9 @@
 
 [65816](https://packagecontrol.io/packages/65816) - 65816 assembly language (various Apple IIgs assemblers) syntax support for TextMate / Sublime Text
 
-[=BB= LSL](https://packagecontrol.io/packages/%3DBB%3D%20LSL) - LSL support for Sublime 3154+ with linting (works with Firestorm preprocessor), tooltips and completions with your indent style of choice.
+[=BB= LSL](https://packagecontrol.io/packages/%3DBB%3D%20LSL) - LSL for Sublime Text 4073+ with linting, tooltips &amp; completions with your indent style of choice.
+
+[A File Icon](https://packagecontrol.io/packages/A%20File%20Icon) - Sublime Text File-Specific Icons for Improved Visual Grepping
 
 [ABAP](https://packagecontrol.io/packages/ABAP) - ABAP Sublime Text 3 Plugin
 
@@ -63,6 +63,8 @@
 
 [AMPScript](https://packagecontrol.io/packages/AMPScript) - Snippets and syntax highlighting for ExactTarget&#x27;s AMPScript scripting language.
 
+[AMPscript Syntax Highlighter](https://packagecontrol.io/packages/AMPscript%20Syntax%20Highlighter) - A Salesforce Marketing Cloud AMPscript syntax highlighter for Sublime Text
+
 [ANSIescape](https://packagecontrol.io/packages/ANSIescape) - ANSI escape codes color highlighting for SublimeText 3
 
 [ANTLR syntax highlight](https://packagecontrol.io/packages/ANTLR%20syntax%20highlight) - Antlr syntax highlighting for Sublime Text 2/3
@@ -75,15 +77,11 @@
 
 [APICloudLoader](https://packagecontrol.io/packages/APICloudLoader) - APICloud提供的Sublime标准插件，在Sublime中集成APICloud应用创建、真机同步、widget打包等功能。
 
-[APICloudPackage](https://packagecontrol.io/packages/APICloudPackage) - APICloud提供的Sublime标准插件，在Sublime中集成APICloud对android应用打成apk安装包的功能。
-
 [APICloudSnippets](https://packagecontrol.io/packages/APICloudSnippets) - APICloud提供的标准Sublime扩展插件，在Sublime中集成APICloud扩展模块的代码提示
 
 [APICloudWifiSync](https://packagecontrol.io/packages/APICloudWifiSync) - APICloud无线真机同步
 
 [APL Highlighting](https://packagecontrol.io/packages/APL%20Highlighting) - SublimeText highlighter (and TextMate I think?) for &quot;A Programming Language&quot; (APL)
-
-[APPCloud](https://packagecontrol.io/packages/APPCloud) - appcloud plugin for sublime text3
 
 [ARFF Syntax Highlighting](https://packagecontrol.io/packages/ARFF%20Syntax%20Highlighting) - WEKA ARFF syntax highlighting. 
 
@@ -117,11 +115,11 @@
 
 [AVR](https://packagecontrol.io/packages/AVR) - AVR project templates with code completion and navigation
 
-[AVR-ASM-Sublime](https://packagecontrol.io/packages/AVR-ASM-Sublime) - AVR 8bit assembler syntax definition for ST2/ST3
-
 [AWS Lambda](https://packagecontrol.io/packages/AWS%20Lambda) - Sublime Text 3 plugin for editing AWS Lambda function sources easily
 
 [Abaqus](https://packagecontrol.io/packages/Abaqus) - Syntax highlight and cool tools for Abaqus Keywords
+
+[Abella](https://packagecontrol.io/packages/Abella) - No description provided
 
 [Abstract Markup Language](https://packagecontrol.io/packages/Abstract%20Markup%20Language) - Abstract Markup Language syntax highlighting, code snippets, and build system for Sublime Text.
 
@@ -141,9 +139,9 @@
 
 [ActionScript 3](https://packagecontrol.io/packages/ActionScript%203) - Sublime Text 2 Package for ActionScript 3 Development
 
-[Active4D](https://packagecontrol.io/packages/Active4D) - Sublime Text 3 support for Active4D
+[ActivityWatch Watcher](https://packagecontrol.io/packages/ActivityWatch%20Watcher) - Sublime Text 3 plugin for automatic time tracking with http://activitywatch.net
 
-[ActualVim](https://packagecontrol.io/packages/ActualVim) - Sublime Text 3 input mode using Neovim
+[ActualVim](https://packagecontrol.io/packages/ActualVim) - Sublime Text 3 input mode using Neovim. Issues are closed, feel free to submit Pull Requests if you have bug fixes however.
 
 [AdDa Apex Snippets](https://packagecontrol.io/packages/AdDa%20Apex%20Snippets) - No description provided
 
@@ -167,7 +165,9 @@
 
 [Advanced CSV](https://packagecontrol.io/packages/Advanced%20CSV) - Efficiently format, edit, arrange, and evaluate cells in CSV files
 
-[Advanced Substation Alpha (ASS)](https://packagecontrol.io/packages/Advanced%20Substation%20Alpha%20%28ASS%29) - ASS/SSA subtitles syntax highlight for Sublime Text &gt;= 3143
+[Advanced PLSQL](https://packagecontrol.io/packages/Advanced%20PLSQL) - Advanced Sublime Text package for editing and building Oracle SQL and PL/SQL
+
+[Advanced Substation Alpha (ASS)](https://packagecontrol.io/packages/Advanced%20Substation%20Alpha%20%28ASS%29) - ASS/SSA subtitles syntax highlight for Sublime Text.
 
 [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile) - File creation plugin for Sublime Text 2 and Sublime Text 3.
 
@@ -189,13 +189,13 @@
 
 [Aizu Online Judge](https://packagecontrol.io/packages/Aizu%20Online%20Judge) - AizuOnlineJudgeへのpostをサポートするSublimeText2 plugin 
 
+[Alabaster Color Scheme](https://packagecontrol.io/packages/Alabaster%20Color%20Scheme) - A light color scheme with minimal amount of highlighting for Sublime Text 3
+
 [Alan](https://packagecontrol.io/packages/Alan) - Alan for Sublime Text 3
 
 [Alda](https://packagecontrol.io/packages/Alda) - a sublime .tmLang for Alda
 
 [Alfresco Snippets](https://packagecontrol.io/packages/Alfresco%20Snippets) - :punch: A collection of sublime text snippets useful for coding Alfresco webscripts, scripts, forms, content models and -context.xml.
-
-[AlgoLang](https://packagecontrol.io/packages/AlgoLang) - Algo language syntax highlighting for sublime text
 
 [Align Arguments](https://packagecontrol.io/packages/Align%20Arguments) - Sublime Text 3 Plugin to automatically format and align argument lists on the opening bracket
 
@@ -203,7 +203,11 @@
 
 [Alignment](https://packagecontrol.io/packages/Alignment) - Easy alignment of multiple selections and multi-line selections
 
+[Alive Snippets](https://packagecontrol.io/packages/Alive%20Snippets) - Snippets for Alive Vietnam
+
 [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete) - Extend Sublime autocompletion to find matches in all open files of the current window
+
+[Alpen Color Scheme](https://packagecontrol.io/packages/Alpen%20Color%20Scheme) - Alpen is a light color scheme for Sublime Text.
 
 [Alphanumeric Markdown Footnote](https://packagecontrol.io/packages/Alphanumeric%20Markdown%20Footnote) - A Sublime Text plugin that inserts footnotes into your markdown for you
 
@@ -219,11 +223,11 @@
 
 [AlternativeAutocompletion](https://packagecontrol.io/packages/AlternativeAutocompletion) - Fuzzy word completion, based on the contents of the current file.
 
+[AmbientColorScheme](https://packagecontrol.io/packages/AmbientColorScheme) - Switch Sublime Text 3 color scheme based on ambient light readings
+
 [AmbientTalk 2](https://packagecontrol.io/packages/AmbientTalk%202) - Sublime Text 3 package for AmbientTalk (forked from TextMate bundle)
 
 [AmnesiaIO](https://packagecontrol.io/packages/AmnesiaIO) - Amnesia.io integration for Sublime Text 3
-
-[AmpScript Highlighter](https://packagecontrol.io/packages/AmpScript%20Highlighter) - ampscript syntax highlighting
 
 [AmpersandJS Snippets](https://packagecontrol.io/packages/AmpersandJS%20Snippets) - Sublime Text Code Snippets for AmpersandJS
 
@@ -234,6 +238,8 @@
 [AnB (Alice and Bob Notation)](https://packagecontrol.io/packages/AnB%20%28Alice%20and%20Bob%20Notation%29) - AnB (Alice and Bob Notation) syntax highlighting and build system for Sublime Text
 
 [Anaconda](https://packagecontrol.io/packages/Anaconda) - Anaconda turns your Sublime Text 3 in a full featured Python development IDE including autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker Vagrant and Docker support for Sublime Text 3 using Jedi, PyFlakes, pep8, MyPy, PyLint, pep257 and McCabe that will never freeze your Sublime Text 3
+
+[Ancient Pond](https://packagecontrol.io/packages/Ancient%20Pond) - Dark color scheme for Sublime Text 3
 
 [Andrew](https://packagecontrol.io/packages/Andrew) - Andrew is a lightweight Android Development Project for Sublime Text 2 and Sublime Text 3. It makes use of Monitor to get a fully functional environment for Android development, without the hassle of a big IDE.
 
@@ -273,6 +279,8 @@
 
 [Animate.css Snippets](https://packagecontrol.io/packages/Animate.css%20Snippets) - Animate.css snippets for Sublime Text.
 
+[AnonymousFile](https://packagecontrol.io/packages/AnonymousFile) - Sublime Text 3 plugin to quickly create already-saved files to test code snippets.
+
 [Ansible](https://packagecontrol.io/packages/Ansible) - Syntax highlighting for Ansible
 
 [Ansible Vault](https://packagecontrol.io/packages/Ansible%20Vault) - Ansible vault manipulation in Sublime Text
@@ -288,6 +296,8 @@
 [Antescofo](https://packagecontrol.io/packages/Antescofo) - Antescofo Language Package and Plugins for Sublime Text Editor
 
 [Antiki](https://packagecontrol.io/packages/Antiki) - A Xiki Clone for Sublime Text 2/3
+
+[AnySwap](https://packagecontrol.io/packages/AnySwap) - No description provided
 
 [Anypreter](https://packagecontrol.io/packages/Anypreter) - SublimeText 2 Plugin to instantly interpret selected code or the whole document right in SublimeText 2 (supports many languages)
 
@@ -357,6 +367,8 @@
 
 [Artisan](https://packagecontrol.io/packages/Artisan) - Sublime Text plugin to replace Laravel Artisan CLI (NO LONGER MAINTAINED)
 
+[Arturo Programming Language](https://packagecontrol.io/packages/Arturo%20Programming%20Language) - SublimeText syntax highlighting package for Arturo
+
 [AsAbove](https://packagecontrol.io/packages/AsAbove) - ST2 Plugin to duplicate characters from the line above
 
 [Ascetic color schemes](https://packagecontrol.io/packages/Ascetic%20color%20schemes) - Two ascetic Sublime Text color schemes
@@ -372,6 +384,8 @@
 [Asp.Net File Switch](https://packagecontrol.io/packages/Asp.Net%20File%20Switch) - Asp.net file switcher
 
 [AspectJ](https://packagecontrol.io/packages/AspectJ) - AspectJ syntax highlighting for Sublime Text
+
+[Assembly 6809 and 6309 Syntax Highlighting](https://packagecontrol.io/packages/Assembly%206809%20and%206309%20Syntax%20Highlighting) - SublimeText 3 syntax highlighting for 6809/6309 Assembly language
 
 [Assorted Gutter Themes](https://packagecontrol.io/packages/Assorted%20Gutter%20Themes) - various gutter themes for sublime text 3
 
@@ -389,7 +403,11 @@
 
 [Atomizr](https://packagecontrol.io/packages/Atomizr) - Convert Sublime Text completions into Atom (or Visual Studio Code) snippets, and vice versa.
 
+[AttrFold](https://packagecontrol.io/packages/AttrFold) - Fold &amp; unfold attributes in Sublime Text
+
 [Attribute Grammar](https://packagecontrol.io/packages/Attribute%20Grammar) - Attribute Grammar syntax highlighting for the Utrecht University Attribute Grammar System
+
+[Auro Color Scheme](https://packagecontrol.io/packages/Auro%20Color%20Scheme) - A very cool Color Scheme I made for All text editors which support .tmTheme
 
 [Aurora Color Scheme](https://packagecontrol.io/packages/Aurora%20Color%20Scheme) - Aurora Theme for Sublime Text
 
@@ -411,6 +429,8 @@
 
 [AutoBackups](https://packagecontrol.io/packages/AutoBackups) - Sublime Text 2/3 Auto backups plugin
 
+[AutoCloseEmptyGroup](https://packagecontrol.io/packages/AutoCloseEmptyGroup) - A Sublime Text package to automatically close empty groups (panes)
+
 [AutoComments](https://packagecontrol.io/packages/AutoComments) - Auto add head comments in js,css,py files with shortcut key
 
 [AutoCopyright](https://packagecontrol.io/packages/AutoCopyright) - Automates adding/updating the appropriate copyright text at the top of a file.
@@ -431,19 +451,25 @@
 
 [AutoMatchEnabled](https://packagecontrol.io/packages/AutoMatchEnabled) - Auto Match Enabled menu item for Sublime Text
 
+[AutoMatlab](https://packagecontrol.io/packages/AutoMatlab) - Sublime Text plugin with autocompletion, documentation generation and a command panel for Matlab.
+
 [AutoPEP8](https://packagecontrol.io/packages/AutoPEP8) - Automatically formats Python code to conform to the PEP 8 style guide using autopep8 and pep8 modules
 
 [AutoPHPDollar](https://packagecontrol.io/packages/AutoPHPDollar) - Type the variable name without &quot;$&quot;, and this plugin add it.
 
 [AutoSelect](https://packagecontrol.io/packages/AutoSelect) - Sticky Selection
 
-[AutoSetSyntax](https://packagecontrol.io/packages/AutoSetSyntax) - This plugin automatically sets the syntax for your file depending on its first line if an event is triggered.
+[AutoSetIndentation](https://packagecontrol.io/packages/AutoSetIndentation) - [Deprecated] This plugin automatically detects and sets the indentation for you, by default, when a file is loaded.
+
+[AutoSetSyntax](https://packagecontrol.io/packages/AutoSetSyntax) - This plugin automatically sets the syntax for your file if possible.
 
 [AutoSlim](https://packagecontrol.io/packages/AutoSlim) - This Sublime Text 2 plugin parses slim files, and saves the resulting HTML to the clipboard.
 
 [AutoSoftWrap](https://packagecontrol.io/packages/AutoSoftWrap) - SublimeText 2/3 to auto enable &quot;Word Wrap&quot; only for certain extensions
 
 [AutoSpell](https://packagecontrol.io/packages/AutoSpell) - Sublime Text 3 package to auto replace spelling mistakes.
+
+[AutoSplit](https://packagecontrol.io/packages/AutoSplit) - Autosplit plugin for Sublime
 
 [AutoUpdateSourceHeader](https://packagecontrol.io/packages/AutoUpdateSourceHeader) - auto update your source header.
 
@@ -473,11 +499,17 @@
 
 [Awk](https://packagecontrol.io/packages/Awk) - Awk syntax highlighting in Sublime Text
 
-[AzureResourceManager](https://packagecontrol.io/packages/AzureResourceManager) - Azure Resource Manager templates package for Sublime Text
+[Axios Snippets](https://packagecontrol.io/packages/Axios%20Snippets) - A collections of [axios](https://github.com/axios/axios) API snippets for [Sublime Text](http://www.sublimetext.com)
+
+[AzureResourceManager](https://packagecontrol.io/packages/AzureResourceManager) - Azure Resource Manager templates package for Sublime Text.
+
+[B Syntax Highlighting](https://packagecontrol.io/packages/B%20Syntax%20Highlighting) - Sublime Text syntax highlighting for B language
 
 [BAROC syntax highlighting](https://packagecontrol.io/packages/BAROC%20syntax%20highlighting) - BAROC syntax highliting for Sublime Text 3 
 
 [BART](https://packagecontrol.io/packages/BART) - BART Integration with Sublime Text 3
+
+[BBC BASIC Syntax](https://packagecontrol.io/packages/BBC%20BASIC%20Syntax) - SublimeText syntax mode for BBC BASIC files
 
 [BBCode Syntax](https://packagecontrol.io/packages/BBCode%20Syntax) - BBCode Bundle for Sublime Text
 
@@ -492,6 +524,8 @@
 [BHT-BASIC](https://packagecontrol.io/packages/BHT-BASIC) - No description provided
 
 [BSScript](https://packagecontrol.io/packages/BSScript) - No description provided
+
+[BTstack HCI Packet Log Converter](https://packagecontrol.io/packages/BTstack%20HCI%20Packet%20Log%20Converter) - Sublime Text 3 Plugin to Convert ASCI HCI Dumps from BTstack
 
 [BYOND](https://packagecontrol.io/packages/BYOND) - Sublime Text 3 code support and build system for BYOND tools.
 
@@ -517,6 +551,8 @@
 
 [Baidu FE Code Style](https://packagecontrol.io/packages/Baidu%20FE%20Code%20Style) - Baidu FE Code Style Sublime(2,3) Plugin
 
+[Ballerina](https://packagecontrol.io/packages/Ballerina) - Syntax highlighting and Code completion in Ballerina
+
 [Bang Search](https://packagecontrol.io/packages/Bang%20Search) - Plugin to perform websearch from Sublime Text
 
 [Baobab React ES6 Snippets](https://packagecontrol.io/packages/Baobab%20React%20ES6%20Snippets) - ES6 based Sublime Text snippets for React along with Baobab
@@ -534,6 +570,8 @@
 [Bash Build System](https://packagecontrol.io/packages/Bash%20Build%20System) - Sublime Text package that includes a simple build system to allow direct execution of bash scripts. 
 
 [Bats](https://packagecontrol.io/packages/Bats) - A Bats test for Sublime Text.
+
+[BazelSyntax](https://packagecontrol.io/packages/BazelSyntax) - Definitions of syntax for Bazel for Sublime Text 3
 
 [Beancount](https://packagecontrol.io/packages/Beancount) - Bits and pieces to facilitate accounting with Beancount.
 
@@ -571,7 +609,7 @@
 
 [BetaCode](https://packagecontrol.io/packages/BetaCode) - A plugin to help entering polytonic Greek into Sublime Text.
 
-[Better Bookmarks](https://packagecontrol.io/packages/Better%20Bookmarks) - BetterBookmarks changes the way the native bookmarks in Sublime Text 3 work. In addition to only allowing one bookmark per line, you can customize different layers for your bookmarks.
+[Better Bookmarks](https://packagecontrol.io/packages/Better%20Bookmarks) - BetterBookmarks extends the built-in Sublime Text 3 bookmarking system to allow for persistent bookmarks and bookmark layers.
 
 [Better Build System](https://packagecontrol.io/packages/Better%20Build%20System) - Improved build system for Sublime Text
 
@@ -579,7 +617,7 @@
 
 [Better CoffeeScript](https://packagecontrol.io/packages/Better%20CoffeeScript) - Syntax highlighting and checking, commands, shortcuts, snippets, watched compilation and more.
 
-[Better Completion](https://packagecontrol.io/packages/Better%20Completion) - Better auto-completion working.
+[Better Completion](https://packagecontrol.io/packages/Better%20Completion) - DEPRECATED, use TypeScript!
 
 [Better JavaScript](https://packagecontrol.io/packages/Better%20JavaScript) - Fixes to Sublime Text&#x27;s JavaScript symbol list
 
@@ -603,6 +641,10 @@
 
 [BeyondCompare](https://packagecontrol.io/packages/BeyondCompare) - Plugin that enables comparison of the last 2 activated buffers (even in different windows) using BeyondCompare.
 
+[Bible Tools](https://packagecontrol.io/packages/Bible%20Tools) - Hallelujah, a sublime text plugin to work with Bible references.
+
+[Bibtex Bibliography Sort](https://packagecontrol.io/packages/Bibtex%20Bibliography%20Sort) - Bibtex-Sort Plugin for Sublime Text 3
+
 [Bidirectional text support](https://packagecontrol.io/packages/Bidirectional%20text%20support) - Support for Sublime text 2 bidirectional text.
 
 [Bigine](https://packagecontrol.io/packages/Bigine) - 大好网站专业创建插件（仅支持 Sublime Text 3）。
@@ -617,7 +659,7 @@
 
 [BioPythonUtils](https://packagecontrol.io/packages/BioPythonUtils) - BioPython utilities for Sublime Text 3
 
-[Bison](https://packagecontrol.io/packages/Bison) - Bison syntax highlighter
+[Bison](https://packagecontrol.io/packages/Bison) - A Sublime Text syntax definition for Bison grammar files
 
 [Bitbake Syntax](https://packagecontrol.io/packages/Bitbake%20Syntax) - Sublime Text 3 Bitbake Syntax
 
@@ -637,11 +679,15 @@
 
 [Blade Snippets](https://packagecontrol.io/packages/Blade%20Snippets) - Snippets for blade template engine
 
+[Blame Explorer](https://packagecontrol.io/packages/Blame%20Explorer) - Seamlessly explore code&#x27;s authorship and history from Sublime Text&#x27;s gutter
+
 [BlameHighlighter](https://packagecontrol.io/packages/BlameHighlighter) - Sublime Text 3 Extension to highlight the code committed by you in a file using git blame
 
 [Blender Development](https://packagecontrol.io/packages/Blender%20Development) - Develop with Sublime Text 3 as an external script editor in Blender
 
 [BlessCss](https://packagecontrol.io/packages/BlessCss) - Build integration of Bless css into Sublime text 2
+
+[BlinkScript](https://packagecontrol.io/packages/BlinkScript) - :package: The Foundry Nuke&#x27;s *BlinkScript* syntax for Sublime text
 
 [BlitzMax](https://packagecontrol.io/packages/BlitzMax) - BlitzMax language definition and snippets for Sublime Text 2/3
 
@@ -673,11 +719,13 @@
 
 [Bootstrap 4 Autocomplete](https://packagecontrol.io/packages/Bootstrap%204%20Autocomplete) - Bootstrap 4 Autocomplete for Sublime Text 3
 
-[Bootstrap 4 Snippets](https://packagecontrol.io/packages/Bootstrap%204%20Snippets) - 🔴 Bootstrap 4 Snippets for Sublime Text 2&amp;3 - (V4.0.0-beta)
+[Bootstrap 4 Snippets](https://packagecontrol.io/packages/Bootstrap%204%20Snippets) - 🔴 Bootstrap 4 Snippets for Sublime Text 2&amp;3
+
+[Bootstrap 4x Autocomplete](https://packagecontrol.io/packages/Bootstrap%204x%20Autocomplete) - Bootstrap v4.4.1 Autocomplete Class
+
+[Bootstrap 4x Snippets](https://packagecontrol.io/packages/Bootstrap%204x%20Snippets) - Bootstrap v4.4.1 Snippets
 
 [Bootstrap Jade](https://packagecontrol.io/packages/Bootstrap%20Jade) - Sublime Text 2 Twitter Bootstrap snippets with Jade output. Direct conversion from DEVtellect&#x27;s Bootstrap package.
-
-[Borat Ipsum](https://packagecontrol.io/packages/Borat%20Ipsum) - Sublime Text placeholder text generator plugin of America for make benefit glorious nation of Kazakhstan
 
 [BorkFilesSyntaxHighlighting](https://packagecontrol.io/packages/BorkFilesSyntaxHighlighting) - This ST2/3 package adds syntax highlighting for &quot;.borkfiles&quot;
 
@@ -695,7 +743,7 @@
 
 [BracketGuard](https://packagecontrol.io/packages/BracketGuard) - A Sublime Text 2/3 Plugin which immediately highlights incorrect brackets.
 
-[BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - Bracket and tag highlighter for Sublime Text http://facelessuser.github.io/BracketHighlighter/
+[BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - Bracket and tag highlighter for Sublime Text
 
 [BracketSpacer](https://packagecontrol.io/packages/BracketSpacer) - Sublime plugin to add/remove spaces around matching brackets.
 
@@ -713,11 +761,15 @@
 
 [BreakLines](https://packagecontrol.io/packages/BreakLines) - Add a newline every X lines within the selection/s (Keywords: break, group, split, separate, lines)
 
+[Brevis Autocomplete](https://packagecontrol.io/packages/Brevis%20Autocomplete) - Sublime Text 3 autocomplete plugin for Brevis CSS toolkit.
+
 [BridleNSIS](https://packagecontrol.io/packages/BridleNSIS) - BridleNSIS syntax definitions and completions for Sublime Text
 
 [BrightScript](https://packagecontrol.io/packages/BrightScript) - Syntax hilighting for BrightScript.
 
 [Brittany](https://packagecontrol.io/packages/Brittany) - Format Haskell with Brittany in SublimeText
+
+[Broken Window](https://packagecontrol.io/packages/Broken%20Window) - Broken window is a static analysis plugin for Sublime Text 3 which checks Ruby on Rails applications for security vulnerabilities.
 
 [Browse](https://packagecontrol.io/packages/Browse) - Sublime text2 plugin. Dump the browser output.
 
@@ -735,15 +787,17 @@
 
 [Bubububububad and Boneyfied Color Schemes](https://packagecontrol.io/packages/Bubububububad%20and%20Boneyfied%20Color%20Schemes) - PG rated expansion of a boney theme of mine
 
-[BuffersBackup](https://packagecontrol.io/packages/BuffersBackup) - A Sublime Text 2 plugin for backing up all open files/buffers on an periodic basis. 
-
 [Build Ant Target](https://packagecontrol.io/packages/Build%20Ant%20Target) - A flexible ANT Build System for Sublime Text 2 and 3 that doesn&#x27;t require the build.xml be in the root of your project, and offers target selection. 
 
 [Build Next](https://packagecontrol.io/packages/Build%20Next) - Sublime Text plugin to improve build system
 
 [Build Switcher](https://packagecontrol.io/packages/Build%20Switcher) - A plugin for Sublime Text 2, so easily switch between build systems.
 
+[Build System Input](https://packagecontrol.io/packages/Build%20System%20Input) - Extend default Sublime Text 3 build systems with input arguments.
+
 [BuildParts](https://packagecontrol.io/packages/BuildParts) - This is a Sublime Text plugin for executing (or building) part of your code. (It should work for any language that the Sublime Text 2 originally can build)
+
+[BuildX](https://packagecontrol.io/packages/BuildX) - 🎉 View sublime build output side by side with color!
 
 [Bullet](https://packagecontrol.io/packages/Bullet) - This is a Sublime Text plugin for markdown style Bullet points and Number lists. It automatically add * and - for unordered lists, &gt; for blockquotes, and numbered items for number lists.
 
@@ -753,17 +807,17 @@
 
 [Bunting Language](https://packagecontrol.io/packages/Bunting%20Language) - Syntax highlighting for Bunting language
 
-[Business Catalyst Liquid Snippets](https://packagecontrol.io/packages/Business%20Catalyst%20Liquid%20Snippets) - Adobe Business Catalyst Snippets Plugin for Sublime Text 2/3
-
 [C Base Converter](https://packagecontrol.io/packages/C%20Base%20Converter) - ST3 plugin for quick conversion between binary, octal, decimal and hex integer literals in C and C++.
 
-[C Improved](https://packagecontrol.io/packages/C%20Improved) - Improved syntax for C/C++/Objective-C, with a special support for sources of Linux kernel, CPython, etc.
+[C Improved](https://packagecontrol.io/packages/C%20Improved) - (NO LONGER MAINTAINED) Improved syntax for C/C++/Objective-C, with a special support for sources of Linux kernel, CPython, etc.
 
 [C# Compile & Run](https://packagecontrol.io/packages/C%23%20Compile%20%26%20Run) - Build and run single C# files from Sublime Text 2.
 
 [C# Snippets](https://packagecontrol.io/packages/C%23%20Snippets) - C# snippets for Sublime Text
 
 [C++ & C Single File Builder - Minghang Yang](https://packagecontrol.io/packages/C%2B%2B%20%26%20C%20Single%20File%20Builder%20-%20Minghang%20Yang) - Build and Run in Terminal for Single File C &amp; C++
+
+[C++ Classhelper](https://packagecontrol.io/packages/C%2B%2B%20Classhelper) - Create C++ class with Headerfile
 
 [C++ Completions](https://packagecontrol.io/packages/C%2B%2B%20Completions) - C++ Completions for Sublime text.
 
@@ -785,13 +839,11 @@
 
 [C99](https://packagecontrol.io/packages/C99) - Replacement self-contained C99 syntax definition for Sublime Text
 
-[CAOS Syntax Highlighter](https://packagecontrol.io/packages/CAOS%20Syntax%20Highlighter) - No description provided
+[CAOS Syntax Highlighter](https://packagecontrol.io/packages/CAOS%20Syntax%20Highlighter) - CAOS Syntax highlighter for Sublime Text
 
 [CAside](https://packagecontrol.io/packages/CAside) - A Source/Header Files Synchronizer for Sublime Text 3
 
 [CBP Syntax Highlighter](https://packagecontrol.io/packages/CBP%20Syntax%20Highlighter) - A Sublime Text syntax highlighter for the Command Block Parser by WubbiConcepts
-
-[CCL Tools](https://packagecontrol.io/packages/CCL%20Tools) - No description provided
 
 [CComplete](https://packagecontrol.io/packages/CComplete) - A code completion plugin for sublime text 3
 
@@ -805,15 +857,15 @@
 
 [CFG Configuration Syntax Highlighting](https://packagecontrol.io/packages/CFG%20Configuration%20Syntax%20Highlighting) - .cfg tmLanguage definition for syntax highlighting in Sublime Text
 
-[CFML](https://packagecontrol.io/packages/CFML) - CFML (ColdFusion and Lucee) package for Sublime Text 3
+[CFML](https://packagecontrol.io/packages/CFML) - CFML (ColdFusion and Lucee) package for Sublime Text
 
 [CFMLDocPlugin](https://packagecontrol.io/packages/CFMLDocPlugin) - A Sublime 2/3 plugin for generating JavaDoc/YUIDoc style comments in CFML (Both tags and script)
-
-[CFile](https://packagecontrol.io/packages/CFile) - small sublime plugin
 
 [CForm](https://packagecontrol.io/packages/CForm) - SublimeText plugin for CloudFormation
 
 [CHeaders](https://packagecontrol.io/packages/CHeaders) - Its a sublime text plugin, that will help you to find clang headers...(DEPRECATED)
+
+[CIDR Convert](https://packagecontrol.io/packages/CIDR%20Convert) - Convert to/from cidr notation in Sublime Text
 
 [CJSX Syntax](https://packagecontrol.io/packages/CJSX%20Syntax) - Syntax highlighting for CJSX in Sublime Text 3
 
@@ -832,8 +884,6 @@
 [CMakeEditor](https://packagecontrol.io/packages/CMakeEditor) - A Sublime Text 2/3 plugin that provides CMake quick reference, auto-completion and syntax highlight
 
 [CMakeFormat](https://packagecontrol.io/packages/CMakeFormat) - Sublime Plugin for cmake_format (CMake Autoformatter)
-
-[CMakeSnippets](https://packagecontrol.io/packages/CMakeSnippets) - CMake code snippets and completion for variables and commands in Sublime Text 2/3
 
 [CNC BoschRexroth MTX](https://packagecontrol.io/packages/CNC%20BoschRexroth%20MTX) - CNC BoschRexroth MTX language support for SublimeText
 
@@ -905,9 +955,7 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [CSS-On-Diet](https://packagecontrol.io/packages/CSS-On-Diet) - Easy and fast CSS preprocessor based on Emmet (Zen-Coding) idea
 
-[CSS3](https://packagecontrol.io/packages/CSS3) - The most complete CSS support for Sublime Text 3
-
-[CSS3_Syntax](https://packagecontrol.io/packages/CSS3_Syntax) - Sublime Text package for CSS3 syntax highlighting.
+[CSS3](https://packagecontrol.io/packages/CSS3) - The most complete CSS support for Sublime Text
 
 [CSSEdit Group support](https://packagecontrol.io/packages/CSSEdit%20Group%20support) - Sublime Text plugin to make ST users like CSS Edit users a bit more. 
 
@@ -930,6 +978,8 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 [CSScomb Alpha Sort](https://packagecontrol.io/packages/CSScomb%20Alpha%20Sort) - Tool for sorting CSS properties in alphabetical order.
 
 [CSV](https://packagecontrol.io/packages/CSV) - Basic operations on CSV files to sort and format their data
+
+[CSV Record View](https://packagecontrol.io/packages/CSV%20Record%20View) - Package for transforming csv line to record view in Sublime Text
 
 [CSharpreter](https://packagecontrol.io/packages/CSharpreter) - Build and execute fragments of C# code
 
@@ -977,7 +1027,7 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [Capybara Snippets](https://packagecontrol.io/packages/Capybara%20Snippets) - Capybara snippets for Sublime Text 2
 
-[Carbon](https://packagecontrol.io/packages/Carbon) - 🖥️ A Sublime Text 3 Plugin for Carbon. (https://carbon.now.sh)
+[Carbon](https://packagecontrol.io/packages/Carbon) - 🚀 A Sublime Text 3 Plugin for Carbon. (https://carbon.now.sh)
 
 [Carto](https://packagecontrol.io/packages/Carto) - Carto syntax highlighter and autocompletion for Sublime Text editor
 
@@ -1007,7 +1057,7 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [Change Tracker](https://packagecontrol.io/packages/Change%20Tracker) - Plugin for SublimeText editor to highlight changes made in file since last save
 
-[ChangeList](https://packagecontrol.io/packages/ChangeList) - The missing Change List for Sublime Text 2/3 - History List, Last Edit ...
+[ChangeList](https://packagecontrol.io/packages/ChangeList) - DEPRECATED: The missing Change List for Sublime Text 2/3 - History List, Last Edit ...
 
 [ChangeQuotes](https://packagecontrol.io/packages/ChangeQuotes) - Converts single to double or double to single quotes.  Attempts to preserve correct escaping, though this could be improved I&#x27;m sure.
 
@@ -1018,8 +1068,6 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 [Chaplin.js](https://packagecontrol.io/packages/Chaplin.js) - Chaplin.js tools
 
 [Char Value](https://packagecontrol.io/packages/Char%20Value) - Get byte value (or Unicode code point) of the selected characters.
-
-[Character Table](https://packagecontrol.io/packages/Character%20Table) - Provide a Character Table to lookup and insert any Unicode Character.  Support for Vim Digraphs (rfc1345 character mnemonics).
 
 [Charcoal](https://packagecontrol.io/packages/Charcoal) - Sublime Text 2/3 color scheme based on Oceanic Next: ready for ES6, optimized for babel-sublime
 
@@ -1032,8 +1080,6 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 [Cheatsheet](https://packagecontrol.io/packages/Cheatsheet) - Quick reference for those pesky little details that just won&#x27;t stay in your head.
 
 [CheckTypos](https://packagecontrol.io/packages/CheckTypos) - TypoChecker Plugin
-
-[ChecksumUPC](https://packagecontrol.io/packages/ChecksumUPC) - A plugin for Sublime Text 3 that adds the checkdigit to selected 11 digit UPC-As
 
 [CheerfullyDark](https://packagecontrol.io/packages/CheerfullyDark) - Color scheme for Sublime Text
 
@@ -1055,7 +1101,7 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [ChineseOpenConvert](https://packagecontrol.io/packages/ChineseOpenConvert) - Translation between Traditional Chinese and Simplified Chinese. 繁简转换。
 
-[Chipper](https://packagecontrol.io/packages/Chipper) - Sublime text syntax recognization for the Chipper CHIP8 Assembler Language
+[Chipper](https://packagecontrol.io/packages/Chipper) - Sublime text syntax recognition for the Chipper CHIP8 Assembler Language
 
 [ChipseaAssembly](https://packagecontrol.io/packages/ChipseaAssembly) - chipsea assembly highlight
 
@@ -1079,6 +1125,8 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [ChromeREPL](https://packagecontrol.io/packages/ChromeREPL) - A Sublime Text plugin to execute JavaScript in Google Chrome
 
+[Chromeless](https://packagecontrol.io/packages/Chromeless) - A Sublime Text v3+ plugin to allow removing the titlebar of the window.
+
 [ChromiumTodoView](https://packagecontrol.io/packages/ChromiumTodoView) - A Sublime Text 3 plugin which displays chromium bug info for TODO(######): comments.
 
 [ChromiumXRefs](https://packagecontrol.io/packages/ChromiumXRefs) - Shows Chromium code cross-references from cs.chromium.org
@@ -1087,11 +1135,7 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [ChucK Syntax](https://packagecontrol.io/packages/ChucK%20Syntax) - Sublime Text support for the ChucK language
 
-[Chunks](https://packagecontrol.io/packages/Chunks) - Send text to an API &amp; insert a snippet in it&#x27;s place.
-
 [Ciapre Color Scheme](https://packagecontrol.io/packages/Ciapre%20Color%20Scheme) - Ciapre - an easy-on-the-eyes Sublime Text/TextMate color scheme.
-
-[CircleCi Status](https://packagecontrol.io/packages/CircleCi%20Status) - CircleCI Plugin for Sublime Text 3
 
 [Circuits](https://packagecontrol.io/packages/Circuits) - Syntax Highlighting for Various Electronic Design Files
 
@@ -1101,9 +1145,13 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [CiteBibtex](https://packagecontrol.io/packages/CiteBibtex) - Effortlessly insert citations from BibTeX into texts written in Pandoc or LaTeX
 
+[CiteTeX](https://packagecontrol.io/packages/CiteTeX) - A sublime text plugin to add citation and reference assistance.
+
 [Citer](https://packagecontrol.io/packages/Citer) -  Citations from bibtex for Sublime Text 3
 
 [Civic Color Scheme](https://packagecontrol.io/packages/Civic%20Color%20Scheme) - Sublime Text Color Scheme based on Xcode 8 Civic theme (WWDC 2016 colors)
+
+[Claat Snippets](https://packagecontrol.io/packages/Claat%20Snippets) - Making writing CLAAT (Google&#x27;s CodeLab As A Thing) markdown files fun and easy on Sublime Text since 2020.
 
 [Clafer Tools](https://packagecontrol.io/packages/Clafer%20Tools) - Integration of Clafer Compiler and Instance Generators into Sublime Text 2/3
 
@@ -1131,6 +1179,8 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [ClearConsole](https://packagecontrol.io/packages/ClearConsole) - A hacky way to clear the console in Sublime.
 
+[ClearCursorsCarets](https://packagecontrol.io/packages/ClearCursorsCarets) - To clear the Sublime Text mouse selections before close any opened panel when hitting the `escape` key
+
 [Click](https://packagecontrol.io/packages/Click) - Click Modular Router Configuration File Syntax for Sublime Text
 
 [Click To Partial](https://packagecontrol.io/packages/Click%20To%20Partial) - Sublime Text 3 plugin for clicking a rails partial path and open the file.
@@ -1155,6 +1205,8 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [CloneFile](https://packagecontrol.io/packages/CloneFile) - Duplicate view and clone file in list
 
+[Close All Untouched Files](https://packagecontrol.io/packages/Close%20All%20Untouched%20Files) - Close All Untouched Files plugin for Sublime Text
+
 [Close Oldest File](https://packagecontrol.io/packages/Close%20Oldest%20File) - Close the view that was the least recently activated among opened files.
 
 [CloseAllButThis](https://packagecontrol.io/packages/CloseAllButThis) - Close all files except current file
@@ -1169,11 +1221,17 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [CloseTabsLeft](https://packagecontrol.io/packages/CloseTabsLeft) - sublime plugin to close tabs on the left
 
-[ClosureMyJS](https://packagecontrol.io/packages/ClosureMyJS) - Sublime Text plugin to minimize JavaScript files using Google Closure.
+[CloudFormation Validation](https://packagecontrol.io/packages/CloudFormation%20Validation) - Build System for Sublime Text to Validate AWS Cloudformation Templates in Json or Yaml
+
+[CloudWatchLogs](https://packagecontrol.io/packages/CloudWatchLogs) - Sublime Text plugin for AWS CloudWatch Logs
 
 [Clouds Color Schemes](https://packagecontrol.io/packages/Clouds%20Color%20Schemes) - Clouds Color Schemes for Sublime Text
 
 [Cloudup](https://packagecontrol.io/packages/Cloudup) - Share code snippets and files to Cloudup easily from Sublime
+
+[Cmder](https://packagecontrol.io/packages/Cmder) - Cmder for Sublime Text run customer command, `Cmder for Sublime Text`  run any command. You can use it to run any os command, such as python, java, ruby, go, c, c++, github, docker, heroku, etc.
+
+[Cml Syntax Highlight](https://packagecontrol.io/packages/Cml%20Syntax%20Highlight) - Sublime Text syntax highlighting for single-file Cml components
 
 [CoNLL-U](https://packagecontrol.io/packages/CoNLL-U) - Syntax highlighting for CoNLL-U (.conllu, .conll) files on Sublime Text.
 
@@ -1191,11 +1249,15 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [Coda Redux](https://packagecontrol.io/packages/Coda%20Redux) - Dark themes based on Coda&#x27;s default theme
 
+[Codam Headers](https://packagecontrol.io/packages/Codam%20Headers) - A sublime text plug-in for the students of Codam
+
 [Code Alignment](https://packagecontrol.io/packages/Code%20Alignment) - Implements an interface from ST2 to CodeAlignment for VS and Notepad++
 
 [Code Cast](https://packagecontrol.io/packages/Code%20Cast) - Plugin to cast your file for networked preview.
 
 [Code Champion](https://packagecontrol.io/packages/Code%20Champion) - Plays epic sound clips when you write epic code on sublime Text!
+
+[Code Color](https://packagecontrol.io/packages/Code%20Color) - The minimal sintax theme for sublime text 
 
 [Code Foo](https://packagecontrol.io/packages/Code%20Foo) - Sublime Text 2 plug in to do some magic
 
@@ -1211,13 +1273,21 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [CodeComplice](https://packagecontrol.io/packages/CodeComplice) - CodeIntel for Sublime Text 2 / 3
 
+[CodeCounter](https://packagecontrol.io/packages/CodeCounter) - A Code Counting plugin for Sublime Text.
+
 [CodeDrafts](https://packagecontrol.io/packages/CodeDrafts) - Share, review and discuss code snippets directly from Sublime Text to CodeDrafts, a code review tool.
+
+[CodeFall Color Scheme](https://packagecontrol.io/packages/CodeFall%20Color%20Scheme) - Codefall is a dark Color-Scheme for Sublime Text.
 
 [CodeFormatter](https://packagecontrol.io/packages/CodeFormatter) - Code Formatter plugin for ST2/ST3
 
 [CodeIgniter 2 ModelController](https://packagecontrol.io/packages/CodeIgniter%202%20ModelController) - Sublime Text 2 Snippet enabling fast creation of CodeIgniter 2 Controllers and Models
 
-[CodeIgniter Snippets](https://packagecontrol.io/packages/CodeIgniter%20Snippets) - A list of codeigniter snippets for Sublime Text 2
+[CodeIgniter 3 Snippets](https://packagecontrol.io/packages/CodeIgniter%203%20Snippets) - Codeigniter Snippets for Sublime Text
+
+[CodeIgniter 4 Snippets](https://packagecontrol.io/packages/CodeIgniter%204%20Snippets) - Codeigniter 4 snippets for Sublime Text 3
+
+[CodeIgniter Snippets](https://packagecontrol.io/packages/CodeIgniter%20Snippets) - A list of codeigniter 3 snippets for Sublime Text 2/3
 
 [CodeIgniter Utilities](https://packagecontrol.io/packages/CodeIgniter%20Utilities) - CodeIgniter utilities and library snippets for Sublime Text Editor
 
@@ -1241,11 +1311,15 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [CodeTestSwitcher](https://packagecontrol.io/packages/CodeTestSwitcher) - Sublime Text Code Test Switcher
 
+[CodeTime](https://packagecontrol.io/packages/CodeTime) - Track your programming activity in real-time in Sublime Text
+
 [CodeTimeTracker](https://packagecontrol.io/packages/CodeTimeTracker) - Sublime plugin to measure the time spent on projects
 
 [CodeWrapper](https://packagecontrol.io/packages/CodeWrapper) - A Sublime Text 3 package to wrap code at the touch of a button.
 
-[Codec](https://packagecontrol.io/packages/Codec) - Codecs Plugin for Sublime Text. Supports Secure Hash / Message Digest such as MD5, SHA-1, SHA-256, SHA-512, encoding / decoding of Base64, Base62, Base32, Base16, URL encoding, Quoted-Printable, JSON, XML, Punycode, IDNA, etc
+[Codebox](https://packagecontrol.io/packages/Codebox) - No description provided
+
+[Codec](https://packagecontrol.io/packages/Codec) - Codecs Plugin for Sublime Text. Supports Secure Hash / Message Digest such as MD5, SHA-1, SHA-256, SHA-512, encoding / decoding of Base64, Base62, Base32, Base16, URL encoding, Quoted-Printable, JSON, XML, Punycode, IDNA, CSP, etc
 
 [Codechef](https://packagecontrol.io/packages/Codechef) - No description provided
 
@@ -1291,13 +1365,11 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [ColobotSyntaxHighlighting](https://packagecontrol.io/packages/ColobotSyntaxHighlighting) - Package for Sublime Text 3 adding syntax highlighting for CBOT, Colobot Scene and SatCom help files.
 
-[Color Convert](https://packagecontrol.io/packages/Color%20Convert) - sublime text 3 plug, support RGB2HEX &amp; HEX2RGB and more convert mode.
+[Color Convert](https://packagecontrol.io/packages/Color%20Convert) - sublime text 3 plugin, support RGB2HEX &amp; HEX2RGB and more convert mode.
 
 [Color Highlight](https://packagecontrol.io/packages/Color%20Highlight) - 🎨 Lightweight Color Highlight colorizer for Sublime Text
 
 [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter) - ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like &quot;#FFFFFF&quot;, &quot;rgb(255,255,255)&quot;, &quot;white&quot;, etc.) with their real color. Also, plugin adds color picker to easily modify colors. Documentation: https://monnoroch.github.io/ColorHighlighter.
-
-[Color Scheme - AmyCable](https://packagecontrol.io/packages/Color%20Scheme%20-%20AmyCable) - No description provided
 
 [Color Scheme - Baara Dark](https://packagecontrol.io/packages/Color%20Scheme%20-%20Baara%20Dark) - Sublime Text theme
 
@@ -1313,15 +1385,11 @@ and most any file that would live underneath your &#x27;jcr_root&#x27; top level
 
 [Color Scheme - Frontend Delight](https://packagecontrol.io/packages/Color%20Scheme%20-%20Frontend%20Delight) - Sublime Text Theme specifically designed for Front End lengauges by Bernat Fortet
 
+[Color Scheme - Gerbus](https://packagecontrol.io/packages/Color%20Scheme%20-%20Gerbus) - 🌌A stimulating but fulfilling psychedelic-come-down theme for Sublime
+
 [Color Scheme - Gray Matter](https://packagecontrol.io/packages/Color%20Scheme%20-%20Gray%20Matter) - A colour scheme for Sublime Text and Visual Studio Code that takes design cues from popular minimalist Markdown text editors.
 
-[Color Scheme - JustBeforeDawn](https://packagecontrol.io/packages/Color%20Scheme%20-%20JustBeforeDawn) - A greyer spin of the Dawn theme by David Powers for ST 2/3
-
 [Color Scheme - Legacy](https://packagecontrol.io/packages/Color%20Scheme%20-%20Legacy) - Color schemes that were part of Sublime Text 2 and older builds of Sublime Text 3
-
-[Color Scheme - Nice Blue Soda](https://packagecontrol.io/packages/Color%20Scheme%20-%20Nice%20Blue%20Soda) - A simple color scheme that supports many languages and plugins.
-
-Using a very simple blue gray mix of colors.
 
 [Color Scheme - Pastels UI](https://packagecontrol.io/packages/Color%20Scheme%20-%20Pastels%20UI) - SublimeText 3 color scheme with pastels colors
 
@@ -1339,13 +1407,13 @@ Using a very simple blue gray mix of colors.
 
 [Color Scheme - Yotsuba](https://packagecontrol.io/packages/Color%20Scheme%20-%20Yotsuba) - A Yotsuba flavored colorscheme for SublimeText
 
-[Color Scheme - saulhudson](https://packagecontrol.io/packages/Color%20Scheme%20-%20saulhudson) - Sublime Text 2 color Scheme
-
 [Color Schemes - Wicked Schemes by b0xw00d](https://packagecontrol.io/packages/Color%20Schemes%20-%20Wicked%20Schemes%20by%20b0xw00d) - Sublime Text 3 color schemes.  Available through Package Control.
 
 [Color Schemes by carlcalderon](https://packagecontrol.io/packages/Color%20Schemes%20by%20carlcalderon) - A collection of color schemes.
 
-[ColorHelper](https://packagecontrol.io/packages/ColorHelper) - Sublime plugin that provides helpful color tooltips http://facelessuser.github.io/ColorHelper/
+[ColorHelper](https://packagecontrol.io/packages/ColorHelper) - Sublime plugin that provides helpful color tooltips
+
+[ColorHints](https://packagecontrol.io/packages/ColorHints) - Inline color hints for Sublime Text
 
 [ColorPick](https://packagecontrol.io/packages/ColorPick) - Color picker plugin for Sublime Text 2 and 3 (Mac OS X)
 
@@ -1358,6 +1426,8 @@ Using a very simple blue gray mix of colors.
 [ColorSchemeUnit](https://packagecontrol.io/packages/ColorSchemeUnit) - A testing framework for Sublime Text color schemes.
 
 [Colorcoder](https://packagecontrol.io/packages/Colorcoder) - Semantic highlight for Sublime Text
+
+[Colored Comments](https://packagecontrol.io/packages/Colored%20Comments) - Colored Comments is a SublimeText plugin to provide Comment Colorization
 
 [Colorsublime](https://packagecontrol.io/packages/Colorsublime) - Plugin for Color Sublime
 
@@ -1381,8 +1451,6 @@ Using a very simple blue gray mix of colors.
 
 [ComicSansToggle](https://packagecontrol.io/packages/ComicSansToggle) - Sublime Text plugin for toggling your font to Comic Sans MS
 
-[Command Help](https://packagecontrol.io/packages/Command%20Help) - Dynamically create command help from runtime information.
-
 [CommandOnSave](https://packagecontrol.io/packages/CommandOnSave) - Sublime Text 2 Plugin, it executes a command on file save
 
 [Commandbox](https://packagecontrol.io/packages/Commandbox) - The official CommandBox support package for Sublime IDE
@@ -1405,7 +1473,7 @@ Using a very simple blue gray mix of colors.
 
 [Compadre Ipsum Snippet](https://packagecontrol.io/packages/Compadre%20Ipsum%20Snippet) - Compadre Ipsum Sublime Snippet 
 
-[Compare Side-By-Side](https://packagecontrol.io/packages/Compare%20Side-By-Side) - Side-by-side file comparison &amp; difference tool for ST2/3
+[Compare Side-By-Side](https://packagecontrol.io/packages/Compare%20Side-By-Side) - No description provided
 
 [Compass](https://packagecontrol.io/packages/Compass) - Compass Build System for Sublime Text
 
@@ -1419,11 +1487,13 @@ Using a very simple blue gray mix of colors.
 
 [CompleteSharp](https://packagecontrol.io/packages/CompleteSharp) - C# completions for Sublime Text 2
 
+[CompleteXmlTag](https://packagecontrol.io/packages/CompleteXmlTag) - A sublime text plugin for completing xml tag.
+
 [ComplexBuild](https://packagecontrol.io/packages/ComplexBuild) - Sublime Text plugin that allows creating more complex build environments, with multiple commands and variables
 
 [Composer](https://packagecontrol.io/packages/Composer) - composer plugin for Sublime Text 2
 
-[ComposerPackageInfo](https://packagecontrol.io/packages/ComposerPackageInfo) - 🎼 A Sublime Text 3 package which provides a popup for Composer packages.
+[ComposerPackageInfo](https://packagecontrol.io/packages/ComposerPackageInfo) - 🎼 A Sublime Text 3 package which shows Composer packages information in a popup.
 
 [Compressor](https://packagecontrol.io/packages/Compressor) - Open gzip &amp; bzip2 files with Sublime Text
 
@@ -1457,7 +1527,9 @@ Using a very simple blue gray mix of colors.
 
 [ControlScroll](https://packagecontrol.io/packages/ControlScroll) - Sublime text 2 plugin for fast ctrl+mousewheel scrolling, Eclipse style
 
-[ConvertChineseCharacters](https://packagecontrol.io/packages/ConvertChineseCharacters) - Plugin for Sublime text 3 for convert chinese characters.
+[ConvertChineseCharacters](https://packagecontrol.io/packages/ConvertChineseCharacters) - Plugin for Sublime text 3 for convert chinese characters, allowing you to convert your .js, .json, and .css files.
+
+[ConvertEpochToDate](https://packagecontrol.io/packages/ConvertEpochToDate) - Sublime Text v2/v3 plugin to convert Epoch timestamp to human Date
 
 [ConvertFullHalfWidth](https://packagecontrol.io/packages/ConvertFullHalfWidth) - It convert Full-width to Half-width or Half-width to Full-width.
 
@@ -1469,6 +1541,8 @@ Using a very simple blue gray mix of colors.
 
 [Cool Code Scheme](https://packagecontrol.io/packages/Cool%20Code%20Scheme) - A cool darks colours scheme
 
+[CoolBase64](https://packagecontrol.io/packages/CoolBase64) - Sublime Text 3 plugin with a few functions for encoding to and from Base64 
+
 [CoolFormat](https://packagecontrol.io/packages/CoolFormat) - A Sublime Text plugin for Source Code Formatter
 
 [Copy Block](https://packagecontrol.io/packages/Copy%20Block) - Sublime Text 2 Plugin to cut and copy blocks of text
@@ -1479,9 +1553,13 @@ Using a very simple blue gray mix of colors.
 
 [Copy File Name](https://packagecontrol.io/packages/Copy%20File%20Name) - Copy the file name from the right click menu in Sublime Text 2
 
-[Copy Filepath With Line Numbers](https://packagecontrol.io/packages/Copy%20Filepath%20With%20Line%20Numbers) - Copy filepath of current file with number of selected line(s)
+[Copy Filepath With Line Numbers](https://packagecontrol.io/packages/Copy%20Filepath%20With%20Line%20Numbers) - Copy filepath of current file with number of selected line(s) in Sublime Text editor
 
 [Copy PHP Namespace](https://packagecontrol.io/packages/Copy%20PHP%20Namespace) - Namespace copy (for PHP) plugin for Sublime Text 2
+
+[Copy Paste Increment](https://packagecontrol.io/packages/Copy%20Paste%20Increment) - Sublime Text plugin that copies the selected content while incrementing any numbers found within.
+
+[Copy Paste Killer](https://packagecontrol.io/packages/Copy%20Paste%20Killer) - Sublime text 3 plugin to help to refactor duplicated code
 
 [Copy Python Path](https://packagecontrol.io/packages/Copy%20Python%20Path) - CopyPythonPath
 
@@ -1511,13 +1589,17 @@ Using a very simple blue gray mix of colors.
 
 [CoreBuilder](https://packagecontrol.io/packages/CoreBuilder) - Sublime Text plugin for Omie CoreBuilder.
 
+[Coreboot syntax](https://packagecontrol.io/packages/Coreboot%20syntax) - read-only mirror of https://review.coreboot.org/sublime-text-coreboot-syntax
+
 [Corona Editor](https://packagecontrol.io/packages/Corona%20Editor) - Corona Editor is the official Corona SDK plugin for Sublime Text
 
 [Cortex](https://packagecontrol.io/packages/Cortex) - Cortex support for Sublime Text
 
-[Cosmos Scope](https://packagecontrol.io/packages/Cosmos%20Scope) - No description provided
+[Cosmos Scope](https://packagecontrol.io/packages/Cosmos%20Scope) - Sublime Text 3 syntax highlighting for Cosmos Scope
 
 [Cotonti](https://packagecontrol.io/packages/Cotonti) - Cotonti CMF snippets for SublimeText 2 and SublimeText 3
+
+[CoverMe](https://packagecontrol.io/packages/CoverMe) - A Sublime Text 3 Plugin to view code coverage for any programming language&#x27;s test framework.
 
 [Cowsay](https://packagecontrol.io/packages/Cowsay) - ✏️🐮 A silly little Sublime Text plugin for 2 and 3 to allow you to quickly convert a text selection to a cow speech bubble via the brilliant cowsay utility.
 
@@ -1525,11 +1607,17 @@ Using a very simple blue gray mix of colors.
 
 [CppFastOlympicCoding](https://packagecontrol.io/packages/CppFastOlympicCoding) - Tools for competitive programming for Sublime Text 3
 
+[CppToolkit](https://packagecontrol.io/packages/CppToolkit) - Sublime Text 3+ plugin to make C++ life a little easier
+
+[Crackshell](https://packagecontrol.io/packages/Crackshell) - Syntax highlighters for Crackshell&#x27;s AngelScript, SValue, Unit, and Effect file formats, for Sublime Text 3.
+
 [Craft Development Snippets](https://packagecontrol.io/packages/Craft%20Development%20Snippets) - Some snippets for when you are developing plugins on Craft, created for Sublime Text 3. 
 
 [Craft-Twig](https://packagecontrol.io/packages/Craft-Twig) - A Craft CMS influenced Twig bundle for Sublime Text and Textmate
 
 [CrafterSama Scheme](https://packagecontrol.io/packages/CrafterSama%20Scheme) - A Fresh Colors Scheme for Sublime-Text
+
+[Crates](https://packagecontrol.io/packages/Crates) - A sublime package that fetches crates versions from crates.io
 
 [Create Backup Copy](https://packagecontrol.io/packages/Create%20Backup%20Copy) - Sublime Text plugin that creates time-stamped backup copies of files
 
@@ -1552,8 +1640,6 @@ Using a very simple blue gray mix of colors.
 [Crollow](https://packagecontrol.io/packages/Crollow) - Sublime Text 3 Project Name Generator
 
 [Crontab](https://packagecontrol.io/packages/Crontab) - A Plugin for Crontab Highlighting in Sublime Text 3
-
-[Crontab Syntax](https://packagecontrol.io/packages/Crontab%20Syntax) - Cron / Crontab syntax highlighting for Sublime Text 2 and 3
 
 [Crypto](https://packagecontrol.io/packages/Crypto) - Encrypt and Decrypt a document or selection using OpenSSL in Sublime Text 2 &amp; 3
 
@@ -1629,7 +1715,9 @@ Using a very simple blue gray mix of colors.
 
 [D3js v4](https://packagecontrol.io/packages/D3js%20v4) - Sublime Text package for D3.js v4
 
-[DBLP](https://packagecontrol.io/packages/DBLP) - DBLP Plugin For Sublime Text 2
+[DA CS Color Schemes (Recovered)](https://packagecontrol.io/packages/DA%20CS%20Color%20Schemes%20%28Recovered%29) - DA CS recovery
+
+[DBLP](https://packagecontrol.io/packages/DBLP) - DBLP Plugin For Sublime Text 3
 
 [DBLP Search](https://packagecontrol.io/packages/DBLP%20Search) - DBLP Plugin For Sublime Text 2
 
@@ -1644,6 +1732,8 @@ Using a very simple blue gray mix of colors.
 [DFormat](https://packagecontrol.io/packages/DFormat) - Format D source code in Sublime Text
 
 [DIBOL Programming Language](https://packagecontrol.io/packages/DIBOL%20Programming%20Language) - Sublime Text Editor plug-in to support syntax highlighting for DIBOL aka DBL aka CIF aka Synergex Language aka Synergy Language aka Digital&#x27;s Business Oriented Language
+
+[DLE Syntax Highlighting](https://packagecontrol.io/packages/DLE%20Syntax%20Highlighting) - Syntax definition and useful snippets for Data Life Engine templates
 
 [DLX Syntax](https://packagecontrol.io/packages/DLX%20Syntax) - Provides DLX Syntax for Sublime Text 2.
 
@@ -1669,9 +1759,13 @@ Using a very simple blue gray mix of colors.
 
 [Dark Fusion Color Scheme](https://packagecontrol.io/packages/Dark%20Fusion%20Color%20Scheme) - Port of Atom&#x27;s Dark Fusion Syntax
 
+[Dark Knight Color Scheme](https://packagecontrol.io/packages/Dark%20Knight%20Color%20Scheme) - 🎨 An elegant dark color scheme for Sublime Text ⚡.
+
 [Dark Neon Color Scheme](https://packagecontrol.io/packages/Dark%20Neon%20Color%20Scheme) - Dark Neon theme for Sublime Text, Mou, &amp; Others
 
 [Dark Pastel Color Scheme](https://packagecontrol.io/packages/Dark%20Pastel%20Color%20Scheme) - Dark pastel-colored Sublime Text / TextMate Color Scheme
+
+[DarkDonut Color Schemes](https://packagecontrol.io/packages/DarkDonut%20Color%20Schemes) - A Color Scheme for Sublime Text 3 that fits your flavour! 🎃
 
 [DarkLime Color Scheme](https://packagecontrol.io/packages/DarkLime%20Color%20Scheme) - DarkLime is dark color scheme for Sublime Text. This color scheme will make your codes easy for your eyes to read.
 
@@ -1679,7 +1773,9 @@ Using a very simple blue gray mix of colors.
 
 [Darkula Color Scheme](https://packagecontrol.io/packages/Darkula%20Color%20Scheme) - IntelliJ Darkula Sublime Text / TextMate Color Scheme
 
-[Dart](https://packagecontrol.io/packages/Dart) - Dart Package for Sublime Text 3 (releases only)
+[Dart](https://packagecontrol.io/packages/Dart) - Dart syntax highlighting for Sublime Text 2
+
+[Dartlight](https://packagecontrol.io/packages/Dartlight) - Dart higlight and  Dart/Flutter snippets for sublime text . Adapted from https://github.com/Dart-Code/Dart-Code 
 
 [Darwin](https://packagecontrol.io/packages/Darwin) - Darwin Syntax Highlighting for Sublime Text / TextMate
 
@@ -1701,13 +1797,27 @@ Using a very simple blue gray mix of colors.
 
 [Dayle Rees Color Schemes](https://packagecontrol.io/packages/Dayle%20Rees%20Color%20Schemes) - Colour schemes for a variety of editors created by Dayle Rees.
 
+[Debian Syntax](https://packagecontrol.io/packages/Debian%20Syntax) - Debian packaging file syntax highlighting for Sublime Text.
+
 [Debug Killer](https://packagecontrol.io/packages/Debug%20Killer) - Find debug statements unintentionally left behind in your code
+
+[Debugger](https://packagecontrol.io/packages/Debugger) - Graphical Debugger for Sublime Text using the debug adapter protocol
+
+[Debugger - 3ds Max](https://packagecontrol.io/packages/Debugger%20-%203ds%20Max) - A debug adapter for debugging Python within Autodesk 3ds Max, using Sublime Text 3 and 4
+
+[Debugger - Maya](https://packagecontrol.io/packages/Debugger%20-%20Maya) - A Sublime Text 3/4 package that connects with the Debugger plugin to debug Python code in Maya
 
 [Decent Color Scheme](https://packagecontrol.io/packages/Decent%20Color%20Scheme) - A decent color scheme for Sublime Text 2/3. Tailored for Python, CSS and Ruby. And regexp. highlighting.
 
+[Decent Swift Syntax](https://packagecontrol.io/packages/Decent%20Swift%20Syntax) - Swift language grammar that doesn&#x27;t suck.
+
 [Deckard](https://packagecontrol.io/packages/Deckard) - SublimeText connector to Deckard
 
+[DeclareThatColor](https://packagecontrol.io/packages/DeclareThatColor) - 🎨 Declares CSS hex codes using  Chirag Mehta&#x27;s name that color tool - Sublime Text 3 plugin.
+
 [Deep Blue See](https://packagecontrol.io/packages/Deep%20Blue%20See) - A Sublime Text Color Scheme
+
+[DeepCodeAI](https://packagecontrol.io/packages/DeepCodeAI) - Deepcode plugin for IDE SublimeText
 
 [Default File Type](https://packagecontrol.io/packages/Default%20File%20Type) - ST2 Package which automatically sets the syntax for new files
 
@@ -1747,9 +1857,11 @@ Using a very simple blue gray mix of colors.
 
 [DevDocs offline](https://packagecontrol.io/packages/DevDocs%20offline) - Sublime quick search symbol in devdocs
 
-[DevSkim](https://packagecontrol.io/packages/DevSkim) - DevSkim plugin for Sublime Text 3.
+[DevSkim](https://packagecontrol.io/packages/DevSkim) - DEPRECATED -- DevSkim plugin for Sublime Text 3.
 
 [Devastate](https://packagecontrol.io/packages/Devastate) - Ultra dark theme and color scheme for Sublime Text
+
+[Devastate Mode-Z](https://packagecontrol.io/packages/Devastate%20Mode-Z) - DevastateMini derivative + Mode-Z colours = Awesome
 
 [DevastateMini](https://packagecontrol.io/packages/DevastateMini) - No description provided
 
@@ -1757,17 +1869,15 @@ Using a very simple blue gray mix of colors.
 
 [Deviot (Arduino IDE)](https://packagecontrol.io/packages/Deviot%20%28Arduino%20IDE%29) - Sublime Text plugin for IoT development based in PlatformIO ecosystem (Arduino IDE)
 
-[Devrabbit Paste](https://packagecontrol.io/packages/Devrabbit%20Paste) - Post to Devrabb.it/paste using sublime
-
-[Dhall](https://packagecontrol.io/packages/Dhall) - Dhall syntax highlighting for Sublime Text
-
 [Diagram](https://packagecontrol.io/packages/Diagram) - A Plug-In for Sublime Text 2 / 3 To Render Diagrams In Your Source Code
+
+[Dict Verification Template Syntax](https://packagecontrol.io/packages/Dict%20Verification%20Template%20Syntax) - No description provided
 
 [Diction](https://packagecontrol.io/packages/Diction) - Plugin for SublimeText 2/3 that uses GNU diction to highlight style mistakes in text
 
 [DictionaryAutoComplete](https://packagecontrol.io/packages/DictionaryAutoComplete) - This adds dictionary entries to the completions inside comments. For lazy typers!
 
-[DiffTabs](https://packagecontrol.io/packages/DiffTabs) - Sublime Test 2/3 plugin that adds the option to diff the current tab with another open tab.
+[DiffTabs](https://packagecontrol.io/packages/DiffTabs) - Sublime Text 2/3 plugin that adds the option to diff the current tab with another open tab.
 
 [DiffView](https://packagecontrol.io/packages/DiffView) - Side-by-Side Git, SVN and Bazaar Diff Viewer for Sublime Text 3
 
@@ -1779,19 +1889,21 @@ Using a very simple blue gray mix of colors.
 
 [DinkDonk Color Scheme](https://packagecontrol.io/packages/DinkDonk%20Color%20Scheme) - DinkDonk - A Dark Color Scheme for Sublime Text
 
-[Direct Open](https://packagecontrol.io/packages/Direct%20Open) - Directly open frequently used file in sublime text 3
+[Direct Copy](https://packagecontrol.io/packages/Direct%20Copy) - Copy frequently used contents to clipboard by shortcuts
 
-[Directory Settings](https://packagecontrol.io/packages/Directory%20Settings) - ST2 and 3 plugin that allows you to have per-directory preferences and settings.
+[Direct Open](https://packagecontrol.io/packages/Direct%20Open) - Directly open frequently used file in sublime text 3
 
 [Direnv](https://packagecontrol.io/packages/Direnv) - Sublime integrate Direnv
 
 [DisableArrowKeys](https://packagecontrol.io/packages/DisableArrowKeys) - Sublime Text plugin to disable arrow keys
 
-[Discord Rich Presence](https://packagecontrol.io/packages/Discord%20Rich%20Presence) - Discord Rich Presence for Sublime Text 2 &amp; 3
+[Discord Rich Presence](https://packagecontrol.io/packages/Discord%20Rich%20Presence) - 📄 Discord rich presence for Sublime Text
 
 [Disk Inventory X](https://packagecontrol.io/packages/Disk%20Inventory%20X) - Open Disk Inventory X from Sublime
 
 [Display Functions (Java)](https://packagecontrol.io/packages/Display%20Functions%20%28Java%29) - Autocompletes Java Methods in Sublime Text 2
+
+[Display numbers](https://packagecontrol.io/packages/Display%20numbers) - Sublime 3 plugin that shows a number in 10, 16, 2 and 8 numeral systems
 
 [DistZilla Build](https://packagecontrol.io/packages/DistZilla%20Build) - No description provided
 
@@ -1809,6 +1921,8 @@ Using a very simple blue gray mix of colors.
 
 [Django Starter](https://packagecontrol.io/packages/Django%20Starter) - A Sublime Text 3 Plugin to generate a Django Project Template in Sublime Text 3. 
 
+[Django Syntax](https://packagecontrol.io/packages/Django%20Syntax) - Syntax definitions of Django templates for Sublime Text
+
 [Django Tags](https://packagecontrol.io/packages/Django%20Tags) - Django Template tag switcher for Sublime Text
 
 [Django-DocsSearch](https://packagecontrol.io/packages/Django-DocsSearch) - Search in Django documentation on RTFD.org
@@ -1821,11 +1935,17 @@ Using a very simple blue gray mix of colors.
 
 [DjangoNoseTestRunner](https://packagecontrol.io/packages/DjangoNoseTestRunner) - SublimeText2 plugin for running Django tests from the currently selected file using Nose test runner.
 
+[DlangAutoFileName](https://packagecontrol.io/packages/DlangAutoFileName) - Sublime 3 Dlang Plugin will set name new file. 
+
+[DlangAutoImport](https://packagecontrol.io/packages/DlangAutoImport) - Sublime 3 D-lang AutoImport plugin. Add &quot;import ....&quot; for symbol.
+
+[DlangAutoModuleName](https://packagecontrol.io/packages/DlangAutoModuleName) - Sublime 3 D AutoModuleName plugin. Add &quot;module path.folder.name;&quot;.
+
 [DobDark Color Scheme](https://packagecontrol.io/packages/DobDark%20Color%20Scheme) - A dark and vibrant syntax theme for Sublime Text.
 
 [DocBlockr](https://packagecontrol.io/packages/DocBlockr) - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C &amp; C++
 
-[DocBlockr with comments update](https://packagecontrol.io/packages/DocBlockr%20with%20comments%20update) - Create, Update, Translate comments for 50+ languages and 15+ documenting styles (including Doxygen, JsDoc3, PhpDoc). This version of DoxyDoxygen includes some DocBlockr shortcuts that are not in the regular edition
+[DocBlockr 2021 (DoxyDoxygen powered)](https://packagecontrol.io/packages/DocBlockr%202021%20%28DoxyDoxygen%20powered%29) - Create, Update, Translate comments for 50+ languages and 15+ documenting tools (including Doxygen, JsDoc3, PhpDoc). This edition of DoxyDoxygen includes some DocBlockr shortcuts that are not in the regular edition.
 
 [DocBlockr_Python](https://packagecontrol.io/packages/DocBlockr_Python) - Sublime Text DocBlockr for python. Simplifies writing docstring comments in Python.
 
@@ -1850,6 +1970,8 @@ Using a very simple blue gray mix of colors.
 [DokuWiki](https://packagecontrol.io/packages/DokuWiki) - DokuWiki syntax support for Sublime Text 2
 
 [DokuWiki Syntax](https://packagecontrol.io/packages/DokuWiki%20Syntax) - DokuWiki syntax highlighting and basic TAB-autocompletions for Sublime Text 3
+
+[Done](https://packagecontrol.io/packages/Done) - Done - a simple todo list plugin for SublimeText
 
 [DotENV](https://packagecontrol.io/packages/DotENV) - Syntax Highlighting support for Environment (.env) Files
 
@@ -1879,9 +2001,11 @@ Using a very simple blue gray mix of colors.
 
 [DrMonthsCalendar](https://packagecontrol.io/packages/DrMonthsCalendar) - Sublimetext plugin - simple 3 months calendar
 
-[Dracula Color Scheme](https://packagecontrol.io/packages/Dracula%20Color%20Scheme) - :scream: A dark theme for Sublime Text
+[Dracula Color Scheme](https://packagecontrol.io/packages/Dracula%20Color%20Scheme) - 🧛🏻‍♂️ Dark theme for Sublime Text
 
 [Dream Maker](https://packagecontrol.io/packages/Dream%20Maker) - A Sublime Text 2 Theme/Build System for Dream Maker (http://byond.com)
+
+[DreamMaker Language Client](https://packagecontrol.io/packages/DreamMaker%20Language%20Client) - Sublime Text 3 package for SpacemanDMM&#x27;s dm-langserver. Report issues on SpacemanDMM.
 
 [Drive Color Scheme](https://packagecontrol.io/packages/Drive%20Color%20Scheme) - Sublime Text 2 Drive Colour Scheme
 
@@ -1892,6 +2016,8 @@ Using a very simple blue gray mix of colors.
 [Drupal](https://packagecontrol.io/packages/Drupal) - A package for Drupal snippets, autocomplete support, and info file syntax highlighting for Sublime Text
 
 [Drupal Completions](https://packagecontrol.io/packages/Drupal%20Completions) - Drupal completion code for Sublime Text 2/3 with common modules
+
+[Drupal Hooks](https://packagecontrol.io/packages/Drupal%20Hooks) - Sublime Text extension to add hook snippet support for the Drupal 8 and Drupal 9 API.
 
 [Drupal Project Autocomplete](https://packagecontrol.io/packages/Drupal%20Project%20Autocomplete) - A Sublime Text 2 plugin which provides autocomplete for all Drupal functions.
 
@@ -1913,8 +2039,6 @@ Using a very simple blue gray mix of colors.
 
 [DumperWrap](https://packagecontrol.io/packages/DumperWrap) - Console log selected variable
 
-[Duotone Dark Red](https://packagecontrol.io/packages/Duotone%20Dark%20Red) - A port of duotone-dark-red to sublime text.
-
 [Duotones Colorschemes](https://packagecontrol.io/packages/Duotones%20Colorschemes) - Colorschemes for Sublime Text based on DuoTone themes by Simurai
 
 [Duplicate And Increment](https://packagecontrol.io/packages/Duplicate%20And%20Increment) - It is a sublimetext plugin that increments while duplicating lines.
@@ -1928,10 +2052,6 @@ Using a very simple blue gray mix of colors.
 [DustBuster](https://packagecontrol.io/packages/DustBuster) - :dash: Dust.js syntax &amp; completions for ST3
 
 [Dylan](https://packagecontrol.io/packages/Dylan) - TextMate support for Dylan
-
-[Dynamic Commands](https://packagecontrol.io/packages/Dynamic%20Commands) - Create portable sublime configurations only valid in local environments.
-
-[E-Mail](https://packagecontrol.io/packages/E-Mail) - Write mails using sublime text.
 
 [E-Max](https://packagecontrol.io/packages/E-Max) - Emacs keybindings for the Sublime Text editor.
 
@@ -1951,7 +2071,7 @@ Using a very simple blue gray mix of colors.
 
 [EJS 2](https://packagecontrol.io/packages/EJS%202) - EJS syntax definition for Sublime Text 3
 
-[EML (E-Mail)](https://packagecontrol.io/packages/EML%20%28E-Mail%29) - Syntax Highlighting for E-Mail in Sublime
+[EML (E-Mail)](https://packagecontrol.io/packages/EML%20%28E-Mail%29) - Email syntax highlighting for Text Mate editor made by @mariozaizar
 
 [EML Syntax](https://packagecontrol.io/packages/EML%20Syntax) - EML Syntax for Sublime Text 3. Forked &amp; Updated from https://github.com/mariozaizar/eml-tmLanguage
 
@@ -1983,6 +2103,12 @@ Using a very simple blue gray mix of colors.
 
 [EZWebSequenceDiagrams](https://packagecontrol.io/packages/EZWebSequenceDiagrams) - Sublime Text 2 plugin to generate sequence diagrams on websequencediagrams.com
 
+[Earthbound Themes](https://packagecontrol.io/packages/Earthbound%20Themes) - Sublime submodule for the earthbound-themes repo 
+
+[Earthly Earthfile](https://packagecontrol.io/packages/Earthly%20Earthfile) - No description provided
+
+[Easy CP](https://packagecontrol.io/packages/Easy%20CP) - A Sublime Text 3 plugin for parsing and running sample testcases with ease!
+
 [Easy Digital Downloads](https://packagecontrol.io/packages/Easy%20Digital%20Downloads) - Sublime Text 2/3 Auto Completion library for EDD
 
 [Easy Import](https://packagecontrol.io/packages/Easy%20Import) - Plugin to automatically import required modules/classes/packages. For sublime text
@@ -1999,6 +2125,8 @@ Using a very simple blue gray mix of colors.
 
 [EasyElement](https://packagecontrol.io/packages/EasyElement) - Wrap HTML tags around selected text in Sublime Text 3
 
+[EasyFileHider](https://packagecontrol.io/packages/EasyFileHider) - Easy file hider plugin built for Sublime Text 3
+
 [EasyMotion](https://packagecontrol.io/packages/EasyMotion) - Sublime Text 2 plugin to quickly jump to any character in the visible area of the active view.
 
 [EasyOpen](https://packagecontrol.io/packages/EasyOpen) - Easy Open file helper tool. mac only
@@ -2007,9 +2135,9 @@ Using a very simple blue gray mix of colors.
 
 [EasySettings](https://packagecontrol.io/packages/EasySettings) - Sublime Settings made easy through auto-completion!
 
-[EasyWorkspace](https://packagecontrol.io/packages/EasyWorkspace) - A plugin for managing workspaces in sublime-text!
+[EasyWinPath](https://packagecontrol.io/packages/EasyWinPath) - Sublime text 3 plugin for dealing easily with win path in json or similar files
 
-[Easygit](https://packagecontrol.io/packages/Easygit) - Plugin for sublime text for easy git integration (- after basic configuration -)
+[EasyWorkspace](https://packagecontrol.io/packages/EasyWorkspace) - A plugin for managing workspaces in sublime-text!
 
 [Echo Evaluator](https://packagecontrol.io/packages/Echo%20Evaluator) - Evaluates the python code and replaces it with the echoed result
 
@@ -2019,11 +2147,13 @@ Using a very simple blue gray mix of colors.
 
 [EddyMalou LoremIpsum](https://packagecontrol.io/packages/EddyMalou%20LoremIpsum) - EddyMalou Lorem Ipsum for Sublime Text
 
-[Edge Syntax Highliter](https://packagecontrol.io/packages/Edge%20Syntax%20Highliter) - The sublime syntax highlighter for Edge
-
 [Edge Theme](https://packagecontrol.io/packages/Edge%20Theme) - Superb theme for Sublime Text 3
 
 [Edge Theme Addon - Linter Theme](https://packagecontrol.io/packages/Edge%20Theme%20Addon%20-%20Linter%20Theme) - A Sublime Linter Gutter Theme
+
+[Edge templates extension](https://packagecontrol.io/packages/Edge%20templates%20extension) - Sublime Text extension for Edge templating engine
+
+[EdgeDB](https://packagecontrol.io/packages/EdgeDB) - EdgeDB plugin for Sublime Text, Atom, and VSCode
 
 [EdgeOS](https://packagecontrol.io/packages/EdgeOS) - Syntax highlighting for EdgeMax EdgeOS.
 
@@ -2037,7 +2167,9 @@ Using a very simple blue gray mix of colors.
 
 [Edit in new tab](https://packagecontrol.io/packages/Edit%20in%20new%20tab) - Sublime Text - edit in new tab plugin
 
-[EditorConfig](https://packagecontrol.io/packages/EditorConfig) - Helps developers maintain consistent coding styles between different editors - Sublime Text plugin
+[Editmode](https://packagecontrol.io/packages/Editmode) - Send text to the editmode API &amp; insert a snippet in its place.
+
+[EditorConfig](https://packagecontrol.io/packages/EditorConfig) - Sublime Text plugin for EditorConfig - Helps developers maintain consistent coding styles between different editors
 
 [EditorConfigSnippets](https://packagecontrol.io/packages/EditorConfigSnippets) - A set of snippets for EditorConfig files
 
@@ -2059,7 +2191,7 @@ Using a very simple blue gray mix of colors.
 
 [Elixir](https://packagecontrol.io/packages/Elixir) - A TextMate and Sublime Text Bundle for the Elixir programming language
 
-[ElixirFormatter](https://packagecontrol.io/packages/ElixirFormatter) - Sublime Text plugin for integration with the official Elixir Formatter.
+[ElixirFormatter](https://packagecontrol.io/packages/ElixirFormatter) - Sublime Text 3 plugin for formatting Elixir files on save via `mix format`
 
 [ElixirPlayground](https://packagecontrol.io/packages/ElixirPlayground) - A Sublime Text 2/3 plugin to share Elixir code with Elixir Playground.
 
@@ -2069,11 +2201,15 @@ Using a very simple blue gray mix of colors.
 
 [ElixirTest](https://packagecontrol.io/packages/ElixirTest) - Directly run `mix test` on single files/tests from within Sublime Text!  
 
-[Elm Language Support](https://packagecontrol.io/packages/Elm%20Language%20Support) - Elm language syntax highlighting and tool integration for ST2/3.
+[Elm Format on Save](https://packagecontrol.io/packages/Elm%20Format%20on%20Save) - Sublime Text plugin to run elm-format on save
 
 [Elm Snippets](https://packagecontrol.io/packages/Elm%20Snippets) - Elm snippets for Sublime Text 2 and 3
 
+[Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - Syntax Highlighting for Elm in Sublime Text
+
 [Eloquent Snippets](https://packagecontrol.io/packages/Eloquent%20Snippets) - No description provided
+
+[Elvish Syntax](https://packagecontrol.io/packages/Elvish%20Syntax) - Elvish shell syntax highlighting for Sublime Text 3
 
 [Emacs Pro Essentials](https://packagecontrol.io/packages/Emacs%20Pro%20Essentials) - Emacs Pro Essentials brings the most common emacs features and key bindings that you love to Sublime Text. The kill and mark rings, i-search, registers, numeric arguments, and cursor motion commands for chars/words/lines/s-expressions are all there and multi-cursor enhanced! Also, improved switch to buffer and zap/jump to char/string, and more!
 
@@ -2099,7 +2235,7 @@ Using a very simple blue gray mix of colors.
 
 [Emblem.js Syntax Highlighting](https://packagecontrol.io/packages/Emblem.js%20Syntax%20Highlighting) - Syntax highlighting for http://emblemjs.com in Sublime Text.
 
-[Emmet](https://packagecontrol.io/packages/Emmet) - Emmet for Sublime Text
+[Emmet](https://packagecontrol.io/packages/Emmet) - The essential toolkit for web-developers
 
 [Emmet Css Snippets](https://packagecontrol.io/packages/Emmet%20Css%20Snippets) - Emmet CSS completions for Sublime Text
 
@@ -2114,6 +2250,8 @@ Using a very simple blue gray mix of colors.
 [Emoji Code](https://packagecontrol.io/packages/Emoji%20Code) - Sublime Text completions to insert escaped Emoji codes into HTML, CSS, JavaScript and Ruby
 
 [EmotiCODE](https://packagecontrol.io/packages/EmotiCODE) - Sublime Text 2 EmotiCODE Plugin
+
+[Enaml Syntax Highlighter](https://packagecontrol.io/packages/Enaml%20Syntax%20Highlighter) - Enaml Syntax Package for SublimeText
 
 [Energy Color Scheme](https://packagecontrol.io/packages/Energy%20Color%20Scheme) - Energy is a flat, colorful theme/UI combo for Sublime Text
 
@@ -2137,11 +2275,11 @@ Using a very simple blue gray mix of colors.
 
 [EnvSwitcher](https://packagecontrol.io/packages/EnvSwitcher) - Switch between different environments within SublimeText.
 
-[Environment Settings](https://packagecontrol.io/packages/Environment%20Settings) - Sublime Text 3 plugin that allows to define a set of Environment variables per project (in the .sublime_project)
-
 [Epitech Coding Style](https://packagecontrol.io/packages/Epitech%20Coding%20Style) - Epitech&#x27;s Coding Style compliant configurations for the Sublime Text 3 editor. (not so official)
 
 [Equalize](https://packagecontrol.io/packages/Equalize) - Append spaces to make all lines of block with same length
+
+[EraBasic](https://packagecontrol.io/packages/EraBasic) - No description provided
 
 [Erato Markdown](https://packagecontrol.io/packages/Erato%20Markdown) - Open your current file with Erato markdown editor in Sublime 2/3
 
@@ -2157,11 +2295,9 @@ Using a very simple blue gray mix of colors.
 
 [Esuna Framework Snippets](https://packagecontrol.io/packages/Esuna%20Framework%20Snippets) - Snippets for Esuna Framework
 
-[Ethereum](https://packagecontrol.io/packages/Ethereum) - Ethereum Solidity language syntax for SublimeText
+[Ethereum](https://packagecontrol.io/packages/Ethereum) - Ethereum Solidity and Vyper language syntaxes
 
 [EthereumSoliditySnippets](https://packagecontrol.io/packages/EthereumSoliditySnippets) - Set of useful snippet for efficiently using SublimeText and the Ethereum Solidity SmartContract programming language.
-
-[Eval](https://packagecontrol.io/packages/Eval) - Execute selection, replace or show output in panel, any language.
 
 [Eval Sel](https://packagecontrol.io/packages/Eval%20Sel) - A plugin for sublime to evaluate the text you select
 
@@ -2175,7 +2311,7 @@ Using a very simple blue gray mix of colors.
 
 [Everything Search](https://packagecontrol.io/packages/Everything%20Search) - EverythingSearch-sublime2
 
-[Exalt](https://packagecontrol.io/packages/Exalt) - A Sublime Text 3 plugin for validating and formatting XML documents.
+[Exalt](https://packagecontrol.io/packages/Exalt) - A Sublime Text 3 plugin for validating and formatting XML documents
 
 [Example Overflow](https://packagecontrol.io/packages/Example%20Overflow) - Searches and suggests code snippets based on Stack Overflow
 
@@ -2187,6 +2323,8 @@ Using a very simple blue gray mix of colors.
 
 [Exec Parser](https://packagecontrol.io/packages/Exec%20Parser) - A plugin that allow users to add custom python parser commands for paste command and duplicate line command.
 
+[ExecInput](https://packagecontrol.io/packages/ExecInput) - Sublime Text package to send input to stdin through the exec build target
+
 [Expand Group](https://packagecontrol.io/packages/Expand%20Group) - Sublime Text 3 Plugin to switch and resize 2-Columns layout or 4-Grid layout fastest as possible.
 
 [Expand Selection by Paragraph](https://packagecontrol.io/packages/Expand%20Selection%20by%20Paragraph) - Command to expand your selection to the next or previous paragraph in Sublime Text 2
@@ -2194,6 +2332,8 @@ Using a very simple blue gray mix of colors.
 [Expand Selection to Function (JavaScript)](https://packagecontrol.io/packages/Expand%20Selection%20to%20Function%20%28JavaScript%29) - Expands the current selection to the enclosing JavaScript function.
 
 [Expand Selection to Line Before](https://packagecontrol.io/packages/Expand%20Selection%20to%20Line%20Before) - SublimeExpandSelectionToLineBefore
+
+[Expand Selection to Line Upwards](https://packagecontrol.io/packages/Expand%20Selection%20to%20Line%20Upwards) - Like the built-in Expand Selection to Line command, but expands upwards instead of downwards.
 
 [Expand Selection to Quotes](https://packagecontrol.io/packages/Expand%20Selection%20to%20Quotes) - Sublime Text plugin to expand selection to surrounding quotes
 
@@ -2207,7 +2347,7 @@ Using a very simple blue gray mix of colors.
 
 [Expect](https://packagecontrol.io/packages/Expect) - Snippets for expect.js assertions
 
-[ExportHtml](https://packagecontrol.io/packages/ExportHtml) - Sublime Text - Export code to HTML for copying/printing/saving.  http://facelessuser.github.com/ExportHtml
+[ExportHtml](https://packagecontrol.io/packages/ExportHtml) - Sublime Text - Export code to HTML for copying/printing/saving.
 
 [Express Color Scheme](https://packagecontrol.io/packages/Express%20Color%20Scheme) - Express Color Scheme For Sublime Text 2
 
@@ -2279,6 +2419,8 @@ Using a very simple blue gray mix of colors.
 
 [Facebook Material Theme](https://packagecontrol.io/packages/Facebook%20Material%20Theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 
+[Facility API](https://packagecontrol.io/packages/Facility%20API) - FSD language support for Sublime Text and Sublime Merge
+
 [Factor](https://packagecontrol.io/packages/Factor) - Factor language support for Sublime Text 3
 
 [FactoryBot](https://packagecontrol.io/packages/FactoryBot) - FactoryBot Snippets for Sublime Text 2/3 (imported from old FactoryGirl)
@@ -2291,19 +2433,19 @@ Using a very simple blue gray mix of colors.
 
 [Failcoder Color Scheme](https://packagecontrol.io/packages/Failcoder%20Color%20Scheme) - Failcoder - Theme
 
-[FakeImg Image Placeholder Snippet](https://packagecontrol.io/packages/FakeImg%20Image%20Placeholder%20Snippet) - Clone of the Sublime Text FakeImg.pl plugin that loads the images over https.
-
 [FakeImg.pl Image Placeholder Snippet](https://packagecontrol.io/packages/FakeImg.pl%20Image%20Placeholder%20Snippet) - Sublime Text 2 snippet for fakeimg.pl support
 
 [Falcon](https://packagecontrol.io/packages/Falcon) - Falcon programming language syntax and utilities for Sublime Text 2
 
 [Famous](https://packagecontrol.io/packages/Famous) - A Famo.us package for Sublime Text editor
 
+[Fancy CSS Comments](https://packagecontrol.io/packages/Fancy%20CSS%20Comments) - Comment Your Css Like a Pro :sunglasses:, by integrating this plugin into your favorite code editor :ok_hand:.
+
 [Fancy Projects](https://packagecontrol.io/packages/Fancy%20Projects) - This plugin allows you to create any kind of project from your own custom templates.
 
 [FancyWord](https://packagecontrol.io/packages/FancyWord) - FancyWord is a Sublime Text 3 dictionary plugin that improves your word choice in English writing.
 
-[Fanhuaji](https://packagecontrol.io/packages/Fanhuaji) - 在 Sublime Text 3 中使用 繁化姬 的 API 來轉換中文
+[Fanhuaji](https://packagecontrol.io/packages/Fanhuaji) - 繁化姬的 Sublime Text 插件
 
 [Fantom](https://packagecontrol.io/packages/Fantom) - Sublime Text plugin for the Fantom programming language
 
@@ -2329,21 +2471,21 @@ Using a very simple blue gray mix of colors.
 
 [Felix](https://packagecontrol.io/packages/Felix) - Felix support for the Sublime Text editor
 
+[Fennel](https://packagecontrol.io/packages/Fennel) - Fennel Language Support for Sublime Text 3 &amp; 4
+
 [Fenom](https://packagecontrol.io/packages/Fenom) - Syntax definition and snippets for working with Fenom template engine for PHP. Compatible with Sublime Text 2 and 3.
 
 [Fewest Moves](https://packagecontrol.io/packages/Fewest%20Moves) - A Sublime Text 3 plugin for FMC practises
 
 [Fex](https://packagecontrol.io/packages/Fex) -  Fex Plugin for Sublime Text 2
 
-[Figlet Big ASCII Text](https://packagecontrol.io/packages/Figlet%20Big%20ASCII%20Text) - :pencil2: Add in ASCII text direct from &quot;figlet&quot;
+[Figlet Big ASCII Text](https://packagecontrol.io/packages/Figlet%20Big%20ASCII%20Text) - Add in ASCII text art from &quot;figlet&quot;
 
 [File History](https://packagecontrol.io/packages/File%20History) - Provides access to the history of recently accessed files - project-wise or globally
 
 [File Navigator](https://packagecontrol.io/packages/File%20Navigator) - File Navigator plugin for Sublime Text
 
 [File Rename](https://packagecontrol.io/packages/File%20Rename) - Rename files from the ST3 command palette
-
-[File Switcher](https://packagecontrol.io/packages/File%20Switcher) - No description provided
 
 [FileBinder](https://packagecontrol.io/packages/FileBinder) - A Sublime Text plugin to create a set of files you can always reach for when needed
 
@@ -2375,11 +2517,15 @@ Using a very simple blue gray mix of colors.
 
 [FileOpTabContextMenu](https://packagecontrol.io/packages/FileOpTabContextMenu) - Small plugin for SublimeText 3 that adds a few useful options to tab context menu
 
+[FilePrompt](https://packagecontrol.io/packages/FilePrompt) - Sublime Text open/save file prompt with tab completion and configurable suggestions variants.
+
 [FileReloader](https://packagecontrol.io/packages/FileReloader) - Sublime Text plugin that allows you to reload all open files using a hotkey
 
 [FileSync](https://packagecontrol.io/packages/FileSync) - Sublime Text 2 FileSync plugin
 
 [FileSystem Autocompletion](https://packagecontrol.io/packages/FileSystem%20Autocompletion) - Auto-complete paths and filenames from the filesystem, à la Ctrl-X,Ctrl-F in VIM
+
+[FileTabRename](https://packagecontrol.io/packages/FileTabRename) - A Sublime Text 3 Package for renaming files via Tab Context!
 
 [FileTemplates](https://packagecontrol.io/packages/FileTemplates) - File Templates for SublimteText2
 
@@ -2409,11 +2555,11 @@ Using a very simple blue gray mix of colors.
 
 [Find++](https://packagecontrol.io/packages/Find%2B%2B) - Find code quickly in Sublime Text.
 
-[FindCursor](https://packagecontrol.io/packages/FindCursor) - Sublime plugin to make finding and the cursor(s) quick and easy. http://facelessuser.github.io/FindCursor/
+[FindAndReplaceByProjectWithExclusions](https://packagecontrol.io/packages/FindAndReplaceByProjectWithExclusions) - The package will allow you to exclude paths from the &quot;search in project files&quot;.
+
+[FindCursor](https://packagecontrol.io/packages/FindCursor) - Sublime plugin to make finding and the cursor(s) quick and easy. https://facelessuser.github.io/FindCursor/
 
 [FindDoc](https://packagecontrol.io/packages/FindDoc) - Find documentation in Sublime Text
-
-[FindInProject](https://packagecontrol.io/packages/FindInProject) - Text search plugin for Sublime Text 3 projects
 
 [FindKeyConflicts](https://packagecontrol.io/packages/FindKeyConflicts) - Plugin for Sublime Text to help identify conflicting key mappings.
 
@@ -2435,6 +2581,8 @@ Using a very simple blue gray mix of colors.
 
 [FixMyJS](https://packagecontrol.io/packages/FixMyJS) - SublimeText package for FixMyJS
 
+[FixSelectionAfterIndent](https://packagecontrol.io/packages/FixSelectionAfterIndent) - Keep Sublime Text entire lines selected when indenting with tab
+
 [Flashback](https://packagecontrol.io/packages/Flashback) - A tiny plugin for interactive browsing of git log entries.
 
 [Flask Completions](https://packagecontrol.io/packages/Flask%20Completions) - Flask Autocompletions and Snippets for Sublime Text 
@@ -2447,7 +2595,7 @@ Using a very simple blue gray mix of colors.
 
 [Flatdata Syntax Highlighting](https://packagecontrol.io/packages/Flatdata%20Syntax%20Highlighting) - Syntax Highlighting for flatdata in Sublime Text
 
-[Flatron](https://packagecontrol.io/packages/Flatron) - Minimalist Sublime Text theme
+[Flatron](https://packagecontrol.io/packages/Flatron) - :purple_heart: Minimalist Sublime Text theme
 
 [Flatwhite](https://packagecontrol.io/packages/Flatwhite) - A port of https://github.com/biletskyy/flatwhite-syntax for Sublime Text 3.
 
@@ -2465,13 +2613,21 @@ Using a very simple blue gray mix of colors.
 
 [FlowIDE](https://packagecontrol.io/packages/FlowIDE) - IDE-caliber support for Flow in Sublime Text
 
+[FlowTree](https://packagecontrol.io/packages/FlowTree) - Make complex code changes faster &amp; more reliably with automatic working memory support
+
 [FlowType](https://packagecontrol.io/packages/FlowType) - A full featured Flow type support for Sublime Text 3
 
 [Flowstate](https://packagecontrol.io/packages/Flowstate) - Sublime plugin which deletes what you typing
 
+[Fluent](https://packagecontrol.io/packages/Fluent) - Fluent localization system support
+
 [Fluentd](https://packagecontrol.io/packages/Fluentd) - Syntax highlighting for Fluentd configuration files
 
+[FlutterEnhancements](https://packagecontrol.io/packages/FlutterEnhancements) - Basic Flutter support for Sublime Text 3.
+
 [Flux Snippets](https://packagecontrol.io/packages/Flux%20Snippets) - Flux Snippets for sublime text
+
+[Fmt](https://packagecontrol.io/packages/Fmt) - Sublime Text plugin for auto-formatting arbitrary code by calling arbitrary executables, such as `gofmt`
 
 [Fn](https://packagecontrol.io/packages/Fn) - Textmate/Sublime Text syntax highlighting for Fn
 
@@ -2480,6 +2636,8 @@ Using a very simple blue gray mix of colors.
 [Focus File on Sidebar](https://packagecontrol.io/packages/Focus%20File%20on%20Sidebar) - Sublime Text plugin to open sidebar and focus on the current opened file
 
 [Focus Last Tab](https://packagecontrol.io/packages/Focus%20Last%20Tab) - Always focus the last tab with Ctrl+9 or ⌘+9 in Sublime Text
+
+[Fold ABL](https://packagecontrol.io/packages/Fold%20ABL) - Intelligent folding for OpenEdge ABL, developed for Sublime Text
 
 [Fold Comments](https://packagecontrol.io/packages/Fold%20Comments) - Sublime Text 2/3 plugin for folding (hiding) comments
 
@@ -2503,9 +2661,15 @@ Using a very simple blue gray mix of colors.
 
 [FolderTouch](https://packagecontrol.io/packages/FolderTouch) - A tiny plugin for Sublime Text, wich touches a file&#x27;s parent folder while perfoming a save operation.
 
+[FoldersSwitch](https://packagecontrol.io/packages/FoldersSwitch) - This plugin allows you to easily switch between different folders mounts of the same project
+
 [Follow Function PHP](https://packagecontrol.io/packages/Follow%20Function%20PHP) - Package allows you to go to body of function under cursor in PHP files and display standard php function definition
 
 [FontCycler](https://packagecontrol.io/packages/FontCycler) - Quickly cycle between your favorite fonts in Sublime Text with the press of a key
+
+[ForceMoveToGroup](https://packagecontrol.io/packages/ForceMoveToGroup) - Sublime Plugin to force move view to group
+
+[Foremark](https://packagecontrol.io/packages/Foremark) - Provides a syntax definition and snippets for Foremark.
 
 [Format Apex Log](https://packagecontrol.io/packages/Format%20Apex%20Log) - sublime plugin to format apex log files. Default binding is ctlr+shift+e.
 
@@ -2514,6 +2678,10 @@ Using a very simple blue gray mix of colors.
 [Format SQL](https://packagecontrol.io/packages/Format%20SQL) - Formatting SQL statement to a more readable form by using python-sqlparse library
 
 [FormatLua](https://packagecontrol.io/packages/FormatLua) - Formatting lua to a more readable form by using Lua Development Tools library.
+
+[Formatter](https://packagecontrol.io/packages/Formatter) - A Sublime Text 3 plugin to beautify and minify source code
+
+[Forth](https://packagecontrol.io/packages/Forth) - Sublime Text syntax for the Forth programming language
 
 [Fortify Highlighter](https://packagecontrol.io/packages/Fortify%20Highlighter) - Sublime Text Editor Themes for Fortify rulepacks and NSTs
 
@@ -2539,6 +2707,8 @@ Using a very simple blue gray mix of colors.
 
 [FreeMarker](https://packagecontrol.io/packages/FreeMarker) - A simple TextMate bundle for Freemarker templates
 
+[Frequency](https://packagecontrol.io/packages/Frequency) - Sublime Text 3 plugin that shows the frequency of each line in a document
+
 [Freya](https://packagecontrol.io/packages/Freya) - Loose adaptation of Georg Dahn&#x27;s Freya for Sublime Text / TextMate
 
 [Front End Snippets](https://packagecontrol.io/packages/Front%20End%20Snippets) - Sublime Text snippets for common .js, css and html tasks
@@ -2548,8 +2718,6 @@ Using a very simple blue gray mix of colors.
 [Frontend Light Color Scheme](https://packagecontrol.io/packages/Frontend%20Light%20Color%20Scheme) - Sublime Text 2 Theme for frontend developers easy on the eyes.
 
 [Fugly Syntax Highlight](https://packagecontrol.io/packages/Fugly%20Syntax%20Highlight) - Syntax highlight for .fugly files
-
-[Full House Color Scheme](https://packagecontrol.io/packages/Full%20House%20Color%20Scheme) - A dark color scheme for Sublime Text
 
 [FullScreenStatus](https://packagecontrol.io/packages/FullScreenStatus) - Detect programmatically if Sublime Text is running on full screen or distraction free mode
 
@@ -2585,17 +2753,19 @@ Using a very simple blue gray mix of colors.
 
 [GCC Assembly Listing](https://packagecontrol.io/packages/GCC%20Assembly%20Listing) - SublimeText 3 syntax definition for GCC mixed C/ASM listing files.
 
-[GDL](https://packagecontrol.io/packages/GDL) - A Sublime Text package for the programming language GDL (Geometric Description Language)
+[GCC MAP File](https://packagecontrol.io/packages/GCC%20MAP%20File) - SublimeText 3 syntax definition for GCC MAP files.
+
+[GDL](https://packagecontrol.io/packages/GDL) - :pencil: A Sublime Text package for the programming language GDL (Geometric Description Language)
 
 [GDScript (Godot Engine)](https://packagecontrol.io/packages/GDScript%20%28Godot%20Engine%29) - Godot Engine GDScript syntax highlighting for Sublime Text
-
-[GISDK](https://packagecontrol.io/packages/GISDK) - No description provided
 
 [GL Shader Validator](https://packagecontrol.io/packages/GL%20Shader%20Validator) - A GLSL and ESSL validator for Sublime Text 2 and 3
 
 [GLSL Compiler](https://packagecontrol.io/packages/GLSL%20Compiler) - GLSLCompiler package for sublime text
 
 [GLSL Validator](https://packagecontrol.io/packages/GLSL%20Validator) - A GLSL validator plugin for Sublime Text 2/3.
+
+[GLanguage](https://packagecontrol.io/packages/GLanguage) - No description provided
 
 [GM Syntax](https://packagecontrol.io/packages/GM%20Syntax) - GameMonkey Syntax for Sublime Text
 
@@ -2608,6 +2778,8 @@ Using a very simple blue gray mix of colors.
 [GPD](https://packagecontrol.io/packages/GPD) - Getting Productivity Done - Sublime Text 2 Package
 
 [GPG](https://packagecontrol.io/packages/GPG) - GPG plugin for Sublime Text
+
+[GROQ Syntax Highlighting](https://packagecontrol.io/packages/GROQ%20Syntax%20Highlighting) - Simple support for .groq files and syntax highlighting for Sublime Text
 
 [GSAP Snippets](https://packagecontrol.io/packages/GSAP%20Snippets) - Quick + Easy Code Completion for the GreenSock Animation Platform
 
@@ -2655,7 +2827,7 @@ Using a very simple blue gray mix of colors.
 
 [Georgify](https://packagecontrol.io/packages/Georgify) - UWaterloo SE212 - Sublime plugin for George to test program correctness
 
-[GetCode](https://packagecontrol.io/packages/GetCode) - Competitive Programming problem parser for ST3
+[GetCode](https://packagecontrol.io/packages/GetCode) - Competitive Programming problem parser for Sublime Text 3
 
 [Gettext](https://packagecontrol.io/packages/Gettext) - Sublime Text support for Gettext
 
@@ -2673,6 +2845,10 @@ Using a very simple blue gray mix of colors.
 
 [GhostText](https://packagecontrol.io/packages/GhostText) - Use Sublime Text to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 
+[Gimp Auto-Complete Python](https://packagecontrol.io/packages/Gimp%20Auto-Complete%20Python) - A Sublime Text Auto-Complete plugin for GIMP&#x27;s Python API. 
+
+[Gimp Auto-Complete Scheme](https://packagecontrol.io/packages/Gimp%20Auto-Complete%20Scheme) - A Sublime Text Auto-Complete plugin for GIMP&#x27;s Scheme API. 
+
 [Gimp Run](https://packagecontrol.io/packages/Gimp%20Run) - Run the GIMP with a file on Sublime Text 2 (running on Mac OS X).
 
 [Ginkgo Completions](https://packagecontrol.io/packages/Ginkgo%20Completions) - Sublime Completions for Ginkgo and Gomega
@@ -2681,11 +2857,15 @@ Using a very simple blue gray mix of colors.
 
 [Git](https://packagecontrol.io/packages/Git) - Plugin for some git integration into sublime text
 
+[Git CoAuthor](https://packagecontrol.io/packages/Git%20CoAuthor) - Auto-complete a git commit co-authorship
+
 [Git Commit Message Syntax](https://packagecontrol.io/packages/Git%20Commit%20Message%20Syntax) - Syntax Highlighting for SublimeText / Text Mate
 
 [Git Config](https://packagecontrol.io/packages/Git%20Config) - Sublime Text 2 language file for .gitconfig and .gitignore files
 
 [Git Conflict Resolver](https://packagecontrol.io/packages/Git%20Conflict%20Resolver) - A little plugin to help you resolving this nasty conflicts.
+
+[Git Extensions](https://packagecontrol.io/packages/Git%20Extensions) - Open GitExtensions GUI from Sublime Text.
 
 [Git GUI Clients](https://packagecontrol.io/packages/Git%20GUI%20Clients) - Open your current repository with a GUI Clients
 
@@ -2693,7 +2873,9 @@ Using a very simple blue gray mix of colors.
 
 [Git Mode](https://packagecontrol.io/packages/Git%20Mode) - A Git mode plugin built using the ShellCommand plugin, which makes customisation and adding new commands, super easy.
 
-[Git blame](https://packagecontrol.io/packages/Git%20blame) - Sublime text 3 - Git blame the line
+[Git badges like VS Code](https://packagecontrol.io/packages/Git%20badges%20like%20VS%20Code) - Change git badges in Sublime Text Sidebar into the VS Code look
+
+[Git blame](https://packagecontrol.io/packages/Git%20blame) - Show Git blame information while viewing a file in Sublime Text
 
 [GitAutoCommit](https://packagecontrol.io/packages/GitAutoCommit) - Enables auto-commit for selected Git repos (install Git plugin first)
 
@@ -2711,15 +2893,17 @@ Using a very simple blue gray mix of colors.
 
 [GitHub Markdown Snippets](https://packagecontrol.io/packages/GitHub%20Markdown%20Snippets) - GitHub flavored Markdown with plain&#x27;ol HTML knowledge! Boom!
 
+[GitHub Theme](https://packagecontrol.io/packages/GitHub%20Theme) - GitHub&#x27;s Sublime Text themes
+
 [GitHub.app Menu](https://packagecontrol.io/packages/GitHub.app%20Menu) - Open the GitHub app from your menu
 
-[GitHubBuildStatus](https://packagecontrol.io/packages/GitHubBuildStatus) - Show GitHub build status in Sublime Text
+[GitHubChecks](https://packagecontrol.io/packages/GitHubChecks) - Show GitHub checks result in Sublime Text
 
 [GitHubIssue](https://packagecontrol.io/packages/GitHubIssue) - A sublime text plug-in to manage GitHub repo issues :fire:
 
 [GitHubinator](https://packagecontrol.io/packages/GitHubinator) - Sublime Text plugin that shows selected text on remote GitHub or Bitbucket repo
 
-[GitLink](https://packagecontrol.io/packages/GitLink) - Open your Sublime Text files on GitHub, Bitbucket or Codebase
+[GitLink](https://packagecontrol.io/packages/GitLink) - Open your Sublime Text files on GitHub, Bitbucket, Gitlab or Codebase
 
 [GitOpenChangedFiles](https://packagecontrol.io/packages/GitOpenChangedFiles) - A Sublime Text 3 plugin to quickly open files changed in your current branch
 
@@ -2745,17 +2929,23 @@ Using a very simple blue gray mix of colors.
 
 [GithubEmoji](https://packagecontrol.io/packages/GithubEmoji) - Github emoji in markdown documents and commit messages for Sublime Text 3
 
-[Gitignore](https://packagecontrol.io/packages/Gitignore) - Gitignore plugin for Sublime Text 2 and 3
+[Gitignore](https://packagecontrol.io/packages/Gitignore) - An easy way to fetch gitignore boilerplates from github
 
 [Gitignored File Excluder](https://packagecontrol.io/packages/Gitignored%20File%20Excluder) - Sublime plugin that excludes from your Sublime project any files ignored by git
 
 [GitlabIntegrate](https://packagecontrol.io/packages/GitlabIntegrate) - Integrates various Gitlab features (mostly issue management) into Sublime 2/3.
 
+[Gitmoji](https://packagecontrol.io/packages/Gitmoji) - A Sublime Text 3 plugin to insert emoji
+
 [GlassIt](https://packagecontrol.io/packages/GlassIt) - ST plugin to set window to transparent on Windows platform.
 
-[Glorified Copy 'n' Paste](https://packagecontrol.io/packages/Glorified%20Copy%20%27n%27%20Paste) - Jinja2 based templating and snippets for Sublime Text 3.
+[Gleam](https://packagecontrol.io/packages/Gleam) - Gleam language support for Sublime Text
+
+[Glot](https://packagecontrol.io/packages/Glot) - glot.io plugin for sublime text
 
 [Glue](https://packagecontrol.io/packages/Glue) - Glue is a plugin that joins your shell to Sublime Text in quasi-perfect harmony.
+
+[Gluecodium](https://packagecontrol.io/packages/Gluecodium) - Syntax highlight for https://github.com/heremaps/gluecodium
 
 [Gmail](https://packagecontrol.io/packages/Gmail) - A light-weight email agent for Sublime Text 3
 
@@ -2766,8 +2956,6 @@ Using a very simple blue gray mix of colors.
 [Go Coverage](https://packagecontrol.io/packages/Go%20Coverage) - Run tests and highlight uncovered lines right in the gutter
 
 [Go Playground](https://packagecontrol.io/packages/Go%20Playground) - A sublime plugin for sending code easily to the Go Playground.
-
-[Go To Definition](https://packagecontrol.io/packages/Go%20To%20Definition) - VisualAssist-like Go To Definition of word under cursor or current selection
 
 [Go To Node Module Homepage](https://packagecontrol.io/packages/Go%20To%20Node%20Module%20Homepage) - Open the homepage of any node module installed (or native)
 
@@ -2809,11 +2997,13 @@ Using a very simple blue gray mix of colors.
 
 [GoTools](https://packagecontrol.io/packages/GoTools) - Golang integration for Sublime Text 3
 
-[Gocc BNF Syntax](https://packagecontrol.io/packages/Gocc%20BNF%20Syntax) - Sublime Syntax Highlighting for Gocc BNF
+[Gocc BNF Syntax](https://packagecontrol.io/packages/Gocc%20BNF%20Syntax) - [Deprecated] Sublime Syntax Highlighting for Gocc BNF
 
 [Godef](https://packagecontrol.io/packages/Godef) - Plugin of sublime to use godef to go to definitions accurately.
 
 [Gofmt](https://packagecontrol.io/packages/Gofmt) - Sublime plugin to run gofmt (or goimports, or whatever you want).
+
+[Golang](https://packagecontrol.io/packages/Golang) - An opinionated plugin for Go
 
 [Golang Build](https://packagecontrol.io/packages/Golang%20Build) - The official Sublime Text package for Go build system integration.
 
@@ -2825,13 +3015,13 @@ Using a very simple blue gray mix of colors.
 
 [Golite](https://packagecontrol.io/packages/Golite) - Add essential language support for the Go language to Sublime Text 3.
 
-[Gomod](https://packagecontrol.io/packages/Gomod) - Syntax definition for &quot;go.mod&quot; for Sublime Text
+[Gomod](https://packagecontrol.io/packages/Gomod) - Syntax definitions for &quot;go.mod&quot; and &quot;go.sum&quot; for Sublime Text
 
 [Google Apps Scripts](https://packagecontrol.io/packages/Google%20Apps%20Scripts) - SublimeText 2 plugin to edit your Google Apps Scripts
 
 [Google Closure Library snippets](https://packagecontrol.io/packages/Google%20Closure%20Library%20snippets) - Sublime 2 snippets for the Google Closure Library
 
-[Google Closure Template snippets](https://packagecontrol.io/packages/Google%20Closure%20Template%20snippets) - Sublime snippets for the Google Closure Template commands
+[Google Closure Template snippets](https://packagecontrol.io/packages/Google%20Closure%20Template%20snippets) - Sublime Text snippets for the Google Closure Template commands
 
 [Google Dictionary](https://packagecontrol.io/packages/Google%20Dictionary) - Sublime google dictionary plugin
 
@@ -2846,6 +3036,8 @@ Using a very simple blue gray mix of colors.
 [Google Stylesheets Syntax](https://packagecontrol.io/packages/Google%20Stylesheets%20Syntax) - sublime package for Closure Stylesheets
 
 [Google Translate](https://packagecontrol.io/packages/Google%20Translate) - Very simple translation via Google Translate for Sublime Text 2
+
+[Googler](https://packagecontrol.io/packages/Googler) - Sublime Text plugin for easy googling.
 
 [Gopher sauce syntax and static completions](https://packagecontrol.io/packages/Gopher%20sauce%20syntax%20and%20static%20completions) - Gopher sauce sublime syntax completion
 
@@ -2876,8 +3068,6 @@ Using a very simple blue gray mix of colors.
 [GotoEndOfLineOrScope](https://packagecontrol.io/packages/GotoEndOfLineOrScope) - Sublime Text plugin to bind a key (for example the end key) to move/extend the cursor/selection(s) to the end of the line, or to before the specified scope (i.e. a comment) at the end of the line
 
 [GotoLastEditEnhanced](https://packagecontrol.io/packages/GotoLastEditEnhanced) - Better goto last edit
-
-[GotoLastModified](https://packagecontrol.io/packages/GotoLastModified) - Sublime3 plugin to only go back to the last edit position and locate the cursor at the same time
 
 [GotoLineEnhanced](https://packagecontrol.io/packages/GotoLineEnhanced) - Replacement for default sublime&#x27;s goto line.
 
@@ -2919,8 +3109,6 @@ Using a very simple blue gray mix of colors.
 
 [Greek Letters](https://packagecontrol.io/packages/Greek%20Letters) - Provides completion for greek letter in sublime Text 2/3.
 
-[GreekTeX](https://packagecontrol.io/packages/GreekTeX) - Provides math mode tab completion in Sublime Text 2/3.
-
 [Gregorio](https://packagecontrol.io/packages/Gregorio) - Gregorio build system for Sublime Text
 
 [Gremlins](https://packagecontrol.io/packages/Gremlins) - Reveal odd and invisible whitespace characters in Sublime Text.
@@ -2931,9 +3119,9 @@ Using a very simple blue gray mix of colors.
 
 [GridlabD](https://packagecontrol.io/packages/GridlabD) - A Sublime Text 2 package for working with Gridlab-D glm files.
 
-[Grocery Crud Snippets myIgniter](https://packagecontrol.io/packages/Grocery%20Crud%20Snippets%20myIgniter) - Grocery CRUD Snippets Sublime 2
+[Gringo](https://packagecontrol.io/packages/Gringo) - A syntax highlighting plugin for Answer Set Programming
 
-[Groovy Imports](https://packagecontrol.io/packages/Groovy%20Imports) - A Sublime Text 2 plugin for inserting import statements into groovy code
+[Grocery Crud Snippets myIgniter](https://packagecontrol.io/packages/Grocery%20Crud%20Snippets%20myIgniter) - Grocery CRUD Snippets Sublime 2
 
 [Groovy Snippets](https://packagecontrol.io/packages/Groovy%20Snippets) - Sublime Text snippets for Groovy programming language
 
@@ -2951,6 +3139,8 @@ Using a very simple blue gray mix of colors.
 
 [Gruvbox Dark](https://packagecontrol.io/packages/Gruvbox%20Dark) - gruvbox is a retro groove color scheme for Sublime Text
 
+[Gruvbox Material Theme](https://packagecontrol.io/packages/Gruvbox%20Material%20Theme) - Gruvbox Material Theme for Sublime Text
+
 [Guard](https://packagecontrol.io/packages/Guard) - Sublime Text 2 Guard Plugin - helps create a smoother development workflow.
 
 [GuardHelpers](https://packagecontrol.io/packages/GuardHelpers) - Commands for daily use of rspec
@@ -2965,9 +3155,13 @@ Using a very simple blue gray mix of colors.
 
 [HACS Syntax](https://packagecontrol.io/packages/HACS%20Syntax) - Syntax highlighting and snippets for the HACS compiler generator
 
+[HBH-Translator](https://packagecontrol.io/packages/HBH-Translator) - a sublime text3 translate plugin
+
 [HDL Syntax Highlighting](https://packagecontrol.io/packages/HDL%20Syntax%20Highlighting) - Sublime text syntax highlighting for HDL
 
-[HDLProject](https://packagecontrol.io/packages/HDLProject) - A VHDL and Verilog IDE for Sublime Text 3.
+[HDLProject](https://packagecontrol.io/packages/HDLProject) - A VHDL and Verilog IDE for Sublime Text 
+
+[HISE Script](https://packagecontrol.io/packages/HISE%20Script) - Tool for better scripting hise inside ST3
 
 [HIVE Log File](https://packagecontrol.io/packages/HIVE%20Log%20File) - Sublime Text Highlighter for HIVE Log Files
 
@@ -2985,13 +3179,11 @@ Using a very simple blue gray mix of colors.
 
 [HScript](https://packagecontrol.io/packages/HScript) - Houdini add-on for Sublime Text 
 
-[HTML (C#)](https://packagecontrol.io/packages/HTML%20%28C%23%29) - Sublime Text 3 syntax highlighting for HTML with embedded C#
+[HTML (C#)](https://packagecontrol.io/packages/HTML%20%28C%23%29) - Sublime Text syntax highlighting for HTML with embedded C#: WebForms/ASP.Net and Razor
 
 [HTML Boilerplate](https://packagecontrol.io/packages/HTML%20Boilerplate) - Sublime Text 2/3 snippet to generate HTML5 boilerplate
 
 [HTML Compress and Replace](https://packagecontrol.io/packages/HTML%20Compress%20and%20Replace) - No description provided
-
-[HTML Compressor](https://packagecontrol.io/packages/HTML%20Compressor) - Sublime Text 2 Html-compressor plugin
 
 [HTML Crush Switch](https://packagecontrol.io/packages/HTML%20Crush%20Switch) - HTML code crush: turn it on for uploading, turn it off for working. Keep the web small and the code easy on the eyes.
 
@@ -3001,7 +3193,7 @@ Using a very simple blue gray mix of colors.
 
 [HTML Extended](https://packagecontrol.io/packages/HTML%20Extended) - HTML syntax Sublime Text definition which supports Web Components with &quot;-&quot; in tag name
 
-[HTML Head Snippets](https://packagecontrol.io/packages/HTML%20Head%20Snippets) - A Sublime Text snippet library for HTML head elements, from the project HEAD.
+[HTML Head Snippets](https://packagecontrol.io/packages/HTML%20Head%20Snippets) - 🙆 A Sublime Text snippet library for HTML head elements, from the project HEAD.
 
 [HTML Minifier](https://packagecontrol.io/packages/HTML%20Minifier) - A Sublime text Plugin to minify HTML5, CSS3 and Javascript code
 
@@ -3012,6 +3204,8 @@ Using a very simple blue gray mix of colors.
 [HTML Page Snippets](https://packagecontrol.io/packages/HTML%20Page%20Snippets) - Sublime Text HTML Page Snippets
 
 [HTML Snippets](https://packagecontrol.io/packages/HTML%20Snippets) - A set of custom HTML snippets for Sublime Text
+
+[HTML String to Js Multiline](https://packagecontrol.io/packages/HTML%20String%20to%20Js%20Multiline) - Sublime plugin for creating multiline string from selected text
 
 [HTML Syntax in Script](https://packagecontrol.io/packages/HTML%20Syntax%20in%20Script) - Sublime syntax highlighting for all HTML inside script tags
 
@@ -3043,6 +3237,8 @@ Using a very simple blue gray mix of colors.
 
 [HTMLEntity Snippets](https://packagecontrol.io/packages/HTMLEntity%20Snippets) - HTML Entity Snippets for Sublime Text
 
+[HTTP Headers Reindent](https://packagecontrol.io/packages/HTTP%20Headers%20Reindent) - A tool to reindent http header file from Fiddler to Python dictionary format
+
 [HTTP Response Headers Snippets](https://packagecontrol.io/packages/HTTP%20Response%20Headers%20Snippets) - PHP Snippets for HTTP response headers
 e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
@@ -3070,7 +3266,11 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [Hammer for Mac Snippets](https://packagecontrol.io/packages/Hammer%20for%20Mac%20Snippets) - Hammer for Mac snippets for Sublime Text
 
+[Hammock Color Scheme](https://packagecontrol.io/packages/Hammock%20Color%20Scheme) - A dark color scheme that lets your eyes relax
+
 [Handlebars](https://packagecontrol.io/packages/Handlebars) - Fullest Handlebars.js templating support for Atom and Sublime Text 2 / 3. Also drives syntax colouring on Github and in Visual Studio Code. Install from: https://atom.io/packages/Handlebars and https://packagecontrol.io/packages/Handlebars.
+
+[Hansl-Gretl-Language](https://packagecontrol.io/packages/Hansl-Gretl-Language) - Sublime support for hansl scripting language: syntax-highlighting, auto-complete, snippets
 
 [HaoGist](https://packagecontrol.io/packages/HaoGist) - Sublime Gist Plugin
 
@@ -3100,9 +3300,9 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [Helios](https://packagecontrol.io/packages/Helios) - Sublime Text 2 colour scheme and theme switcher &quot;dawn vs. dusk&quot;
 
-[Help](https://packagecontrol.io/packages/Help) - Plugin for Sublime Text 2. 
+[Helium](https://packagecontrol.io/packages/Helium) - Let Sublime Text 3 talk with Jupyter.
 
-[Hermes](https://packagecontrol.io/packages/Hermes) - Let Sublime Text 3 talk with Jupyter.
+[Help](https://packagecontrol.io/packages/Help) - Plugin for Sublime Text 2. 
 
 [Hex to HSL Color Converter](https://packagecontrol.io/packages/Hex%20to%20HSL%20Color%20Converter) - Sublime Text 2/3 plugin to convert CSS Hex colors to HSL.
 
@@ -3114,9 +3314,9 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [Hex-to-RGBA](https://packagecontrol.io/packages/Hex-to-RGBA) - Sublime Text 2 package for converting CSS hexadecimal colors into RGBA.
 
-[HexViewer](https://packagecontrol.io/packages/HexViewer) - Hex viewer and editor for SublimeText http://facelessuser.github.io/HexViewer/
+[HexViewer](https://packagecontrol.io/packages/HexViewer) - Hex viewer and editor for SublimeText
 
-[Hexcode](https://packagecontrol.io/packages/Hexcode) - A simple Sublime Text package that displays the hexadecimal value of the current character (to the right of the cursor) in the status bar.
+[Hexa](https://packagecontrol.io/packages/Hexa) - Syntax highlighting for Hexa
 
 [HgCommitMsg](https://packagecontrol.io/packages/HgCommitMsg) - Sublime Text plugin &quot;hg_commit_msg plugin&quot;: shows the hg commit history for one or more lines of code.
 
@@ -3144,9 +3344,13 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [Highlighter](https://packagecontrol.io/packages/Highlighter) - Sublime Text plugin to highlight any sequence of characters. Highlights mixed tabs and spaces, some unicode characters and trailing space by default. 
 
+[Highlime](https://packagecontrol.io/packages/Highlime) - Make Sublime Text 3 even more high
+
 [Hipster](https://packagecontrol.io/packages/Hipster) - Sublime Text Color Scheme
 
 [Hipster Ipsum](https://packagecontrol.io/packages/Hipster%20Ipsum) - Artisanal, free-range Ipsum text for ST2 and ST3.
+
+[Hivacruz Color Scheme](https://packagecontrol.io/packages/Hivacruz%20Color%20Scheme) - A color scheme for Sublime Text 3 that works nicely with the Material Theme.
 
 [HiveHint](https://packagecontrol.io/packages/HiveHint) - ninja, robot and pizza
 
@@ -3174,6 +3378,8 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [Hopscotch Color Scheme](https://packagecontrol.io/packages/Hopscotch%20Color%20Scheme) - Color scheme inspired by the Hopscotch learning platform for kids
 
+[Horizon Color Scheme](https://packagecontrol.io/packages/Horizon%20Color%20Scheme) - Color scheme based on Horizon for Visual Studio Code
+
 [Horizontal Scroll](https://packagecontrol.io/packages/Horizontal%20Scroll) - Adds hotkeys to scroll horizontally using the keyboard.
 
 [Hosts](https://packagecontrol.io/packages/Hosts) - Scrupulous syntax highlighting for /etc/hosts
@@ -3183,8 +3389,6 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 [Hot Dog Stand](https://packagecontrol.io/packages/Hot%20Dog%20Stand) - A Hot Dog Stand theme for Sublime Text
 
 [Hound Search](https://packagecontrol.io/packages/Hound%20Search) - Sublime Text plugin for Etsy&#x27;s Hound Code Search
-
-[Hover Image Preview](https://packagecontrol.io/packages/Hover%20Image%20Preview) - Sublime Text 3 Plugin for previewing images.
 
 [Hover Locales](https://packagecontrol.io/packages/Hover%20Locales) - A Sublime Text 3 plugin to show different rails locale strings simply by hovering on a localized string.
 
@@ -3198,6 +3402,8 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [HttpStatusCode](https://packagecontrol.io/packages/HttpStatusCode) - Sublime Text 2 Plugin to look up Http Status Code quickly.
 
+[HttpUnit](https://packagecontrol.io/packages/HttpUnit) - Send http requests with sublime rather than tools like PostMan. Syntax hilight, Comment supported
+
 [Huely Palette Extractor](https://packagecontrol.io/packages/Huely%20Palette%20Extractor) - A sublime plugin to extract and visualize colors in your code using huely.co
 
 [Hugo Snippets](https://packagecontrol.io/packages/Hugo%20Snippets) - Hugo Snippets for Sublime Text 3!
@@ -3205,6 +3411,8 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 [Hugofy](https://packagecontrol.io/packages/Hugofy) - Hugo plugin for Sublime Text 3
 
 [Hungry Backspace](https://packagecontrol.io/packages/Hungry%20Backspace) - This small plugin brings to Sublime Text the &quot;hungry&quot;/&quot;smart&quot; backspace feature from IntelliJ. The hungry backspace retains the scope (indentation) when the backspace key is pressed on an empty line. 
+
+[Hybris Impex](https://packagecontrol.io/packages/Hybris%20Impex) - Sublime Text 3 plugin for .impex files support
 
 [Hyle](https://packagecontrol.io/packages/Hyle) - This package is designed to help reading and writing .hyle files.
 
@@ -3238,13 +3446,13 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [IMSwitchForVintage](https://packagecontrol.io/packages/IMSwitchForVintage) - auto switch input method to U.S. for vintage command mode in sublime text
 
-[INI](https://packagecontrol.io/packages/INI) - INI syntax highlighting for Sublime Text 2
+[INI](https://packagecontrol.io/packages/INI) - Syntax highlighting for INI and REG files in Sublime Text
+
+[INTENS Language](https://packagecontrol.io/packages/INTENS%20Language) - Unofficial syntax definition for the INTENS® language
 
 [IPS BBCode](https://packagecontrol.io/packages/IPS%20BBCode) - BBCodes for Invision Powered Services
 
 [IPS Package Manifest Syntax](https://packagecontrol.io/packages/IPS%20Package%20Manifest%20Syntax) - Sublime Text 2 Support for Solars IPS package manifests.
-
-[IPS Syntax](https://packagecontrol.io/packages/IPS%20Syntax) - Syntax highlighter and autocomplete for Invision Powered products.
 
 [IPython Notebook](https://packagecontrol.io/packages/IPython%20Notebook) - IPython Notebook plugin for Sublime Text 3/2
 
@@ -3268,7 +3476,13 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [Idoc](https://packagecontrol.io/packages/Idoc) - Idoc (Oracle WebCenter Content) Syntax for Sublime
 
+[Idris Syntax](https://packagecontrol.io/packages/Idris%20Syntax) - Idris Syntax Support for Sublime Text 3
+
 [Idyll Lang Snippets](https://packagecontrol.io/packages/Idyll%20Lang%20Snippets) - Sublime Text snippets for using the Idyll markup language.
+
+[Idyll-Syntax](https://packagecontrol.io/packages/Idyll-Syntax) - A syntax highlighter for sublime.
+
+[Ignore Unable to Open File Error](https://packagecontrol.io/packages/Ignore%20Unable%20to%20Open%20File%20Error) - Disable &quot;Files that are unable to open&quot; error
 
 [Ignore Words](https://packagecontrol.io/packages/Ignore%20Words) - Ignore words for spell check in Sublime 3
 
@@ -3281,6 +3495,10 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 [ImageMagick](https://packagecontrol.io/packages/ImageMagick) - SublimeMagick uses the identify tool of ImageMagick to show properties of images on status bar.
 
 [ImagePaste](https://packagecontrol.io/packages/ImagePaste) - No description provided
+
+[ImagePreview](https://packagecontrol.io/packages/ImagePreview) - The Sublime Text image previewing plugin
+
+[Imaginarium](https://packagecontrol.io/packages/Imaginarium) - Syntax highlighting for Imaginarium
 
 [Imba](https://packagecontrol.io/packages/Imba) - Sublime plugin for Imba
 
@@ -3312,6 +3530,8 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [Increment Selection](https://packagecontrol.io/packages/Increment%20Selection) - Add a number to each selection in Sublime Text, incremented once per selection
 
+[IncrementalDiff](https://packagecontrol.io/packages/IncrementalDiff) - A plugin to quickly diff two views through Sublime text&#x27;s built-in Incremental Diff.
+
 [Incrementor](https://packagecontrol.io/packages/Incrementor) - A Sublime Text 2 Plugin that can generate a sequence of numbers using search and replace.
 
 [Indent Respectful Sort](https://packagecontrol.io/packages/Indent%20Respectful%20Sort) - Sublime Text plugin that provides sort functionality while respecting the indented block structure
@@ -3338,6 +3558,8 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [IndentationNavigation](https://packagecontrol.io/packages/IndentationNavigation) - Navigate through text usign indentation
 
+[Indentor](https://packagecontrol.io/packages/Indentor) - Sublime Text 3 package for Indenter
+
 [Infinidat Plugin](https://packagecontrol.io/packages/Infinidat%20Plugin) - Infinidat plug-in for Sublime Text 3
 
 [Inform 6](https://packagecontrol.io/packages/Inform%206) - Inform 6 syntax highlighting for Sublime Text
@@ -3360,8 +3582,6 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [Insert Equation](https://packagecontrol.io/packages/Insert%20Equation) - Equation Editor for Sublime Text 3
 
-[Insert Filepath](https://packagecontrol.io/packages/Insert%20Filepath) - Sublime Text plugin to quickly insert a filepath
-
 [Insert Nums](https://packagecontrol.io/packages/Insert%20Nums) - Sublime Text plugin for inserting sequences. Supporting alphanumerics and hex, with bitwise operations!
 
 [Insert to Column](https://packagecontrol.io/packages/Insert%20to%20Column) - Sublime Text 3 plugin to insert a character up to a certain column
@@ -3370,13 +3590,11 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [Inspired GitHub Color Scheme](https://packagecontrol.io/packages/Inspired%20GitHub%20Color%20Scheme) - A color scheme for Sublime Text 3.
 
-[Inspr](https://packagecontrol.io/packages/Inspr) - A CN-EN translation plugin that helps Chinese programmers to name variables.
-
-[InstaGoogling](https://packagecontrol.io/packages/InstaGoogling) - Instagoogling is the fastest and most efficient way to Google from Sublime Text
-
 [Instacode](https://packagecontrol.io/packages/Instacode) - Plugin for easy submitting of code to instacod.es
 
 [Intel HEX](https://packagecontrol.io/packages/Intel%20HEX) - Intel HEX file format syntax definition for Sublime Text
+
+[Intellekt](https://packagecontrol.io/packages/Intellekt) - A sublime text plugin that attempts to provide intellisense for various programming languages
 
 [IntelliDocs](https://packagecontrol.io/packages/IntelliDocs) - Quick function parameter hint for Sublime 3.x.
 
@@ -3385,6 +3603,8 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 [InterSystems Cache](https://packagecontrol.io/packages/InterSystems%20Cache) - Sublime Plugin for InterSystems Cache (uses https://github.com/brandonhorst/cdev-server)
 
 [Interactive Data Language (IDL)](https://packagecontrol.io/packages/Interactive%20Data%20Language%20%28IDL%29) - Package providing IDL syntax highlighting for Sublime Text 3
+
+[International Keymap](https://packagecontrol.io/packages/International%20Keymap) - Creates localised keymaps based on sublime keymaps files.
 
 [Internet Search](https://packagecontrol.io/packages/Internet%20Search) - Plugin for search through the Internet
 
@@ -3400,6 +3620,8 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [Io Language](https://packagecontrol.io/packages/Io%20Language) - Sublime Text Package for Io Language. Based on TextMate&#x27;s Io package
 
+[Ion Syntax](https://packagecontrol.io/packages/Ion%20Syntax) - Syntax highlighting for Amazon&#x27;s Ion serialization format (a superset of JSON)
+
 [Ionic 2](https://packagecontrol.io/packages/Ionic%202) - Ionic 2 Package with Snippets for Sublime Text. 
 
 [Ionic Framework Extended Autocomplete](https://packagecontrol.io/packages/Ionic%20Framework%20Extended%20Autocomplete) - Autocompletions of Ionic Framework to Sublime Text
@@ -3410,6 +3632,8 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [IpAddress](https://packagecontrol.io/packages/IpAddress) - Plugin for Sublime Text to detect IP address
 
+[IrView](https://packagecontrol.io/packages/IrView) - Generate dot/pdf files of llvm IR directly from Sublime Text
+
 [Iridis Colour Scheme](https://packagecontrol.io/packages/Iridis%20Colour%20Scheme) - Iridis Colour Schemes
 
 [Iris Path](https://packagecontrol.io/packages/Iris%20Path) - Iris Path Sublime Plugin
@@ -3418,19 +3642,17 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [Ironman Color Scheme](https://packagecontrol.io/packages/Ironman%20Color%20Scheme) - A color scheme for Sublime Text, inspired by IronMan.
 
-[J Language](https://packagecontrol.io/packages/J%20Language) - Syntax Highlighting for J
-
 [JCShell Tools](https://packagecontrol.io/packages/JCShell%20Tools) - Language definition for NXP’s JCShell scripts on Sublime Text 2/3.
 
 [JCommander](https://packagecontrol.io/packages/JCommander) - JunoCommander is a Sublime Text package tailor-made for max productivity in the Juno framework.
 
 [JDebug](https://packagecontrol.io/packages/JDebug) - Java Debugger for Sublime Text Editor
 
+[JEB Script Development Helper](https://packagecontrol.io/packages/JEB%20Script%20Development%20Helper) - JEB Script Development Helper (Sublime Text 3 Extension)
+
 [JQ Syntax](https://packagecontrol.io/packages/JQ%20Syntax) - Sublime Text JQ Language Syntax 
 
 [JRubyFX](https://packagecontrol.io/packages/JRubyFX) - Basic syntax highlighting for FXML and tools for working with JRubyFX
-
-[JS Coverage](https://packagecontrol.io/packages/JS%20Coverage) - Highlight uncovered lines in the current file based on a previous coverage run.
 
 [JS Minify](https://packagecontrol.io/packages/JS%20Minify) - Sublime JavaScript Minifier
 
@@ -3452,6 +3674,8 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [JSHint Inline](https://packagecontrol.io/packages/JSHint%20Inline) - JSHint HTML files or other files that contains script tags. Requires node.js
 
+[JSKit](https://packagecontrol.io/packages/JSKit) - Sublime Text add-on package aiding JSKit development 
+
 [JSLint](https://packagecontrol.io/packages/JSLint) - JSLint for Sublime Text 2 and 3.
 
 [JSML Formatter](https://packagecontrol.io/packages/JSML%20Formatter) - A Sublime Text 3 plugin to help write faster JSML.
@@ -3462,13 +3686,13 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [JSON Reindent](https://packagecontrol.io/packages/JSON%20Reindent) - Sublime Text 2/3 Plugin - JSON Reindent: reindent file or selection
 
+[JSON Stringify](https://packagecontrol.io/packages/JSON%20Stringify) - A SublimeText 3 plugin to string encode and decode JSON
+
 [JSON to CSV Converter](https://packagecontrol.io/packages/JSON%20to%20CSV%20Converter) - A sublime text 2 plugin to convert json to csv
 
 [JSON-Template](https://packagecontrol.io/packages/JSON-Template) - 🏷️ JSON-Template / Squarespace syntax mode for Sublime Text &amp; TextMate.
 
 [JSON2Apex](https://packagecontrol.io/packages/JSON2Apex) - A Sublime Text 3 plugin for easy conversion of JSON samples to Salesforce Apex code.
-
-[JSON2Go](https://packagecontrol.io/packages/JSON2Go) - Sublime Plugin: make json string to Go struct
 
 [JSONComma](https://packagecontrol.io/packages/JSONComma) - A Sublime Text plugin to deal with those damn JSON commas!
 
@@ -3477,6 +3701,8 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 [JSTL autocomplete](https://packagecontrol.io/packages/JSTL%20autocomplete) - JSTL / JSP snippet for costructor and autocomplete attribute
 
 [JSTL syntax](https://packagecontrol.io/packages/JSTL%20syntax) - Better support for sublime text JSTL / JSP syntax
+
+[JSTemplatify](https://packagecontrol.io/packages/JSTemplatify) - No description provided
 
 [JSX](https://packagecontrol.io/packages/JSX) - Language Definitions for JSX files.
 
@@ -3494,11 +3720,13 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [Jaggeryjs](https://packagecontrol.io/packages/Jaggeryjs) - Snippet and syntax highlighting for jaggeryjs 
 
-[Jai](https://packagecontrol.io/packages/Jai) - Sublime Text 3 package for the Jai programming language.
+[JaiTools](https://packagecontrol.io/packages/JaiTools) - Syntax highlighting, autocompletion, and Goto Symbol/Anything for the Jai language in Sublime Text 3.
 
 [Jam Language](https://packagecontrol.io/packages/Jam%20Language) - Jam syntax highlighting package for Sublime Text 2/3
 
 [Jamon](https://packagecontrol.io/packages/Jamon) - A Jamon plugin for Sublime Text 2.
+
+[JapanWordStop](https://packagecontrol.io/packages/JapanWordStop) - Sublime Text plugin that provides word jumps in Japanese
 
 [Japanese Word Jump](https://packagecontrol.io/packages/Japanese%20Word%20Jump) - ST3 Plugin providing word jump based on Japanese word segmentation by TinySegmenter
 
@@ -3521,6 +3749,8 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 [Jasmine Promise Matchers](https://packagecontrol.io/packages/Jasmine%20Promise%20Matchers) - Sublime Text snippets for jasmine-promise-matchers
 
 [Jasmine Scaffold](https://packagecontrol.io/packages/Jasmine%20Scaffold) - Scaffold out your Jasmine tests without the JS
+
+[Jasonette Completions](https://packagecontrol.io/packages/Jasonette%20Completions) - Jasonette completions for Sublime Text
 
 [Java Bytecode](https://packagecontrol.io/packages/Java%20Bytecode) - This is a package for ST2/ST3 to introduce syntax highlightning for Java bytecode instructions
 
@@ -3545,8 +3775,6 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 [JavaScript Enhancements](https://packagecontrol.io/packages/JavaScript%20Enhancements) - JavaScript Enhancements is a plugin for Sublime Text 3. It offers not only a smart javascript autocomplete but also a lot of features about creating, developing and managing javascript projects (real-time errors, code refactoring, etc.).
 
 [JavaScript Log Snippets](https://packagecontrol.io/packages/JavaScript%20Log%20Snippets) - Convenient Log snippets for Javascript for Sublime Text
-
-[JavaScript Multiline](https://packagecontrol.io/packages/JavaScript%20Multiline) - Sublime plugin for creating multiline text arrays from selected text
 
 [JavaScript Next Snippets](https://packagecontrol.io/packages/JavaScript%20Next%20Snippets) - The last Javascript 2017 &amp; React Sublime snippets package you will ever need.
 
@@ -3590,6 +3818,8 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [Jenkins Dashboard](https://packagecontrol.io/packages/Jenkins%20Dashboard) - [DEPRECATED] Sublime Text plugin to allow interaction with a Jenkins Installation
 
+[Jenkinsfile](https://packagecontrol.io/packages/Jenkinsfile) - Lint Jenkins&#x27; Jenkinsfile via SSH
+
 [Jest](https://packagecontrol.io/packages/Jest) - Sublime Text helpers for Jest
 
 [JetJet Color Scheme](https://packagecontrol.io/packages/JetJet%20Color%20Scheme) - JetJet-Theme for Sublime Text 3
@@ -3630,11 +3860,13 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [JsonTree](https://packagecontrol.io/packages/JsonTree) - Sublime Text plugin for browsing a JSON document via tree view
 
-[Julia](https://packagecontrol.io/packages/Julia) - Julia syntax highlighting for Sublime Text 2/3
+[Julia](https://packagecontrol.io/packages/Julia) - Julia syntax highlighting for Sublime Text 
 
 [Jump Along Indent](https://packagecontrol.io/packages/Jump%20Along%20Indent) - Sublime 3 plugin to move cursor to next/previous line at the same indentation level as the current line
 
-[JumpTo](https://packagecontrol.io/packages/JumpTo) - Sublime Text 2 plugin to move the cursor
+[JumpTo](https://packagecontrol.io/packages/JumpTo) - Sublime Text plugin to move (multiple) cursors
+
+[Jumpy](https://packagecontrol.io/packages/Jumpy) - Create dynamic hotkeys to jump around files and across visible panes.
 
 [Junos](https://packagecontrol.io/packages/Junos) - Junos Config Syntax Highlighting for Sublime Text 2/3
 
@@ -3658,6 +3890,8 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [KSP (Kontakt Script Processor)](https://packagecontrol.io/packages/KSP%20%28Kontakt%20Script%20Processor%29) - Fork of Nils Liberg&#x27;s SublimeKSP plugin. See README for details.
 
+[KSQL Syntax Highlighter](https://packagecontrol.io/packages/KSQL%20Syntax%20Highlighter) - A Sublime Text 3 syntax-highlighting plugin for Confluent&#x27;s KSQL and ksqlDB
+
 [KWrite Color Scheme](https://packagecontrol.io/packages/KWrite%20Color%20Scheme) - Kwrite color scheme for Sublime Text 2
 
 [Kahlan PHP Snippets](https://packagecontrol.io/packages/Kahlan%20PHP%20Snippets) - A collection of sublime text snippets useful for the php test framework Kahlan.
@@ -3674,13 +3908,17 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 
 [Keep Open On Last Tab Close](https://packagecontrol.io/packages/Keep%20Open%20On%20Last%20Tab%20Close) - keep Sublime Text 2 open by opening a new tab when the last tab in the last window is closed
 
+[KeepPastedTextSelected](https://packagecontrol.io/packages/KeepPastedTextSelected) - When pasting text with the command `Ctrl+Shift+V` (paste_and_indent), it makes the pasted text to be selected
+
 [Kellys Color Scheme](https://packagecontrol.io/packages/Kellys%20Color%20Scheme) - :art: Color Scheme for Sublime Text
+
+[Keras](https://packagecontrol.io/packages/Keras) - Sublime Package with snippets for Keras
 
 [Kerbal Space Program Configuration Syntax](https://packagecontrol.io/packages/Kerbal%20Space%20Program%20Configuration%20Syntax) - Syntax highlighting in Sublime for Kerbal Space Program config files.
 
 [KeybindingHelper](https://packagecontrol.io/packages/KeybindingHelper) - A Sublime Text package to simplify the creation and look-up of key-bindings
 
-[KeyboardSelection](https://packagecontrol.io/packages/KeyboardSelection) - Keyboard movement and selection to contiguous and delimeter boundaries for SublimeText ST2 ST3
+[KeyboardNavigation](https://packagecontrol.io/packages/KeyboardNavigation) - Navigate fast between contiguous boundaries. Keyboard movement and selection and deletion to custom delimeters. For SublimeText ST2 ST3
 
 [KeyboardSpellCheck](https://packagecontrol.io/packages/KeyboardSpellCheck) - A Sublime Text 2/3 plugin that allows you to spell check the word under the cursor from the keyboard (vi style).
 
@@ -3699,6 +3937,10 @@ e.g. header(&#x27;HTTP/1.1 404 Not Found&#x27;);
 [Kimbie Color Scheme](https://packagecontrol.io/packages/Kimbie%20Color%20Scheme) - Color scheme inspired by Mount Kimbie&#x27;s second album
 
 [Kirby2 CMS Snippets](https://packagecontrol.io/packages/Kirby2%20CMS%20Snippets) - Kirby CMS v2 snippets for sublime text
+
+[Kirikae](https://packagecontrol.io/packages/Kirikae) - Quickly jump to a open tabs / files
+
+[Kite Python Autocomplete](https://packagecontrol.io/packages/Kite%20Python%20Autocomplete) - Kite Autocomplete Plugin for Sublime Text: Featuring AI-powered autocompletions, advanced function signatures, and instant documentation
 
 [Kivy Language](https://packagecontrol.io/packages/Kivy%20Language) - Kivy language definition for Sublime Text
 
@@ -3732,11 +3974,15 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Kroman](https://packagecontrol.io/packages/Kroman) - Kroman Sublime Text 3 Plugin 
 
+[KuaiJi](https://packagecontrol.io/packages/KuaiJi) - No description provided
+
 [Kubernetes Manifest autocomplete](https://packagecontrol.io/packages/Kubernetes%20Manifest%20autocomplete) - No description provided
 
 [Kulture](https://packagecontrol.io/packages/Kulture) - Sublime extension for ASP.NET vNext
 
 [Kung Fury](https://packagecontrol.io/packages/Kung%20Fury) - 80&#x27;s dark retro theme for VS Code and Sublime Text
+
+[Kusto Syntax Highlighter](https://packagecontrol.io/packages/Kusto%20Syntax%20Highlighter) - Provide syntax highlighting for kusto language in sublime
 
 [Kustom Color Schemes](https://packagecontrol.io/packages/Kustom%20Color%20Schemes) - Kustom Color Schemes for Sublime Text
 
@@ -3752,8 +3998,6 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [LC4 Assembly Syntax](https://packagecontrol.io/packages/LC4%20Assembly%20Syntax) - A syntax highlighting package for the University of Pennsylvania&#x27;s LC4 Assembly for Sublime Text 2/3.
 
-[LD library Path](https://packagecontrol.io/packages/LD%20library%20Path) - Configure (DY)LD_LIBRARY_PATH in Sublime Text through user configuration
-
 [LDIF Syntax Highlighting](https://packagecontrol.io/packages/LDIF%20Syntax%20Highlighting) - LDIF syntax highlighter and snippets for Sublime Text 3
 
 [LESS](https://packagecontrol.io/packages/LESS) - LESS syntax highlighting for Sublime Text.
@@ -3768,6 +4012,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [LOLCODE](https://packagecontrol.io/packages/LOLCODE) - A LOLCODE sublimetext 3 package
 
+[LOVELY2D](https://packagecontrol.io/packages/LOVELY2D) - LOVE2D API support for Sublime Text 4
+
 [LPC](https://packagecontrol.io/packages/LPC) - Sublime syntax highlighting support for LDMud / LPC (Lars Pensjö C)
 
 [LPrint](https://packagecontrol.io/packages/LPrint) - Print support for Sublime Text 3 (Linux and maybe OS X). Allows printer selection, job options and filtering of input.
@@ -3776,7 +4022,55 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [LSL](https://packagecontrol.io/packages/LSL) - Syntax definitions for LSL(Linden Scripting Language) in Second Life and OSSL(OpenSimulator Scripting Language) in OpenSimulator.
 
-[LSP](https://packagecontrol.io/packages/LSP) - Language Server Protocol support for Sublime Text 3
+[LSP](https://packagecontrol.io/packages/LSP) - Client implementation of the Language Server Protocol for Sublime Text
+
+[LSP-Dart](https://packagecontrol.io/packages/LSP-Dart) - Convenience plugin for the Dart Analysis Server, bundled in the Dart SDK
+
+[LSP-TexLab](https://packagecontrol.io/packages/LSP-TexLab) - LaTeX support for Sublime&#x27;s LSP plugin provided through latex-lsp/texlab.
+
+[LSP-angular](https://packagecontrol.io/packages/LSP-angular) - Convenience plugin for Angular Language Service
+
+[LSP-bash](https://packagecontrol.io/packages/LSP-bash) - Bash support for Sublime&#x27;s LSP plugin provided through bash-language-server.
+
+[LSP-css](https://packagecontrol.io/packages/LSP-css) - CSS, SCSS, LESS support for Sublime&#x27;s LSP plugin 
+
+[LSP-dockerfile](https://packagecontrol.io/packages/LSP-dockerfile) - Dockerfile support for Sublime&#x27;s LSP plugin
+
+[LSP-elixir](https://packagecontrol.io/packages/LSP-elixir) - Elixir support for Sublime LSP plugin
+
+[LSP-elm](https://packagecontrol.io/packages/LSP-elm) - Elm support for Sublime&#x27;s LSP plugin
+
+[LSP-eslint](https://packagecontrol.io/packages/LSP-eslint) - ESLint support for Sublime LSP plugin
+
+[LSP-graphql](https://packagecontrol.io/packages/LSP-graphql) - GraphQL support for Sublime&#x27;s LSP package
+
+[LSP-html](https://packagecontrol.io/packages/LSP-html) - HTML support for Sublime&#x27;s LSP plugin 
+
+[LSP-intelephense](https://packagecontrol.io/packages/LSP-intelephense) - PHP support for Sublime&#x27;s LSP plugin provided through intelephense.
+
+[LSP-json](https://packagecontrol.io/packages/LSP-json) - Schema validation/completions for your JSON and Sublime files
+
+[LSP-lemminx](https://packagecontrol.io/packages/LSP-lemminx) - XML support for Sublime&#x27;s LSP plugin
+
+[LSP-metals](https://packagecontrol.io/packages/LSP-metals) - Sublime Text package for Metals, a language server for Scala
+
+[LSP-promql](https://packagecontrol.io/packages/LSP-promql) - PromQL support for Sublime LSP plugin, using promql-langserver
+
+[LSP-pyright](https://packagecontrol.io/packages/LSP-pyright) - Python support for Sublime&#x27;s LSP plugin provided through microsoft/pyright.
+
+[LSP-serenata](https://packagecontrol.io/packages/LSP-serenata) - PHP support for Sublime&#x27;s LSP plugin using Serenata
+
+[LSP-stylelint](https://packagecontrol.io/packages/LSP-stylelint) - Stylelint support for Sublime&#x27;s LSP plugin
+
+[LSP-svelte](https://packagecontrol.io/packages/LSP-svelte) - Convenience plugin for Svelte Language Tools
+
+[LSP-tagml](https://packagecontrol.io/packages/LSP-tagml) - Sublime plugin for TAGML Language server
+
+[LSP-typescript](https://packagecontrol.io/packages/LSP-typescript) - TypeScript, JavaScript support for Sublime LSP plugin
+
+[LSP-vue](https://packagecontrol.io/packages/LSP-vue) - Vue support for Sublime&#x27;s LSP plugin
+
+[LSP-yaml](https://packagecontrol.io/packages/LSP-yaml) - YAML support for Sublime&#x27;s LSP plugin using yaml-language-server
 
 [LaTeX Accents](https://packagecontrol.io/packages/LaTeX%20Accents) - Decode and encode letters with accents in LaTeX
 
@@ -3810,6 +4104,10 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Language - French - Français](https://packagecontrol.io/packages/Language%20-%20French%20-%20Fran%C3%A7ais) - French Spelling Language for Sublime Text - Dicionnaire Français pour Sublime Text
 
+[Language - Latin](https://packagecontrol.io/packages/Language%20-%20Latin) - Latin Spelling Dictionary for Sublime Text 3
+
+[Language - Mongolian](https://packagecontrol.io/packages/Language%20-%20Mongolian) - Монгол үгийн алдаа шалгах толь, Mongolian spellchecking dictionary
+
 [Language - Spanish](https://packagecontrol.io/packages/Language%20-%20Spanish) - Spanish spelling language for Sublime Text - Diccionario de Español para Sublime Text
 
 [Language - Up-Goer-5](https://packagecontrol.io/packages/Language%20-%20Up-Goer-5) - The Up Goer 5 Sublime Text Word Set Add-On!!!
@@ -3836,6 +4134,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Laravel 5 Snippets](https://packagecontrol.io/packages/Laravel%205%20Snippets) - Laravel 5 Snippets for Sublime Text
 
+[Laravel Assertion Completions](https://packagecontrol.io/packages/Laravel%20Assertion%20Completions) - Laravel custom assertions autocomplete
+
 [Laravel Blade AutoComplete](https://packagecontrol.io/packages/Laravel%20Blade%20AutoComplete) - Laravel Blade Autocomplete
 
 [Laravel Blade Highlighter](https://packagecontrol.io/packages/Laravel%20Blade%20Highlighter) - Laravel Blade syntax highlighter support for Sublime Text.
@@ -3856,9 +4156,15 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Laravel Generator](https://packagecontrol.io/packages/Laravel%20Generator) - A Sublime Text Plugin which allows using Laravel 4 Generators by Jeffrey Way via the command palette.
 
+[Laravel Goto](https://packagecontrol.io/packages/Laravel%20Goto) - Goto various Laravel files by Alt+Left-Click
+
 [Laravel Helper Completions](https://packagecontrol.io/packages/Laravel%20Helper%20Completions) - A set of completions for Laravel 5 helper functions
 
+[Laravel Lang](https://packagecontrol.io/packages/Laravel%20Lang) - A simple tool to help translate your Laravel project.
+
 [Laravel Migrations Snippets](https://packagecontrol.io/packages/Laravel%20Migrations%20Snippets) - Laravel Migrations Snippets for Sublime Text 3
+
+[Laravel OpenFile](https://packagecontrol.io/packages/Laravel%20OpenFile) - Sublime Text Package for Laravel Developers
 
 [LaravelCollective HTML Form Snippets](https://packagecontrol.io/packages/LaravelCollective%20HTML%20Form%20Snippets) - Sublime Text 3 snippets for LaravelCollective/html form elements.
 
@@ -3874,7 +4180,9 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [LastModifiedIndicator](https://packagecontrol.io/packages/LastModifiedIndicator) - Sublime Text 2/3 plugin indicating the last modified line
 
-[Latest Migration](https://packagecontrol.io/packages/Latest%20Migration) - Open Latest migration of supported web frameworks in Sublime Text
+[Latest Migration](https://packagecontrol.io/packages/Latest%20Migration) - Open Latest migration of supported web frameworks in Sublime Text.
+
+[Launch](https://packagecontrol.io/packages/Launch) - No description provided
 
 [Laynger](https://packagecontrol.io/packages/Laynger) - Laynger (Layout Changer) is a plugin for Sublime Text 2 which allows to change layout borders using keyboard
 
@@ -3892,6 +4200,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Ledger syntax highlighting](https://packagecontrol.io/packages/Ledger%20syntax%20highlighting) - Ledger syntax highlighting for Sublime Text / TextMate
 
+[LedgerTools](https://packagecontrol.io/packages/LedgerTools) - A SublimeText pluggin for Ledger CLI
+
 [LeekScript Syntax](https://packagecontrol.io/packages/LeekScript%20Syntax) - A Sublime Text package for LeekScript. 
 
 [Legal Document Creator](https://packagecontrol.io/packages/Legal%20Document%20Creator) - Build System for Legal Documents utilizing Legal_Markdown gem &amp; Pandoc
@@ -3903,8 +4213,6 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 [Less Tabs](https://packagecontrol.io/packages/Less%20Tabs) - Sublime Text 3 package to close old, unused and unrelated tabs
 
 [Less2Css](https://packagecontrol.io/packages/Less2Css) - Sublime Text 2 Plugin to compile less files to css on save
-
-[LessImproved](https://packagecontrol.io/packages/LessImproved) - Less syntax highlighting optimised for Sublime Text 3
 
 [LettuceFarmer](https://packagecontrol.io/packages/LettuceFarmer) - Lettuce feature syntax highlighting, auto-completion, and step validation for SublimeText 2
 
@@ -3924,6 +4232,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Lifted Color Scheme](https://packagecontrol.io/packages/Lifted%20Color%20Scheme) - lifted-colorscheme-dark
 
+[Light Lite Color Scheme](https://packagecontrol.io/packages/Light%20Lite%20Color%20Scheme) - Sublime Variation of https://github.com/brendt/phpstorm-light-lite-theme
+
 [LightPaper Markdown](https://packagecontrol.io/packages/LightPaper%20Markdown) - Open your current file with LightPaper.app markdown editor in Sublime 2/3
 
 [LightScript](https://packagecontrol.io/packages/LightScript) - Syntax definitions for LightScript, based on babel-sublime.
@@ -3931,6 +4241,10 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 [Lightning](https://packagecontrol.io/packages/Lightning) - Sublime Plugin for Aura
 
 [LightningComponentsCompletions](https://packagecontrol.io/packages/LightningComponentsCompletions) - No description provided
+
+[LikeGit](https://packagecontrol.io/packages/LikeGit) - git log graph for sublime text3
+
+[Limegrass Color Scheme](https://packagecontrol.io/packages/Limegrass%20Color%20Scheme) - 🌱 A grassy and colorful over dark Sublime Text theme.
 
 [LimitTabs](https://packagecontrol.io/packages/LimitTabs) - Plugin for Sublime Text to keep the open tabs at a clear amount
 
@@ -3942,9 +4256,13 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [LineProfiler](https://packagecontrol.io/packages/LineProfiler) - Line-based Python profiling plugin for Sublime Text
 
+[Linearize XML](https://packagecontrol.io/packages/Linearize%20XML) - Package for the Sublime Text editor to remove all whitespace between tags.
+
 [LinesMultisets](https://packagecontrol.io/packages/LinesMultisets) - This Sublime Text plugin allows you to compare, merge and manipulate lists of things, whether they are todo items, lists of files or arrays from API responses.
 
 [LinkOpener](https://packagecontrol.io/packages/LinkOpener) - Tiny plugin for opening links and web searching
+
+[LinkedData](https://packagecontrol.io/packages/LinkedData) - Complete high-res syntaxes for SPARQL 1.1, Turtle, TriG, N-Triples, N-Quads, Notation3 and ShExC
 
 [LinkerScript](https://packagecontrol.io/packages/LinkerScript) - Syntax highlighting for GNU linker scripts
 
@@ -3962,7 +4280,11 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Listenr](https://packagecontrol.io/packages/Listenr) - plugin for sublime text 2 that listens on all code editing events and logs to a server for fun audio/visual representation
 
+[LitElement Syntax Highlighting](https://packagecontrol.io/packages/LitElement%20Syntax%20Highlighting) - Syntax highlighting for Lit-Element and Lit-Html libraries for Sublime Text 3
+
 [Lithium Snippets](https://packagecontrol.io/packages/Lithium%20Snippets) - Lithium Snippet Package for Sublime 2
+
+[Live Coding in Python](https://packagecontrol.io/packages/Live%20Coding%20in%20Python) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
 
 [LiveCode](https://packagecontrol.io/packages/LiveCode) - LiveCode Language Package for SublimeText
 
@@ -3972,7 +4294,7 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [LiveScript](https://packagecontrol.io/packages/LiveScript) - A TextMate, Chocolat and Sublime Text bundle for LiveScript
 
-[LiveStamps](https://packagecontrol.io/packages/LiveStamps) - A Sublime Text 3 Plugin to inject self updating metadata into any document .
+[LiveServer](https://packagecontrol.io/packages/LiveServer) - 🌍️ Launch a Development Server directly from Sublime Text
 
 [LiveStyle](https://packagecontrol.io/packages/LiveStyle) - LiveStyle plugin for Sublime Text
 
@@ -3988,7 +4310,7 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Locales](https://packagecontrol.io/packages/Locales) - A Sublime Text Package to l10n the UI.
 
-[LocalizedMenu](https://packagecontrol.io/packages/LocalizedMenu) - Localize Tool &amp; Localized Menu for Sublime Text 2/3 End User. Localization with 简体中文(Simplified Chinese)/繁体中文(Traditional Chinese)/Русский(Russian)/Español(Spanish)/Հայերեն(Armenian)/Svenska(Swedish)/Français(French)/Any other language.
+[LocalizedMenu](https://packagecontrol.io/packages/LocalizedMenu) - Localize Tool &amp; Localized Menu for Sublime Text 2/3 End User. Localization with 简体中文(Simplified Chinese)/繁体中文(Traditional Chinese)/Русский(Russian)/Español(Spanish)/Հայերեն(Armenian)/Svenska(Swedish)/Français(French)/Português(Portuguese)/Any other language.
 
 [LockTab](https://packagecontrol.io/packages/LockTab) - Repository for the LockTab sublime 3 plugin
 
@@ -4032,13 +4354,13 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [LoremText](https://packagecontrol.io/packages/LoremText) - Generate random or fixed lorem ipsum placeholder text.
 
-[Louk](https://packagecontrol.io/packages/Louk) - Sublime syntax highlighting for Louk
+[Lotus Color Scheme](https://packagecontrol.io/packages/Lotus%20Color%20Scheme) - Lotus is a dark color scheme for Sublime Text.
 
-[LsBookmarks](https://packagecontrol.io/packages/LsBookmarks) - No description provided
+[Louk](https://packagecontrol.io/packages/Louk) - Sublime syntax highlighting for Louk
 
 [Lua Dev](https://packagecontrol.io/packages/Lua%20Dev) - Various support files for making developing Lua using Sublime Text 2 more pleasant.
 
-[Lua Love](https://packagecontrol.io/packages/Lua%20Love) - SublimeText Lua and Love2D package. Deprecated.
+[Lua Love](https://packagecontrol.io/packages/Lua%20Love) - SublimeText Lua and Love2D package.
 
 [LuaAutocomplete](https://packagecontrol.io/packages/LuaAutocomplete) - Sublime Text 3 plugin for auto-completion in Lua
 
@@ -4048,9 +4370,11 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [LuaFormat](https://packagecontrol.io/packages/LuaFormat) - Lua Format Plugin For Sublime Text
 
+[LuaFormatter](https://packagecontrol.io/packages/LuaFormatter) - No description provided
+
 [LuaJumpDefinition](https://packagecontrol.io/packages/LuaJumpDefinition) - this is Sublime Text 3 plugin, that help you jump definition in LUA.
 
-[LuaProjectHelper](https://packagecontrol.io/packages/LuaProjectHelper) - No description provided
+[LuaProjectHelper](https://packagecontrol.io/packages/LuaProjectHelper) - Lua Project Helper sublime plugin
 
 [LuaSimpleComplete](https://packagecontrol.io/packages/LuaSimpleComplete) - No description provided
 
@@ -4058,11 +4382,15 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Lucario Color Scheme](https://packagecontrol.io/packages/Lucario%20Color%20Scheme) - The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm
 
+[Lucene Query Formatter](https://packagecontrol.io/packages/Lucene%20Query%20Formatter) - Format Lucene Query object strings
+
 [Lucky Link](https://packagecontrol.io/packages/Lucky%20Link) - A Sublime Text plugin that transforms the selected text into Google&#x27;s top URL for that search
 
 [Ludum Dare Countdown](https://packagecontrol.io/packages/Ludum%20Dare%20Countdown) - Small sublime text package to show the countdown for Ludum Dare in the status bar
 
 [Lux](https://packagecontrol.io/packages/Lux) - No description provided
+
+[LyricEditor](https://packagecontrol.io/packages/LyricEditor) - Make sublime text a lyric editor. edit .lrc file, sync lyric with song
 
 [LyxMath](https://packagecontrol.io/packages/LyxMath) - A Plugin to add a Lyx Display and Inline Math shortcuts to Sublime Text
 
@@ -4072,7 +4400,7 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [M68k Assembly](https://packagecontrol.io/packages/M68k%20Assembly) - Motorola 68000 Assembly Language Syntax Package for Sublime Text
 
-[MB Warband API](https://packagecontrol.io/packages/MB%20Warband%20API) - Sublime Text 3 Syntax Plugin
+[MAC-1 Syntax](https://packagecontrol.io/packages/MAC-1%20Syntax) - Provides MAC-1 syntax support for Sublime Text 3.
 
 [MCA Language](https://packagecontrol.io/packages/MCA%20Language) - MCA syntax definition for Sublime Text and Textmate.
 
@@ -4088,8 +4416,6 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [MDX Syntax Highlighting](https://packagecontrol.io/packages/MDX%20Syntax%20Highlighting) - Syntax highlighting for MDX, JSX in Markdown
 
-[MFScript](https://packagecontrol.io/packages/MFScript) - VBScript package for Sublime Text
-
 [MIPS Syntax](https://packagecontrol.io/packages/MIPS%20Syntax) - MIPS syntax highlightning package for sublime text 2
 
 [MIST](https://packagecontrol.io/packages/MIST) - auto-completion for MIST template file in Sublime Text 3
@@ -4098,13 +4424,17 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [MJML-syntax](https://packagecontrol.io/packages/MJML-syntax) - Sublime package for the MJML
 
+[MKB](https://packagecontrol.io/packages/MKB) - Macro/Keybind Mod Syntax Highlighting for Sublime Text 3
+
 [MLFi](https://packagecontrol.io/packages/MLFi) - MLFi package for Sublime Text
 
 [MODX Placeholder Snippets](https://packagecontrol.io/packages/MODX%20Placeholder%20Snippets) - MODX Placeholders Snippets for the Sublime Text Editor 
 
 [MODx Revolution Snippets](https://packagecontrol.io/packages/MODx%20Revolution%20Snippets) - MODx Revolution Sublime Text 2 snippets
 
-[MOHAA](https://packagecontrol.io/packages/MOHAA) - Syntax Definitions for MoH:AA scripting languages.
+[MOHAA](https://packagecontrol.io/packages/MOHAA) - MOHAA Scripting Languages syntax highlighting, code snippets, and completions for Sublime Text
+
+[MOOS](https://packagecontrol.io/packages/MOOS) - Sublime Text 3 - MOOS Package
 
 [MRL syntax highlighting](https://packagecontrol.io/packages/MRL%20syntax%20highlighting) - MRL syntax highliting for Sublime Text 3
 
@@ -4136,6 +4466,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [MagentoSnippets](https://packagecontrol.io/packages/MagentoSnippets) - Magento Front End Snippets, plugin for Sublime Text
 
+[MagentoWorkflow](https://packagecontrol.io/packages/MagentoWorkflow) - Blazing fast Magento 2 development in SublimeText 3
+
 [MagerunCommander](https://packagecontrol.io/packages/MagerunCommander) - Magerun Helper for Sublime Text 3
 
 [MagicPython](https://packagecontrol.io/packages/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
@@ -4148,7 +4480,11 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [MagmaSnippets](https://packagecontrol.io/packages/MagmaSnippets) - Collection of Magma Text 3 snippets for the Magma language
 
+[Magpie](https://packagecontrol.io/packages/Magpie) - Custom syntax highlighting for Silectis Magpie&#x27;s DSL, Magpie script
+
 [Mahou Caret Display Server](https://packagecontrol.io/packages/Mahou%20Caret%20Display%20Server) - Mahou Caret Display Server for Mahou&#x27;s Caret Language Display feature to work with Sublime Text 3.
+
+[MainThings Color Scheme](https://packagecontrol.io/packages/MainThings%20Color%20Scheme) - Color Scheme for Sublime Text 3. Concept is: Focus on important words. D language only.
 
 [Make Automatic Variables](https://packagecontrol.io/packages/Make%20Automatic%20Variables) - SublimeText snippets for GNU Make automatic variables 
 
@@ -4156,11 +4492,9 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Make File Executable](https://packagecontrol.io/packages/Make%20File%20Executable) - Sublime Text plugin that adds a quick shortcut to make the current file executable
 
-[MakeCommands](https://packagecontrol.io/packages/MakeCommands) - Automatic commands from make targets.
-
 [MakeExecutable](https://packagecontrol.io/packages/MakeExecutable) - A plugin for Sublime Text 2. If the file you saved has no extension and start with shebang, this plugin make executable that file.
 
-[Makefile Improved](https://packagecontrol.io/packages/Makefile%20Improved) - This is a improved Makefile syntax.
+[MakeTargets](https://packagecontrol.io/packages/MakeTargets) - Automatically have all of your Makefile targets available as build variants.
 
 [Makefile Plus](https://packagecontrol.io/packages/Makefile%20Plus) - A simple Makefile syntax for Sublime Text
 
@@ -4170,17 +4504,23 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Mandarin Peacock Color Scheme](https://packagecontrol.io/packages/Mandarin%20Peacock%20Color%20Scheme) - Sublime Syntax Theme based off of Mandarin and Peacock
 
+[Mandoc](https://packagecontrol.io/packages/Mandoc) - Sublime Text 3 syntax package for the markup language Mandoc
+
 [ManiaScript](https://packagecontrol.io/packages/ManiaScript) - ManiaScript syntax highlighting and autocompletion for Sublime Text 2 &amp; 3
 
 [MantisBT](https://packagecontrol.io/packages/MantisBT) - No description provided
 
 [Map Snippets](https://packagecontrol.io/packages/Map%20Snippets) - A set of custom web mapping snippets for Sublime Text 2/3
 
+[MapPreview](https://packagecontrol.io/packages/MapPreview) - Sublime Text 3 Map Preview Plugin
+
 [MapTool Syntax](https://packagecontrol.io/packages/MapTool%20Syntax) - Syntax highlighting for RPTools&#x27; MapTool macros in Sublime Text.
 
 [Maperitive](https://packagecontrol.io/packages/Maperitive) - Syntax definition and code snippets for Maperitive - a tool to render custom maps based on OpenStreetMap data.
 
 [MapfileSyntax](https://packagecontrol.io/packages/MapfileSyntax) - Colors in Sublime Text 3 for Mapfiles used in MapServer
+
+[MapleMBSE MSE Configuration](https://packagecontrol.io/packages/MapleMBSE%20MSE%20Configuration) - MapleMBSE configurations
 
 [Marc Mentat Proc Highlighting](https://packagecontrol.io/packages/Marc%20Mentat%20Proc%20Highlighting) - Language support for Sublime 3. Install in the &#x27;user&#x27; folder which you can find via preferences -&gt; browse packages
 
@@ -4192,15 +4532,21 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [MarkPress](https://packagecontrol.io/packages/MarkPress) - Pushes the current active sublimetext file to a metaweblog compatible blog, optionally applying markdown
 
+[MarkSearch](https://packagecontrol.io/packages/MarkSearch) - Search through find results while keeping them outlined.
+
 [Markboard3](https://packagecontrol.io/packages/Markboard3) - Copy formatted text from Markdown under ST3
 
 [Markdeep](https://packagecontrol.io/packages/Markdeep) - Markdeep support for Sublime Text
 
 [Markdown Code Blocks](https://packagecontrol.io/packages/Markdown%20Code%20Blocks) - ⬛ Sublime Text 3 plugin to add Markdown syntax highlighted blocks with ease.
 
+[Markdown Code Packer](https://packagecontrol.io/packages/Markdown%20Code%20Packer) - include source code files unobtrusively in markdown notes (a Sublime Text 3 plugin)
+
 [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended) - Top 100 Sublime Text plugin! Markdown syntax highlighter for Sublime Text, with extended support for GFM fenced code blocks, with language-specific syntax highlighting. YAML Front Matter. Works with ST2/ST3. Goes great with Assemble.
 
 [Markdown HTML Preview](https://packagecontrol.io/packages/Markdown%20HTML%20Preview) - Markdown HTML Preview for Sublime Text 2/3
+
+[Markdown Images](https://packagecontrol.io/packages/Markdown%20Images) - Sublime Text 3 plugin to render images in markdown files
 
 [Markdown Numbered Headers](https://packagecontrol.io/packages/Markdown%20Numbered%20Headers) - sublime text3 plugin for markdown, auto insert/update/remove header numbers
 
@@ -4212,6 +4558,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Markdown to Clipboard](https://packagecontrol.io/packages/Markdown%20to%20Clipboard) - A simple plugin that convert markdown text to HTML in Sublime Text and send it to your Clipboard
 
+[MarkdownAssistant](https://packagecontrol.io/packages/MarkdownAssistant) - MarkdownAssistant is a simple and powerful snippet provider, which provides handy snippets for easy creation of Markdown (.md) files. With MarkdownAssistant ,editing .md files is easy and fast.
+
 [MarkdownBuild](https://packagecontrol.io/packages/MarkdownBuild) - This is a Sublime Text plugin for building markdown into html and view it in browser.
 
 [MarkdownCodeBlockWrapper](https://packagecontrol.io/packages/MarkdownCodeBlockWrapper) - Github Flavored Markdown Code Block Wrapper
@@ -4222,15 +4570,15 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [MarkdownFootnotes](https://packagecontrol.io/packages/MarkdownFootnotes) - Sublime Text 3 Plugin to Automatically Handle Footnotes in Markdown
 
-[MarkdownHighlighting](https://packagecontrol.io/packages/MarkdownHighlighting) - Markdown syntax highlighting in any color scheme, with GFM support, for Sublime Text 3
-
 [MarkdownLight](https://packagecontrol.io/packages/MarkdownLight) - Markdown syntax highlighting plugin and color scheme for Sublime Text 3
+
+[MarkdownLink](https://packagecontrol.io/packages/MarkdownLink) - Convert url to markdown link where description is title from remote url
 
 [MarkdownLivePreview](https://packagecontrol.io/packages/MarkdownLivePreview) - A Sublime Text 3 plugin to preview your markdown as you type
 
 [MarkdownPreview](https://packagecontrol.io/packages/MarkdownPreview) - Markdown preview and build plugin for Sublime Text https://facelessuser.github.io/MarkdownPreview/
 
-[MarkdownTOC](https://packagecontrol.io/packages/MarkdownTOC) -  ST3 plugin for generating a table of contents (TOC) in a markdown document.
+[MarkdownTOC](https://packagecontrol.io/packages/MarkdownTOC) -  SublimeText3 plugin which generate a table of contents (TOC) in a markdown document.
 
 [MarkdownWriter](https://packagecontrol.io/packages/MarkdownWriter) - &quot;MarkdownWriter&quot; is a Sublime Text 3 (windows) plugin for markdown writing, especially it can easily convert html to markdown (also downloading images to local harddisk) when you need copy some data from webpage. 
 
@@ -4242,9 +4590,7 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Marko](https://packagecontrol.io/packages/Marko) - Language Definitions for the Marko-js templating language
 
-[Marksy Convert](https://packagecontrol.io/packages/Marksy%20Convert) - Sublime Text plugin that uses Marksy API to convert between markup languages
-
-[Marshal Command Code](https://packagecontrol.io/packages/Marshal%20Command%20Code) - Marshal Command Code Syntax Highlighter
+[Marshal Command Code](https://packagecontrol.io/packages/Marshal%20Command%20Code) - Syntax highlighting for Minecraft Commands
 
 [Mask](https://packagecontrol.io/packages/Mask) - Sublime Text: Mask syntax support
 
@@ -4269,6 +4615,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 [Material Theme - Appbar](https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar) - Material Theme addon to enable tinted appbar for your Sublime Text
 
 [Material Theme - White Panels](https://packagecontrol.io/packages/Material%20Theme%20-%20White%20Panels) - Enable the Material Theme white panels and inputs
+
+[MaterialUi React Component Snippet Autocomplete](https://packagecontrol.io/packages/MaterialUi%20React%20Component%20Snippet%20Autocomplete) - Materialui React Component Snippet and Autocomplete for Sublime Text
 
 [Materialize](https://packagecontrol.io/packages/Materialize) - 🎨 Elegant themes for Sublime Text 3
 
@@ -4296,8 +4644,6 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Maven](https://packagecontrol.io/packages/Maven) - Sublime Text 2 Plugin providing integration with the Apache Maven build and project management tool
 
-[MavensMate](https://packagecontrol.io/packages/MavensMate) - Sublime Text plugin for Salesforce developers. Aims to replace the Eclipse-based Force.com IDE.
-
 [MaxPane](https://packagecontrol.io/packages/MaxPane) - Sublime Text plugin to quickly maximize a pane in a multi pane layout without resetting the layout.
 
 [MayaSublime](https://packagecontrol.io/packages/MayaSublime) - Send selected Python and MEL code snippets from SublimeText to Maya via commandPort
@@ -4306,19 +4652,19 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Maze Syntax](https://packagecontrol.io/packages/Maze%20Syntax) - Package for Maze language Sublime Text integration.
 
-[Meav](https://packagecontrol.io/packages/Meav) - She is my assistant.
-
 [MediaPlayer](https://packagecontrol.io/packages/MediaPlayer) - Media player for Sublime Text 2/3
 
 [Mediawiker](https://packagecontrol.io/packages/Mediawiker) - Mediawiker is a plugin for Sublime Text editor that adds possibility to use it as Wiki Editor on Mediawiki based sites like Wikipedia and many other.
 
+[Meetio Theme](https://packagecontrol.io/packages/Meetio%20Theme) - The most powerful and adaptive theme for Sublime Text 3
+
 [Melbourne Ipsum](https://packagecontrol.io/packages/Melbourne%20Ipsum) - a Sublime Text plugin for inserting hip filler text
 
-[Mellanox Syntax Highlighter](https://packagecontrol.io/packages/Mellanox%20Syntax%20Highlighter) - No description provided
+[Mellanox Syntax Highlighter](https://packagecontrol.io/packages/Mellanox%20Syntax%20Highlighter) - Mellanox Syntax Highlighter for Sublime Text
+
+[Mem.dev Snippet Saver](https://packagecontrol.io/packages/Mem.dev%20Snippet%20Saver) - Sublime Text plugin to send snippets to your mem.dev account
 
 [Mercurial](https://packagecontrol.io/packages/Mercurial) - Full-featured Mercurial (hg) support for Sublime Text 3
-
-[Mercurial for Sublime](https://packagecontrol.io/packages/Mercurial%20for%20Sublime) - Sublime Text plugin for Mercurial (hg) the VCS. A fork of &quot;hg4subl&quot;, which is pretty cool but lacks some features.
 
 [Merge Variables](https://packagecontrol.io/packages/Merge%20Variables) - Text Replacement Package for Sublime Text 2 and 3
 
@@ -4327,8 +4673,6 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 [Merlin](https://packagecontrol.io/packages/Merlin) - Merlin package for Sublime Text 3
 
 [Mermaid](https://packagecontrol.io/packages/Mermaid) - :tropical_fish: The missing Sublime Text 3 package for Mermaid
-
-[Meson](https://packagecontrol.io/packages/Meson) - Meson Build syntax
 
 [Messages](https://packagecontrol.io/packages/Messages) - A manager for messages that belong to a line of code in Sublime Text
 
@@ -4354,7 +4698,11 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [MicroPython Tools](https://packagecontrol.io/packages/MicroPython%20Tools) - MicroPython board tools for Sublime Text 3.
 
+[Microsoft Power Query Syntax](https://packagecontrol.io/packages/Microsoft%20Power%20Query%20Syntax) - No description provided
+
 [Mika](https://packagecontrol.io/packages/Mika) - Simplistic Markup Language
+
+[Miking Syntax Highlighting](https://packagecontrol.io/packages/Miking%20Syntax%20Highlighting) - Miking syntax highlighting for Sublime Text
 
 [MikrotikScript](https://packagecontrol.io/packages/MikrotikScript) - Syntax highlighting and completions for the Mikrotik Scripting language for the Sublime Text editor
 
@@ -4376,13 +4724,19 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Minify JS To Clipboard](https://packagecontrol.io/packages/Minify%20JS%20To%20Clipboard) - takes the current selected block of text, minifies it, and copies it to the clipboard. that&#x27;s it.
 
-[Minify on Save](https://packagecontrol.io/packages/Minify%20on%20Save) - Sublime plugin to minify .js and .css files when saved. Needs minifier plugin to works!
+[Minify on Save](https://packagecontrol.io/packages/Minify%20on%20Save) - Sublime plugin to minify .js and .css files when saved. Needs minifier plugin to work!
+
+[Minimal Tabs](https://packagecontrol.io/packages/Minimal%20Tabs) - WIP: A simple Sublime Text theme with straight minimal tabs instead of the slanted detailed ones.
 
 [MinimalFortran](https://packagecontrol.io/packages/MinimalFortran) - Minimal symbol and syntax matching for Fortran in Sublime Text
 
 [Miniscript](https://packagecontrol.io/packages/Miniscript) - Sublime package for the miniscript language
 
+[Minitest Buddy](https://packagecontrol.io/packages/Minitest%20Buddy) - A Minitest buddy for Sublime Text.
+
 [MinkExtension default feature step completions](https://packagecontrol.io/packages/MinkExtension%20default%20feature%20step%20completions) - No description provided
+
+[Mint Lang](https://packagecontrol.io/packages/Mint%20Lang) - A Sublime Text package for the Mint language
 
 [Minteresting](https://packagecontrol.io/packages/Minteresting) - A dark theme for Sublime Text 2/3
 
@@ -4420,6 +4774,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Modelines](https://packagecontrol.io/packages/Modelines) - Vim-like modelines for Sublime Text.
 
+[ModernFortran](https://packagecontrol.io/packages/ModernFortran) - Sublime Text 3 language syntax for highlighting of modern Fortran (Fortran 90 and newer)
+
 [ModernPerl](https://packagecontrol.io/packages/ModernPerl) - Perl syntax highlighting for Sublime Text that isn&#x27;t outdated
 
 [Modific](https://packagecontrol.io/packages/Modific) - Highlight lines changed since the last commit (supports Git, SVN, Bazaar, Mercurial and TFS) / ST2(3) plugin
@@ -4443,8 +4799,6 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 [MongoExec](https://packagecontrol.io/packages/MongoExec) - A sublime text 3 plugin to execute mongodb commands
 
 [Mongomapper Snippets](https://packagecontrol.io/packages/Mongomapper%20Snippets) - Snippets for MongoMapper
-
-[Mongoose CoffeeScript](https://packagecontrol.io/packages/Mongoose%20CoffeeScript) - Better CoffeeScript with Mongoose Snippets &amp; Syntax Highlighting
 
 [Monkberry](https://packagecontrol.io/packages/Monkberry) - Atom/Sublime support for Monkberry templates.
 
@@ -4472,7 +4826,11 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Monokai Rich](https://packagecontrol.io/packages/Monokai%20Rich) - Extends monokai with rich syntax highlighting for: PHP, HTML, CSS, JS, Blade, Markdown ..
 
+[Monokai Soft](https://packagecontrol.io/packages/Monokai%20Soft) - Light coloured dark Monokai color scheme
+
 [Monokai++](https://packagecontrol.io/packages/Monokai%2B%2B) - A modern Monokai theme for Sublime Text 3 and Visual Studio Code
+
+[MonokaiC](https://packagecontrol.io/packages/MonokaiC) - A Monokai color scheme for Sublime Text, providing both colored and text-style preview for MarkdownEditing
 
 [MonokaiFree](https://packagecontrol.io/packages/MonokaiFree) - A beautiful, modern, high quality, Monokai theme for Sublime Text 3.
 
@@ -4483,6 +4841,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 [MoonScript](https://packagecontrol.io/packages/MoonScript) - Sublime support for editing MoonScript souce files
 
 [Moonscripty](https://packagecontrol.io/packages/Moonscripty) - Sublime + Moonscript configuration.
+
+[Mooon Light Theme](https://packagecontrol.io/packages/Mooon%20Light%20Theme) - 🎨 Modern Theme for Sublime Text 3
 
 [Mootools Snippets](https://packagecontrol.io/packages/Mootools%20Snippets) - Mootools API Snippets for Sublime Text
 
@@ -4502,7 +4862,7 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Move By Paragraph](https://packagecontrol.io/packages/Move%20By%20Paragraph) - Navigate and select text by paragraph
 
-[Move By Symbols](https://packagecontrol.io/packages/Move%20By%20Symbols) - Sublime Text plugin for jumping between symbols up and down
+[Move By Symbols](https://packagecontrol.io/packages/Move%20By%20Symbols) - (NO LONGER MAINTAINED) Sublime Text plugin for jumping between symbols up and down
 
 [Move Tabs](https://packagecontrol.io/packages/Move%20Tabs) - Arranging tabs in Sublime Text like in Chrome
 
@@ -4526,7 +4886,7 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Multi line paste](https://packagecontrol.io/packages/Multi%20line%20paste) - Multi line paste plugin to sublime
 
-[MultiEditUtils](https://packagecontrol.io/packages/MultiEditUtils) - A Sublime Text Plugin which enhances editing of multiple selections by adding various features.
+[MultiEditUtils](https://packagecontrol.io/packages/MultiEditUtils) - A Sublime Text Plugin which adds various features for editing multiple selections.
 
 [MultiFill](https://packagecontrol.io/packages/MultiFill) - A sublime text plugin for multi-fill text.
 
@@ -4537,6 +4897,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 [MultiValue BASIC](https://packagecontrol.io/packages/MultiValue%20BASIC) - SublimeText Syntax for MultiValue BASIC 
 
 [Multibyte Word Separators](https://packagecontrol.io/packages/Multibyte%20Word%20Separators) - It corresponds to move to each word of the cursor.
+
+[Multicommand](https://packagecontrol.io/packages/Multicommand) - SublimeText plugin to run multiple commands on one keybinding
 
 [MultipleSelectionScroller](https://packagecontrol.io/packages/MultipleSelectionScroller) - A Sublime Text plugin to allow scrolling through multiple selections and to clear the selections leaving a single cursor at various locations.
 
@@ -4560,6 +4922,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Mybb Template Editor](https://packagecontrol.io/packages/Mybb%20Template%20Editor) - A simple sublime text 3 plugin that will allow you to edit mybb templates
 
+[MypyReveal](https://packagecontrol.io/packages/MypyReveal) - Uses mypy to easily reveal type of variable under cursor, or types of all local variables
+
 [NASM x86 Assembly](https://packagecontrol.io/packages/NASM%20x86%20Assembly) - Provides actually decent code highlighting for x86-64 assembly in Sublime Text
 
 [NCL](https://packagecontrol.io/packages/NCL) - This is a Sublime Text package for NCL (NCAR Command Language).
@@ -4569,6 +4933,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 [NEURON](https://packagecontrol.io/packages/NEURON) - NEURON .hoc, .ses, .inc and .mod syntax highlighting for Sublime Text.
 
 [NFO](https://packagecontrol.io/packages/NFO) - Open Scene NFO files with the correct DOS 437 encoding in Sublime Text.
+
+[NHP Syntax Highlight](https://packagecontrol.io/packages/NHP%20Syntax%20Highlight) - No description provided
 
 [NPMInfo](https://packagecontrol.io/packages/NPMInfo) - Sublime Text plugin for displaying NPM information such as version, description, properties and methods, as well as a quick link to the repo and a link to open the package.json file.
 
@@ -4586,9 +4952,13 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [NaNoWriMo Word Count Updater](https://packagecontrol.io/packages/NaNoWriMo%20Word%20Count%20Updater) - A Sublime Text 3 package for updating your National Novel Writing Month word count
 
+[Nakama Autocomplete](https://packagecontrol.io/packages/Nakama%20Autocomplete) - This is a Sublime Text 3 plugin for Nakama which includes all server documentation
+
 [Named (Bind) Helpers](https://packagecontrol.io/packages/Named%20%28Bind%29%20Helpers) - Perform a named-zonecheck without leaving Sublime Text 2.
 
 [NamedMark](https://packagecontrol.io/packages/NamedMark) - A bit smarter marks than default
+
+[Nano RC Syntax](https://packagecontrol.io/packages/Nano%20RC%20Syntax) - Nano RC configuration file syntax colouring for SublimeText 3
 
 [Naomi](https://packagecontrol.io/packages/Naomi) - Sublime Text enhanced syntax highlighting for JavaScript ES6/ES7/ES2015/ES2016/ES2017+, Babel, FlowType, React JSX, Styled Components, HTML5, SCSS3, PHP 7, phpDoc, PHPUnit, MQL4. Basic: Git config files.
 
@@ -4614,9 +4984,9 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Nemerle](https://packagecontrol.io/packages/Nemerle) - Nemerle support for Sublime Text 2
 
-[NeoVintageous](https://packagecontrol.io/packages/NeoVintageous) - An advanced Vim emulation layer for Sublime Text (Vintageous fork).
+[NeoVintageous](https://packagecontrol.io/packages/NeoVintageous) - Vim emulation layer for Sublime Text.
 
-[Neon Color Scheme](https://packagecontrol.io/packages/Neon%20Color%20Scheme) - A colorful bright-on-black color scheme for Sublime Text  and TextMate. Its aim is to make as many languages as possible look as good as possible. Includes extended support for Python, Ruby, Clojure, JavaScript/JSON, C/C++, diff, HTML/XML, Markdown, reStructuredText, PHP, CSS/SCSS/SASS, GitGutter, Find In Files, PackageDev, Regex, and SublimeLinter.
+[Neon Color Scheme](https://packagecontrol.io/packages/Neon%20Color%20Scheme) - A colorful bright-on-black color scheme for Sublime Text  and TextMate. Its aim is to make as many languages as possible look as good as possible. Includes extended support for Python, Ruby, Clojure, JavaScript/JSON, C/C++, diff, HTML/XML, Markdown, PHP, CSS/SCSS/SASS, GitGutter, Find In Files, PackageDev, Regex, SublimeLinter, and much more.
 
 [Neon Intrinsics](https://packagecontrol.io/packages/Neon%20Intrinsics) - Snippets and Completions for Neon Intrinsics for Sublime
 
@@ -4632,6 +5002,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [NetSuite SDF](https://packagecontrol.io/packages/NetSuite%20SDF) - Sublime Text 3 NetSuite SDF Plugin
 
+[NetYCE syntax highlighting](https://packagecontrol.io/packages/NetYCE%20syntax%20highlighting) - Sublime text 3 highlighting syntax for NetYCE for both templates and scenarios
+
 [Nette](https://packagecontrol.io/packages/Nette) - Latte syntax definition, code completions and snippets for Sublime Text 2
 
 [Nette + Latte + Neon](https://packagecontrol.io/packages/Nette%20%2B%20Latte%20%2B%20Neon) - Latte and Neon syntax highlighting, code completions and Nette snippets for Sublime Text 3.
@@ -4644,11 +5016,13 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Neverwinter Script syntax and build](https://packagecontrol.io/packages/Neverwinter%20Script%20syntax%20and%20build) - Sublime Text completion, syntax highlighting and build system for NWScript (NSS) (NWN2 and possibly NWN1)
 
-[New Moon Color Scheme](https://packagecontrol.io/packages/New%20Moon%20Color%20Scheme) - A beautiful, middle-contrast dark theme inspired by Twilight and Tomorrow Night Eighties. Your new favorite theme, now available on Sublime Text!
+[New Moon Color Scheme](https://packagecontrol.io/packages/New%20Moon%20Color%20Scheme) - New Moon Syntax Theme for Sublime Text
 
 [New from Selection](https://packagecontrol.io/packages/New%20from%20Selection) - Sublime Text 2 plugin for creating a new file from the current selection.
 
 [Newline Seperated to List](https://packagecontrol.io/packages/Newline%20Seperated%20to%20List) - A Sublime Text package that converts newline separated document to a list
+
+[Nftables](https://packagecontrol.io/packages/Nftables) - :lipstick: A Sublime Text 3 syntax definition for your nftables rules
 
 [NgAnnotate](https://packagecontrol.io/packages/NgAnnotate) - Quickly add or update AngularJS annotations to any function in your code.
 
@@ -4656,15 +5030,21 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Ngx HTML](https://packagecontrol.io/packages/Ngx%20HTML) - Ngx (Angular2+) HTML Syntax for SublimeText
 
+[Night Owl](https://packagecontrol.io/packages/Night%20Owl) - A Sublime Text color scheme based on Sarah Drasner&#x27;s Night Owl VSCode theme
+
 [Night Soft Color Scheme](https://packagecontrol.io/packages/Night%20Soft%20Color%20Scheme) - No description provided
 
 [NightCycle](https://packagecontrol.io/packages/NightCycle) - Sublime Text 2 plugin for changing colour scheme according to time of day
+
+[Nightfall color scheme](https://packagecontrol.io/packages/Nightfall%20color%20scheme) - No description provided
 
 [Nightwalker Color Scheme](https://packagecontrol.io/packages/Nightwalker%20Color%20Scheme) - A Color Scheme for Sublime Text meant for nocturnal coders
 
 [Niji](https://packagecontrol.io/packages/Niji) - Sublime Text and Visual Studio Code Color Scheme
 
 [NimLime](https://packagecontrol.io/packages/NimLime) - Super Nim Plugin for Sublime Text 2/3
+
+[Nimpretty](https://packagecontrol.io/packages/Nimpretty) - Sublime Text 3 to run nimpretty
 
 [Ninja](https://packagecontrol.io/packages/Ninja) - A Ninja build file syntax highlighter for use in Sublime Text.
 
@@ -4696,6 +5076,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Norber Theme](https://packagecontrol.io/packages/Norber%20Theme) - A Theme for Sublime Text editor
 
+[Nord](https://packagecontrol.io/packages/Nord) - An arctic, north-bluish clean and elegant Sublime Text theme.
+
 [Normal Mode](https://packagecontrol.io/packages/Normal%20Mode) - Open any file in normal (read-only) mode
 
 [Normalize Indentation](https://packagecontrol.io/packages/Normalize%20Indentation) - A Sublime Text plugin to normalize identation for a file.
@@ -4704,7 +5086,11 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Not that useless project report](https://packagecontrol.io/packages/Not%20that%20useless%20project%20report) - A sublime plugin 
 
+[Notedown](https://packagecontrol.io/packages/Notedown) - Sublime Text package that helps you manage a collection of notes stored as Markdown files
+
 [Notepad++ Color Scheme](https://packagecontrol.io/packages/Notepad%2B%2B%20Color%20Scheme) - Notepad++ Color Scheme for Sublime Text
+
+[Notepad++ Tab Context](https://packagecontrol.io/packages/Notepad%2B%2B%20Tab%20Context) - Plugin for Sublime Text that adds some useful tab context menu commands from Notepad++
 
 [Notes](https://packagecontrol.io/packages/Notes) - A syntax designed to bring syntax highlighting to every day note taking.
 
@@ -4712,9 +5098,13 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [NotmuchAddress](https://packagecontrol.io/packages/NotmuchAddress) - Sublime Text 3 plugin that prompts for a query and inserts a matching email addres
 
+[Nova Framework Snippets](https://packagecontrol.io/packages/Nova%20Framework%20Snippets) - Collection of Nova Framework Snippets for Sublime Text
+
 [Nova Template Highlighter](https://packagecontrol.io/packages/Nova%20Template%20Highlighter) - Nova tpl highlighter for Sublime Text
 
 [Npackd](https://packagecontrol.io/packages/Npackd) - Syntax completions and snippets for creating Npackd XML files
+
+[Npaste](https://packagecontrol.io/packages/Npaste) - Plugin for uploading snippets to an npaste server.
 
 [NuGet](https://packagecontrol.io/packages/NuGet) - Syntax completions and snippets for creating NuGet XML files
 
@@ -4728,7 +5118,7 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Numix Theme](https://packagecontrol.io/packages/Numix%20Theme) - Numix themes for Sublime Text
 
-[Nunjucks Syntax](https://packagecontrol.io/packages/Nunjucks%20Syntax) - Sublime Text syntax for Nunjucks template language
+[Nunjucks](https://packagecontrol.io/packages/Nunjucks) - A Sublime Text package for Nunjucks templating engine.
 
 [Nyan Cat](https://packagecontrol.io/packages/Nyan%20Cat) - Plugin for Sublime Text that adds Nyan Cat to the status bar
 
@@ -4746,7 +5136,7 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [OPUS](https://packagecontrol.io/packages/OPUS) - OPUS syntax grammar support for Sublime Text and TextMate
 
-[OSX Font Chooser](https://packagecontrol.io/packages/OSX%20Font%20Chooser) - Simple font chooser for sublime text 2 on OSX
+[OVH UI-Kit Snippets](https://packagecontrol.io/packages/OVH%20UI-Kit%20Snippets) - Collection of OVHcloud UI Kit snippets for Sublime Text
 
 [Oasis Theme](https://packagecontrol.io/packages/Oasis%20Theme) - Theme for Sublime Text especially design for C++ Starting Kit
 
@@ -4767,6 +5157,10 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 [Oceanic Next Color Scheme](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme) - :triangular_ruler: Sublime Text color scheme ready for next generation JavaScript syntax
 
 [Oceanic Next Italic Color Scheme](https://packagecontrol.io/packages/Oceanic%20Next%20Italic%20Color%20Scheme) - Color scheme for VS Code, Sublime Text and Atom
+
+[Oceanic Primal Color Scheme](https://packagecontrol.io/packages/Oceanic%20Primal%20Color%20Scheme) - Oceanic Primal color scheme for Sublime Text
+
+[OctaveSupport](https://packagecontrol.io/packages/OctaveSupport) - Octave package for Sublime Text, providing syntax highlighting, indentation, and code snippets
 
 [Octo](https://packagecontrol.io/packages/Octo) - Octo syntax highlighting in Sublime Text
 
@@ -4804,8 +5198,6 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [One Command Syntax Highlighter](https://packagecontrol.io/packages/One%20Command%20Syntax%20Highlighter) - A sublime syntax for Minecraft 1.9 One Commands.
 
-[One Dark Color Scheme](https://packagecontrol.io/packages/One%20Dark%20Color%20Scheme) - A port of the One Dark color scheme from Github&#x27;s Atom editor.
-
 [One Dark Material - Theme](https://packagecontrol.io/packages/One%20Dark%20Material%20-%20Theme) - Sublime Text 3 Theme based on Atom.io One Dark UI Theme and created from Material Theme for ST3.
 
 [One Half Color Schemes](https://packagecontrol.io/packages/One%20Half%20Color%20Schemes) - A clean and vibrant color scheme for Sublime Text. Light and Dark. Choose your side.
@@ -4817,6 +5209,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 [Opa](https://packagecontrol.io/packages/Opa) - Opa mode for Sublime Text
 
 [Open](https://packagecontrol.io/packages/Open) - Open files quicker and easier: Dynamic browsing or a static list of files
+
+[Open DOI](https://packagecontrol.io/packages/Open%20DOI) - Sublime Text package that opens DOIs in a browser
 
 [Open File in Current Folder](https://packagecontrol.io/packages/Open%20File%20in%20Current%20Folder) - Allows opening of files in the same folder as the active view
 
@@ -4868,9 +5262,13 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [OpenCL](https://packagecontrol.io/packages/OpenCL) - OpenCL API &amp; OpenCL C Snippets
 
+[OpenContextPath](https://packagecontrol.io/packages/OpenContextPath) - Sublime Text plugin to open file paths at the current cursor position
+
+[OpenDSS](https://packagecontrol.io/packages/OpenDSS) - OpenDSS script files syntax definition for Sublime Text 3
+
 [OpenERP Snippets](https://packagecontrol.io/packages/OpenERP%20Snippets) - Sublime Text OpenERP Snippets
 
-[OpenEdge ABL](https://packagecontrol.io/packages/OpenEdge%20ABL) - OpenEdge ABL syntax definition for Sublime Text 2/3
+[OpenFilesLister](https://packagecontrol.io/packages/OpenFilesLister) - List open files in awesome Sublime Text
 
 [OpenFromPath](https://packagecontrol.io/packages/OpenFromPath) - open file from path.
 
@@ -4892,17 +5290,23 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [OpenType Feature Bundle](https://packagecontrol.io/packages/OpenType%20Feature%20Bundle) - Syntax highlighting and snippets for OpenType feature development in TextMate/Sublime Text
 
+[OpenUri](https://packagecontrol.io/packages/OpenUri) - The ultimate Sublime Text 3 plugin for opening URIs (URLs) in your file.
+
+[OpenVPN](https://packagecontrol.io/packages/OpenVPN) - Language support, snippets and build-system for OpenVPN configuration files
+
 [Opencart Snippets and Completions](https://packagecontrol.io/packages/Opencart%20Snippets%20and%20Completions) - Opencart Snippets and Completions for Sublime.
 
 [OpenedFiles](https://packagecontrol.io/packages/OpenedFiles) - Plugin for Sublime Text to show opened files as a treeview or a listview.
 
 [Oracle](https://packagecontrol.io/packages/Oracle) - An Oracle package for Sublime Text.
 
-[Oracle PL SQL](https://packagecontrol.io/packages/Oracle%20PL%20SQL) - Oracle PL/SQL TextMate bundle for Sublime Text 2/3.
+[Oracle_ORA](https://packagecontrol.io/packages/Oracle_ORA) - Package for sublime syntax highlighting the .ora files from Oracle.
 
 [Orbit Color Scheme](https://packagecontrol.io/packages/Orbit%20Color%20Scheme) - Minimal SublimeText colorschemes intended for use with the Spacegray UI.
 
 [Orchid Color Scheme](https://packagecontrol.io/packages/Orchid%20Color%20Scheme) - The Orchid theme for SublimeText
+
+[OrgExtended](https://packagecontrol.io/packages/OrgExtended) - Sublime Text OrgMode Extension
 
 [Origami](https://packagecontrol.io/packages/Origami) - Split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
 
@@ -4914,6 +5318,10 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [OverrideAudit](https://packagecontrol.io/packages/OverrideAudit) - Easily Manage Your Sublime Text Package Overrides
 
+[OverrideEditSettingsDefaultContents](https://packagecontrol.io/packages/OverrideEditSettingsDefaultContents) - Disables the default text provided by edit_settings to allow the window to be closed without the save prompt
+
+[Overwatch Workshop Syntax Highlight](https://packagecontrol.io/packages/Overwatch%20Workshop%20Syntax%20Highlight) - No description provided
+
 [Oz](https://packagecontrol.io/packages/Oz) - Oz language support for Sublime Text 3
 
 [P3 Assembly](https://packagecontrol.io/packages/P3%20Assembly) - A Sublime Text 3 assembly language syntax
@@ -4923,8 +5331,6 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 [P4Explorer](https://packagecontrol.io/packages/P4Explorer) - A Sublime plugin for navigating through Perforce depot files.
 
 [P4Gutter](https://packagecontrol.io/packages/P4Gutter) - Sublime Text 3 plugin to display Perforce diffs in the gutter.
-
-[P4Sublime](https://packagecontrol.io/packages/P4Sublime) - Plugin to Sublime Text 2 that uses the P4Python bindings rather than the command line client.
 
 [PDB Finder](https://packagecontrol.io/packages/PDB%20Finder) - A sublime plug-in to help us find python pdb&#x27;s in case we forget to clean before a commit.
 
@@ -4939,6 +5345,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 [PGN Support](https://packagecontrol.io/packages/PGN%20Support) - Portable Game Notation syntax and snippets
 
 [PHP Built-in WebServer](https://packagecontrol.io/packages/PHP%20Built-in%20WebServer) - display the console of PHP Built-in WebServer to Sublime Text 2
+
+[PHP CBF](https://packagecontrol.io/packages/PHP%20CBF) - Sublime Text plugin for PHP_CodeSniffer
 
 [PHP CS Fixer](https://packagecontrol.io/packages/PHP%20CS%20Fixer) - Run php-cs-fixer code formatter to format php code from your favorite text editor
 
@@ -4968,7 +5376,11 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [PHP Namespace Command](https://packagecontrol.io/packages/PHP%20Namespace%20Command) - Sublime Text Package (DEPRECATED)
 
+[PHP Namespace Monkey](https://packagecontrol.io/packages/PHP%20Namespace%20Monkey) - Never write a PHP namespace declaration again.
+
 [PHP Refactor](https://packagecontrol.io/packages/PHP%20Refactor) - Refactoring for php classes
+
+[PHP Snippets](https://packagecontrol.io/packages/PHP%20Snippets) - sublime snippets is powerful function, customize some snippets to create PHP useful method and class
 
 [PHP Source](https://packagecontrol.io/packages/PHP%20Source) - Sublime Text 3 plugin to automagically create `.phps` files from `.php` files. Useful for generating php source automatically.
 
@@ -4994,13 +5406,11 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [PHPUnit Snippets](https://packagecontrol.io/packages/PHPUnit%20Snippets) - PHPUnit Package for Sublime Text 2
 
-[PHPUnitKit](https://packagecontrol.io/packages/PHPUnitKit) - PHPUnit support in Sublime Text; provides an abstraction over running tests from the command-line; run your tests from within Sublime Text, requires zero configuration, supports composer, running tests on different granularities, testing different php versions, color test results panel, and more.
+[PHPUnitKit](https://packagecontrol.io/packages/PHPUnitKit) - PHPUnit support for Sublime Text
 
 [PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text 3 editor.
 
 [PKGBUILD](https://packagecontrol.io/packages/PKGBUILD) - Stuff to aid in PKGBUILD management with Sublime Text 3
-
-[PKs Color Scheme](https://packagecontrol.io/packages/PKs%20Color%20Scheme) - SublimeText2 Color Scheme
 
 [PL1 PLI Syntax](https://packagecontrol.io/packages/PL1%20PLI%20Syntax) - PL1 PL/I Language support plugin for Sublime Text 3
 
@@ -5012,7 +5422,7 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Package Bundler](https://packagecontrol.io/packages/Package%20Bundler) - Sublime Text 3 - Package Bundler
 
-[Package Control](https://packagecontrol.io/packages/Package%20Control) - A full-featured package manager
+[Package Control](https://packagecontrol.io/packages/Package%20Control) - The Sublime Text package manager
 
 [Package Coverage](https://packagecontrol.io/packages/Package%20Coverage) - A Sublime Text package for unit testing and code coverage measurement
 
@@ -5031,6 +5441,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 [PackageTesting](https://packagecontrol.io/packages/PackageTesting) - Minimal testing framework for Sublime Text packages. (beta)
 
 [PackagesUI](https://packagecontrol.io/packages/PackagesUI) - This plugin provides you a comfortable interface for Sublime Text packages
+
+[Packed](https://packagecontrol.io/packages/Packed) - Ultra dark user interface for Sublime Text 3.
 
 [Pad](https://packagecontrol.io/packages/Pad) - Sublime Text Plug-In to Add Padding to Lines
 
@@ -5064,8 +5476,6 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Pants Build](https://packagecontrol.io/packages/Pants%20Build) - No description provided
 
-[Papyrus](https://packagecontrol.io/packages/Papyrus) - Public repo for ST2 package for Papyrus, the custom scripting language used by Bethesda Game Studios&#x27; Creation Kit. 
-
 [Papyrus Assembly](https://packagecontrol.io/packages/Papyrus%20Assembly) - A Sublime package for viewing and editing Papyrus at the assembly level.
 
 [Paradox](https://packagecontrol.io/packages/Paradox) - Sublime Text plugin for Paradox games
@@ -5086,17 +5496,13 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Parva Syntax](https://packagecontrol.io/packages/Parva%20Syntax) - Parva language syntax recognition for Sublime Text
 
-[Pascal](https://packagecontrol.io/packages/Pascal) - Pascal/Delphi syntax highlighting and snippets.
-
-[Pascal Snippets](https://packagecontrol.io/packages/Pascal%20Snippets) - Pascal/Delphi syntax highlighting and snippets.
+[Pass Manager](https://packagecontrol.io/packages/Pass%20Manager) - A Sublime Text 3 plugin which gets passwords from your passwordstore.
 
 [Paste Anywhere](https://packagecontrol.io/packages/Paste%20Anywhere) - Plugin for Sublime Text to paste multiple selections to your favourite paste site.
 
-[Paste Laravel](https://packagecontrol.io/packages/Paste%20Laravel) - Paste to laravel using Sublime Text 2
-
 [Paste PDF Text Block](https://packagecontrol.io/packages/Paste%20PDF%20Text%20Block) - Paste PDF text block to Sublime after stripping new lines.
 
-[Paste as Column](https://packagecontrol.io/packages/Paste%20as%20Column) - Plugin for SublimeText to allow paste as column (cf. rectangle mode paste in emacs)
+[Paste Plus](https://packagecontrol.io/packages/Paste%20Plus) - A Sublime Text plugin to allow copying paths from file(s) in Windows Explorer.
 
 [Paste as One Line](https://packagecontrol.io/packages/Paste%20as%20One%20Line) - Sublime text plugin to enabled pasting text and instantly joining lines
 
@@ -5110,16 +5516,11 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [PasteRepeater](https://packagecontrol.io/packages/PasteRepeater) - Sublime Text plugin for pasting your clipboard multiple times.
 
-[PasteSelOnClick](https://packagecontrol.io/packages/PasteSelOnClick) - Paste current selection where the user click without erasing clipboard.
-2 mouse-binding are provided :
- - alt+right click for cut and paste
- - alt+ctrl+right click for copy and paste
-
 [PasteWrap](https://packagecontrol.io/packages/PasteWrap) - PasteWrap wraps your Sublime Text selection(s) with whatever is on the clipboard.
 
 [Pastel Paws Color Scheme](https://packagecontrol.io/packages/Pastel%20Paws%20Color%20Scheme) - Colorful, low-saturation, supports several languages and plugins
 
-[Pastery](https://packagecontrol.io/packages/Pastery) - ST plugin for the sweetest pastebin
+[Pastery](https://packagecontrol.io/packages/Pastery) - Sublime Text plugin for the sweetest pastebin
 
 [Patch Apply](https://packagecontrol.io/packages/Patch%20Apply) - Patch Apply Sublime Text 3 plugin
 
@@ -5151,11 +5552,11 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Persistent Console](https://packagecontrol.io/packages/Persistent%20Console) - Package that opens console whenever a new window or tab is opened
 
-[PersistentPython](https://packagecontrol.io/packages/PersistentPython) - Persistent Python interpreter for Sublime Text 3
+[Persistent Status Bar Line Number](https://packagecontrol.io/packages/Persistent%20Status%20Bar%20Line%20Number) - No description provided
 
 [PersistentRegexHighlight](https://packagecontrol.io/packages/PersistentRegexHighlight) - Persistent regular expression highlighting for Sublime Text 2
 
-[Perv - Color Scheme](https://packagecontrol.io/packages/Perv%20-%20Color%20Scheme) - Color schemes for Sublime Text 2&amp;3, including extended coloring for Markdown, reStructuredText, Ruby, C/C++ CSS, SASS/SCSS, JSON, Git, GitGutter, DIFF and SublimeLinter
+[Perv - Color Scheme](https://packagecontrol.io/packages/Perv%20-%20Color%20Scheme) - DEPRECATED! Color schemes for Sublime Text 2&amp;3, including extended coloring for Markdown, reStructuredText, Ruby, C/C++ CSS, SASS/SCSS, JSON, Git, GitGutter, DIFF and SublimeLinter
 
 [Pest Syntax](https://packagecontrol.io/packages/Pest%20Syntax) - Pest syntax for Sublime Text 3.0
 
@@ -5177,7 +5578,7 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Phoenix Beagle](https://packagecontrol.io/packages/Phoenix%20Beagle) - Sublime Text plugin to make development with Phoenix Framework better!
 
-[PhpArrayConverter](https://packagecontrol.io/packages/PhpArrayConverter) - A Sublime Text 3 package which converts PHP array syntax.
+[PhpArrayConverter](https://packagecontrol.io/packages/PhpArrayConverter) - 🐘 A Sublime Text 3 package which converts PHP array syntax.
 
 [PhpBeautifier](https://packagecontrol.io/packages/PhpBeautifier) - Pear Php_beautifier plugin for Sublime Text 2
 
@@ -5199,7 +5600,11 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [PhpTidy](https://packagecontrol.io/packages/PhpTidy) - Plugin for Sublime Text 2 to format PHP code to meet the WordPress Coding Standards using a modified version of phptidy
 
-[Phpcs](https://packagecontrol.io/packages/Phpcs) - PHP CodeSniffer, PHP Coding Standard Fixer, Linter and Mess Detector Support for Sublime Text
+[Phpactor](https://packagecontrol.io/packages/Phpactor) - Sublime phpactor plugin
+
+[Phpcs](https://packagecontrol.io/packages/Phpcs) - 🔍 PHP CodeSniffer, PHP Coding Standard Fixer, Linter and Mess Detector Support for Sublime Text
+
+[Pine](https://packagecontrol.io/packages/Pine) - A Pine programming language syntax for Sublime Text.
 
 [Pipe Dream](https://packagecontrol.io/packages/Pipe%20Dream) - Pipe Dream plugin for Sublime Text 2 - Pipes selected text through shell commands
 
@@ -5227,17 +5632,17 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [PloneReload](https://packagecontrol.io/packages/PloneReload) - plone.reload support for Sublime Text 2
 
-[PlotGraph](https://packagecontrol.io/packages/PlotGraph) - Plot a column of numbers as a graph, or create a quick curve comparison based on multiple number columns in Sublime Text.
-
-[Plugin Debugger](https://packagecontrol.io/packages/Plugin%20Debugger) - Debug Sublime Plugins with Winpdb graphical python debugger.
-
-[Plugin UnitTest Harness](https://packagecontrol.io/packages/Plugin%20UnitTest%20Harness) - This is a unittest harness for sublime plugins.  Deferred test fixtures are supported, such that you give back control to sublime text, and continue with your test few ms later.
+[PlotGraph](https://packagecontrol.io/packages/PlotGraph) - Sublime Text package to plot number columns as graphs
 
 [Pman](https://packagecontrol.io/packages/Pman) - [DEPRECATED] Access to the php manual from within Sublime Text
+
+[Pmccabe](https://packagecontrol.io/packages/Pmccabe) - Sublime Plugin for Pmccabe Complexity Calculations
 
 [PogoScript](https://packagecontrol.io/packages/PogoScript) - PogoScript support for TextMate
 
 [PogodaStatusBar](https://packagecontrol.io/packages/PogodaStatusBar) - Weather and Traffic Sublime Plugin
+
+[Pointless](https://packagecontrol.io/packages/Pointless) - Pointless syntax support for Sublime Text
 
 [PokemonTeamSyntax](https://packagecontrol.io/packages/PokemonTeamSyntax) - Syntax highlighting for Pokemon Team&#x27;s importables for Sublime Text 3.
 
@@ -5271,6 +5676,10 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [PouchDB Snippets](https://packagecontrol.io/packages/PouchDB%20Snippets) - PouchDB snippets for Sublime Text
 
+[PovRay](https://packagecontrol.io/packages/PovRay) - POV-Ray syntax highlighter for Sublime Text
+
+[Power System Tools Syntax](https://packagecontrol.io/packages/Power%20System%20Tools%20Syntax) - Power Systems Analysis Tools files syntax definitions for Sublime Text
+
 [PowerCursors](https://packagecontrol.io/packages/PowerCursors) - A Sublime Text 3 package that makes the add/remove/select of multiple cursors more convenient with keyboard.
 
 [PowerMTML Completions](https://packagecontrol.io/packages/PowerMTML%20Completions) - MTML of PowerCMS bundle for Sublime Text 2
@@ -5297,17 +5706,21 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [PreferenceSync](https://packagecontrol.io/packages/PreferenceSync) - Syncs Sublime Preferences Across Machines
 
-[Preferences Editor](https://packagecontrol.io/packages/Preferences%20Editor) - Browse and edit preferences using quick panel and input panels, instead of writing JSON files.
-
 [Premake](https://packagecontrol.io/packages/Premake) - This Sublime Text 2 plugin enables the usage of Premake from within Sublime Text, and provides a portable multi-files build system using it.
 
 [Preset Command](https://packagecontrol.io/packages/Preset%20Command) - A Sublime Text plugin for managing collections of settings presets. Compatible with ST 3
+
+[Preside CMS](https://packagecontrol.io/packages/Preside%20CMS) - Sublime Text 3 Package
 
 [Pretty JSON](https://packagecontrol.io/packages/Pretty%20JSON) - Prettify/Minify/Query/Goto/Validate/Lint JSON plugin for Sublime Text 2 &amp; 3
 
 [Pretty Ruby](https://packagecontrol.io/packages/Pretty%20Ruby) - Use Ruby PP and RuboCop Autocorrect to indent, format and prettify your Ruby code.
 
+[Pretty Shell](https://packagecontrol.io/packages/Pretty%20Shell) - Prettify, Minify and Syntax Check bash / posix / mksh script with Sublime Text 3
+
 [Pretty YAML](https://packagecontrol.io/packages/Pretty%20YAML) - Sublime Text 2/3 plugin that allows to format a YAML file
+
+[Pretty YAML Node](https://packagecontrol.io/packages/Pretty%20YAML%20Node) - SublimeText plugin to pretty yaml with node module
 
 [Prevent Duplicate Windows](https://packagecontrol.io/packages/Prevent%20Duplicate%20Windows) - Sublime Text 3 to prevent duplicate windows from being opened
 
@@ -5315,9 +5728,9 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Prevu](https://packagecontrol.io/packages/Prevu) - SublimeText -&gt; Browser Preview
 
-[Primitive Filler](https://packagecontrol.io/packages/Primitive%20Filler) - Autocompletion for scss primitive values
-
 [Print to HTML](https://packagecontrol.io/packages/Print%20to%20HTML) - Sublime Text 3 plugin to print colorized files as HTML via your browser.
+
+[Prisma](https://packagecontrol.io/packages/Prisma) - Sublime Text 3 package supporting syntax highlighting.
 
 [Prismatic Color Scheme](https://packagecontrol.io/packages/Prismatic%20Color%20Scheme) - 🌈 A dark yet excessively colourful Sublime Text theme
 
@@ -5333,6 +5746,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [ProductiveSnippetsRuby](https://packagecontrol.io/packages/ProductiveSnippetsRuby) - Ruby Snippets for Sublime Text
 
+[Profile Switcher](https://packagecontrol.io/packages/Profile%20Switcher) - Profile Switcher for Sublime Text
+
 [Project PHP ClassBrowser](https://packagecontrol.io/packages/Project%20PHP%20ClassBrowser) - A Sublime Text 2/3 plugin which provides project&#x27;s PHP classes browser.
 
 [Project Planner](https://packagecontrol.io/packages/Project%20Planner) - An opinionated project planning plugin for Sublime Text 3
@@ -5347,13 +5762,13 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [ProjectCompletions](https://packagecontrol.io/packages/ProjectCompletions) - Project Completions plugin for Sublime Text
 
+[ProjectEnvironment](https://packagecontrol.io/packages/ProjectEnvironment) - A plugin for **SublimeText 3** that allows to set environment variables in the .sublime-project file.
+
 [ProjectFiles](https://packagecontrol.io/packages/ProjectFiles) - Define custom sets of files with regexp and navigate through it
 
 [ProjectMaker](https://packagecontrol.io/packages/ProjectMaker) - A Sublime Text 2/3 plugin to allow creating any kind of project from your own custom templates
 
-[ProjectManager](https://packagecontrol.io/packages/ProjectManager) - Project Manager for Sublime Text 3
-
-[ProjectSpecific](https://packagecontrol.io/packages/ProjectSpecific) - Configure project specific commands, keymaps, etc. in your project-file.
+[ProjectManager](https://packagecontrol.io/packages/ProjectManager) - Project Manager for Sublime Text
 
 [ProjectTreeTemplater](https://packagecontrol.io/packages/ProjectTreeTemplater) - A simple templater for your project: manage the tree with a simple script!
 
@@ -5376,6 +5791,8 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 [Pug](https://packagecontrol.io/packages/Pug) - A comprehensive textmate / sublime text bundle for the Pug (formerly Jade) template language.
 
 [Pumpkin Color Scheme](https://packagecontrol.io/packages/Pumpkin%20Color%20Scheme) - :jack_o_lantern: A halloween theme, inspired on Github Halloween Themed Contribution Graph.
+
+[PunchMeInTheFace Color Scheme](https://packagecontrol.io/packages/PunchMeInTheFace%20Color%20Scheme) - A standout Sublime Text color scheme that&#x27;s easy on the eyes
 
 [Puppet](https://packagecontrol.io/packages/Puppet) - Puppet (puppetlabs.com) highlighting, snippets and completion for Sublime Text 2 or 3
 
@@ -5403,7 +5820,7 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [PyCover](https://packagecontrol.io/packages/PyCover) - Sublime Text 2/3 plugin for showing Python coverage information.
 
-[PyDOC](https://packagecontrol.io/packages/PyDOC) - A Sublime Text plugin that supports Python 2 &amp; 3 documentation search from selections in the editor
+[PyDOC](https://packagecontrol.io/packages/PyDOC) - A Sublime Text plugin that supports Python 2/3 &amp; select Python package documentation search from selections in the editor
 
 [PyNorm](https://packagecontrol.io/packages/PyNorm) - Python Normalizer Sublime Plugin
 
@@ -5431,7 +5848,7 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Pynsist](https://packagecontrol.io/packages/Pynsist) - Language support and build-system for pynsist, a tool to build Windows installers for your Python applications
 
-[PypiPackageInfo](https://packagecontrol.io/packages/PypiPackageInfo) - 🐍 A Sublime Text 3 package which provides a popup for Python PyPI packages.
+[PypiPackageInfo](https://packagecontrol.io/packages/PypiPackageInfo) - 🐍  A Sublime Text 3 package which provides a popup function for Python PyPI packages.
 
 [PyroCMS Snippets](https://packagecontrol.io/packages/PyroCMS%20Snippets) - A list of PyroCMS snippets for Sublime Text 2
 
@@ -5467,10 +5884,6 @@ Originally adapted from Textmate 2 Package (https://github.com/kohana/Kohana.tmb
 
 [Python Output Format](https://packagecontrol.io/packages/Python%20Output%20Format) - Sublime Text plugin to format printed objects from Python code
 
-[Python PEP8 Autoformat](https://packagecontrol.io/packages/Python%20PEP8%20Autoformat) - Python PEP8 Autoformat is a Sublime Text (2|3) plugin to interactively reformat Python source code according
-to PEP8 (Style Guide for Python Code).
-
-
 [Python PEP8 Indent](https://packagecontrol.io/packages/Python%20PEP8%20Indent) - Plugin for Sublime Text 2 to properly indent Python code
 
 [Python Path to Clipboard](https://packagecontrol.io/packages/Python%20Path%20to%20Clipboard) - Copy the Python import path of the working file to clipboard. Plugin to Sublime Text 2.
@@ -5497,11 +5910,15 @@ to PEP8 (Style Guide for Python Code).
 
 [PythonTraceback](https://packagecontrol.io/packages/PythonTraceback) - Easy navigation in your python tracebacks
 
+[PythonVoiceCodingPlugin](https://packagecontrol.io/packages/PythonVoiceCodingPlugin) - Sublime Text 3 plugin for voice coding Python 3
+
 [Pywin32](https://packagecontrol.io/packages/Pywin32) - Pywin32 support for sublime (win32api etc)
 
 [Pyxl syntax](https://packagecontrol.io/packages/Pyxl%20syntax) - pyxl syntax highlighting for Sublime Text
 
 [PzFormat](https://packagecontrol.io/packages/PzFormat) - A sublime text plugin for text formatting.
+
+[QColor](https://packagecontrol.io/packages/QColor) - Awesome Sublime Color Highlighter, Converter and Picker 
 
 [QLSyntax](https://packagecontrol.io/packages/QLSyntax) - Syntax plugin for QL in Sublime Text 3
 
@@ -5521,6 +5938,8 @@ to PEP8 (Style Guide for Python Code).
 
 [Quartz-Syntax](https://packagecontrol.io/packages/Quartz-Syntax) - Quartz syntax highlightning package for sublime text 3
 
+[Quasar Snippets](https://packagecontrol.io/packages/Quasar%20Snippets) - Quasar Framework snipppets for sublime text 3.
+
 [Query Completions Silencer](https://packagecontrol.io/packages/Query%20Completions%20Silencer) - Silence query completions in Sublime Text
 
 [Quick Docs Launcher](https://packagecontrol.io/packages/Quick%20Docs%20Launcher) - A plugin for quick load / search any docs
@@ -5533,7 +5952,7 @@ to PEP8 (Style Guide for Python Code).
 
 [Quick Look](https://packagecontrol.io/packages/Quick%20Look) - Display the Quick Look of a file on Sublime Text 2 (running on Mac OS X).
 
-[QuickCal](https://packagecontrol.io/packages/QuickCal) - Sublime Text plugin to show a month calendar http://facelessuser.github.io/QuickCal/
+[QuickCal](https://packagecontrol.io/packages/QuickCal) - Sublime Text plugin to show a month calendar
 
 [QuickEdit](https://packagecontrol.io/packages/QuickEdit) - a Sublime text plugin like brackets quick edit
 
@@ -5546,6 +5965,8 @@ to PEP8 (Style Guide for Python Code).
 [QuickPanelEnhanced](https://packagecontrol.io/packages/QuickPanelEnhanced) - Plugin providing improvements to the operation of the Quick (Overlay) Panel in the Sublime Text 3 editor.
 
 [QuickPrint](https://packagecontrol.io/packages/QuickPrint) - Quickly print view or selection
+
+[QuickPuTTY](https://packagecontrol.io/packages/QuickPuTTY) - Sublime Text 3 plugin for quick access to PuTTY SSH sessions
 
 [QuickRails](https://packagecontrol.io/packages/QuickRails) - Rails Quick generators, Rake and Capistrano tasks for Sublime Text 3 !
 
@@ -5563,6 +5984,8 @@ to PEP8 (Style Guide for Python Code).
 
 [QuickThemes](https://packagecontrol.io/packages/QuickThemes) - Quick theme switcher package for Sublime Text 2
 
+[QuickView](https://packagecontrol.io/packages/QuickView) - Image and color previews in Sublime Text
+
 [QuickXDev](https://packagecontrol.io/packages/QuickXDev) - Powerful quick-cocos2d-x develop plugin for sublime text 2/3
 
 [Quickfind](https://packagecontrol.io/packages/Quickfind) - Works similarly to TextMate&#x27;s ctrl+s.  But if text is already selected, it will be the default search.  Keep pressing ctrl+s to search for the next instance.
@@ -5570,6 +5993,8 @@ to PEP8 (Style Guide for Python Code).
 [Quijotipsum Snippet](https://packagecontrol.io/packages/Quijotipsum%20Snippet) - Quijotipsum snippet for sublime text 2
 
 [Qunit Snippets](https://packagecontrol.io/packages/Qunit%20Snippets) - :page_with_curl: QUnit completions for Sublime Text
+
+[Quokka](https://packagecontrol.io/packages/Quokka) - Live Scratchpad for JavaScript.
 
 [QuoteHTML](https://packagecontrol.io/packages/QuoteHTML) - Quote HTML snippet as a string.
 
@@ -5597,11 +6022,23 @@ to PEP8 (Style Guide for Python Code).
 
 [REXX](https://packagecontrol.io/packages/REXX) - REXX Language Support for Sublime Text
 
+[RGBDS](https://packagecontrol.io/packages/RGBDS) - Sublime Text 3 syntax package for the RGBDS Game Boy assembler
+
+[RISC OS CMHG Syntax](https://packagecontrol.io/packages/RISC%20OS%20CMHG%20Syntax) - SublimeText syntax mode for RISC OS CMHG files
+
+[RISC OS Command Syntax](https://packagecontrol.io/packages/RISC%20OS%20Command%20Syntax) - RISC OS Command file syntax colouring for SublimeText 3 
+
+[RISC-V Assembly Syntax](https://packagecontrol.io/packages/RISC-V%20Assembly%20Syntax) - RISC-V Assembly syntax for Sublime Text
+
 [ROBLOXLua](https://packagecontrol.io/packages/ROBLOXLua) - ROBLOX Lua support for Sublime Text
 
 [RON](https://packagecontrol.io/packages/RON) - Rusty Object Notation syntax scheme
 
+[ROS msg syntax highlight](https://packagecontrol.io/packages/ROS%20msg%20syntax%20highlight) - No description provided
+
 [RPG Syntax for ILE on IBMi](https://packagecontrol.io/packages/RPG%20Syntax%20for%20ILE%20on%20IBMi) - RPG language syntax for Sublime Text
+
+[RPGMaker MV Add-On Snippets](https://packagecontrol.io/packages/RPGMaker%20MV%20Add-On%20Snippets) - A series of snippets for RPG Maker MV
 
 [RPM Spec Syntax](https://packagecontrol.io/packages/RPM%20Spec%20Syntax) - RPM Spec files syntax definition for Sublime Text 2
 
@@ -5625,17 +6062,17 @@ to PEP8 (Style Guide for Python Code).
 
 [RTL To Dialog](https://packagecontrol.io/packages/RTL%20To%20Dialog) - Sublime Plugin to show RTL text on Dialog box
 
-[RTagsComplete](https://packagecontrol.io/packages/RTagsComplete) - Sublime Text 3 RTags plugin.
+[RTagsComplete](https://packagecontrol.io/packages/RTagsComplete) - Sublime Text 3 C, C++ and Objective C code completion, navigation plugin based on RTags.
 
 [RVM](https://packagecontrol.io/packages/RVM) - RVM switch for Sublime Text
 
 [R_comments](https://packagecontrol.io/packages/R_comments) - Intuitive R commenting for Sublime Text 2/3.
 
+[Ra Spring](https://packagecontrol.io/packages/Ra%20Spring) - RaSpring Color Scheme for Sublime
+
 [Racket](https://packagecontrol.io/packages/Racket) - Support for Racket Language
 
 [Rails Completions](https://packagecontrol.io/packages/Rails%20Completions) - Sublime Text 2 &amp; 3, Plugin adding auto completions for Ruby on rails
-
-[Rails Developer Snippets](https://packagecontrol.io/packages/Rails%20Developer%20Snippets) - A core collection of ruby, rails, rspec and erb snippets
 
 [Rails File Switcher](https://packagecontrol.io/packages/Rails%20File%20Switcher) - Sublime Text 2 plugin for switching between Models, Controllers and Views
 
@@ -5667,6 +6104,8 @@ to PEP8 (Style Guide for Python Code).
 
 [Railscasts Extended](https://packagecontrol.io/packages/Railscasts%20Extended) - Extends original Railscasts theme with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
 
+[RainbowBrackets](https://packagecontrol.io/packages/RainbowBrackets) - A rainbow brackets plugin for SublimeText3.
+
 [RainbowDrops Inspired - Color Scheme](https://packagecontrol.io/packages/RainbowDrops%20Inspired%20-%20Color%20Scheme) - Bright on dark colourful themes for Sublime Text inspired by the popular RainbowDrops theme for Eclipse.
 
 [Rainbowth](https://packagecontrol.io/packages/Rainbowth) - Rainbowth is a Sublime Text 3 plugin that highlights matching parentheses in Lisp source code.
@@ -5677,7 +6116,7 @@ to PEP8 (Style Guide for Python Code).
 
 [Rake](https://packagecontrol.io/packages/Rake) - Sublime Text 2 plugin for Ruby Rake
 
-[RamdaDocs](https://packagecontrol.io/packages/RamdaDocs) - Pull up Ramda docs from within ST3
+[RamdaDocs](https://packagecontrol.io/packages/RamdaDocs) - Pull up Ramda docs from within Sublime Text 3
 
 [Random Everything](https://packagecontrol.io/packages/Random%20Everything) - Plugin for sublime text to generate random, ints, floats, strings and words
 
@@ -5691,19 +6130,25 @@ to PEP8 (Style Guide for Python Code).
 
 [RandomizeLogMessages](https://packagecontrol.io/packages/RandomizeLogMessages) - A Sublime Text 2 plugin for appending random strings to your log messages, in the interest of simplifying debugging.
 
-[Rant](https://packagecontrol.io/packages/Rant) - Rant syntax highlighting for Sublime Text.
-
 [RawLineEdit](https://packagecontrol.io/packages/RawLineEdit) - View and edit line endings for Sublime Text
 
 [Raybo - Color Scheme](https://packagecontrol.io/packages/Raybo%20-%20Color%20Scheme) - Theme for Sublime Text with an emphasis on Markdown
 
 [Razor](https://packagecontrol.io/packages/Razor) - Syntax Definition for Razor (cshtml) in SublimeText
 
+[Razor C# Syntax](https://packagecontrol.io/packages/Razor%20C%23%20Syntax) - Razor C# .cshtml language syntax for Sublime Text 4.
+
 [ReIndent](https://packagecontrol.io/packages/ReIndent) - Quickly re-indent file to two or four spaces tabsize.
+
+[ReScript](https://packagecontrol.io/packages/ReScript) - Official Sublime Text plugin for ReScript.
 
 [ReaSyntax](https://packagecontrol.io/packages/ReaSyntax) - Syntax for scripting languages found in Cockos REAPER: Jesusonic/EEL/WALTER
 
+[Reach IDE](https://packagecontrol.io/packages/Reach%20IDE) - Sublime extension for the Reach programming language
+
 [React Coffee Snippets](https://packagecontrol.io/packages/React%20Coffee%20Snippets) - CoffeeScript. React. Sublime. Yummy.
+
+[React Create Component](https://packagecontrol.io/packages/React%20Create%20Component) - A plugin for creating React Components in Sublime Text 2 and 3.
 
 [React Development Snippets](https://packagecontrol.io/packages/React%20Development%20Snippets) - Save time in writing React codes
 
@@ -5757,6 +6202,8 @@ to PEP8 (Style Guide for Python Code).
 
 [RedBeanPHP ORM Snippets](https://packagecontrol.io/packages/RedBeanPHP%20ORM%20Snippets) - Sublime Text Snippets for RedBeanPHP ORM
 
+[RedEye](https://packagecontrol.io/packages/RedEye) - A Sublime Text 3 color scheme inspired by flight instruments and jetliner cockpits.
+
 [Redacted](https://packagecontrol.io/packages/Redacted) - Sublime Text 3 plugin to hide characters in selections.
 
 [Redlime](https://packagecontrol.io/packages/Redlime) - Redlime: Sublime text 3 Redmine manager
@@ -5779,11 +6226,17 @@ to PEP8 (Style Guide for Python Code).
 
 [RegexExplainTip](https://packagecontrol.io/packages/RegexExplainTip) - SublimeText 3 plugin for displaying regular expression explanations
 
+[RegexPortfolio](https://packagecontrol.io/packages/RegexPortfolio) - Save your useful regex pattern in a portfolio
+
+[Registers](https://packagecontrol.io/packages/Registers) - A Sublime Text plugin that adds the option to save text and macros to registers for quick use.
+
 [Reindent on save](https://packagecontrol.io/packages/Reindent%20on%20save) - Sublime Text - reindent on save
 
 [Rekit](https://packagecontrol.io/packages/Rekit) - Provide sidebar menu for Rekit command line tools.
 
 [Related Files](https://packagecontrol.io/packages/Related%20Files) - A Sublime Text 2/3 plugin to list related files
+
+[Remember Minimap Setting](https://packagecontrol.io/packages/Remember%20Minimap%20Setting) - Adds a setting for showing or hiding the minimap.
 
 [RememberCommandPaletteInput](https://packagecontrol.io/packages/RememberCommandPaletteInput) - Some fixes for the Sublime Text command palette
 
@@ -5792,6 +6245,8 @@ to PEP8 (Style Guide for Python Code).
 [RemoteCollab](https://packagecontrol.io/packages/RemoteCollab) - Remote Collab for SublimeText
 
 [RemoteCpp](https://packagecontrol.io/packages/RemoteCpp) - A Sublime Text 3 editor plugin that makes it pleasant/acceptable to develop C++ remotely via SSH.
+
+[RemoteDiff-BCompare](https://packagecontrol.io/packages/RemoteDiff-BCompare) - No description provided
 
 [RemoteEdit](https://packagecontrol.io/packages/RemoteEdit) - Open a file from a remote server locally, edit and save back remotely again.
 
@@ -5807,6 +6262,8 @@ to PEP8 (Style Guide for Python Code).
 
 [RemoveDuplicateLines](https://packagecontrol.io/packages/RemoveDuplicateLines) - Remove duplicate lines from a file (Keywords: remove duplicates, delete duplicates, dedup) 
 
+[RemoveGreekAccents](https://packagecontrol.io/packages/RemoveGreekAccents) - No description provided
+
 [RemoveLineBreaks](https://packagecontrol.io/packages/RemoveLineBreaks) - Sublime text plugin for removing all line breaks within paragraphs of text.
 
 [RemoveNonAsciiChars](https://packagecontrol.io/packages/RemoveNonAsciiChars) - Replace and/or remove non-ASCII characters
@@ -5816,6 +6273,8 @@ to PEP8 (Style Guide for Python Code).
 [Rename Buffer](https://packagecontrol.io/packages/Rename%20Buffer) - Adds a Command / Context Menu for renaming &quot;untitled&quot; tab buffers.
 
 [RenameTab](https://packagecontrol.io/packages/RenameTab) - A Sublime Text 2 package to rename tabs.
+
+[Render Tree](https://packagecontrol.io/packages/Render%20Tree) - Sublime Text 3 plugin to render trees as text
 
 [Renpy Language](https://packagecontrol.io/packages/Renpy%20Language) - Renpy language support for Sublime Text
 
@@ -5841,6 +6300,8 @@ to PEP8 (Style Guide for Python Code).
 
 [Resize Group with Keyboard](https://packagecontrol.io/packages/Resize%20Group%20with%20Keyboard) - Sublime Text 2 and 3 Plugin to resize active group with keyboard
 
+[Resolve Javascript Modules](https://packagecontrol.io/packages/Resolve%20Javascript%20Modules) - This plugin for Sublime Text 3 adds completions for es modules, import file paths and browser api&#x27;s.
+
 [ResponsiveBoilerplate](https://packagecontrol.io/packages/ResponsiveBoilerplate) - A set of sublime text2 snippets for make your life easy when use Responsive Boilerplate framework
 
 [Responsys Built-In Function](https://packagecontrol.io/packages/Responsys%20Built-In%20Function) - Syntax highlighting and keyword completions for Oracle Responsys Built-In Function on Sublime Text 2 and 3
@@ -5849,11 +6310,9 @@ to PEP8 (Style Guide for Python Code).
 
 [Restructured Text (RST) Snippets](https://packagecontrol.io/packages/Restructured%20Text%20%28RST%29%20Snippets) - Restructured Text snippets and code completion hotkeys for Sublime Text 2 and 3
 
-[RestructuredText Improved](https://packagecontrol.io/packages/RestructuredText%20Improved) - Improved Syntax Highlighting for RestructuredText.
+[RestructuredText Improved](https://packagecontrol.io/packages/RestructuredText%20Improved) - No description provided
 
 [Retro Computers Color Schemes](https://packagecontrol.io/packages/Retro%20Computers%20Color%20Schemes) - Color schemes for Textmate and Sublime Text, based on palettes of vintage computers
-
-[Retrosheet Syntax](https://packagecontrol.io/packages/Retrosheet%20Syntax) - Sublime Text 3 Syntax Files for Retrosheet Files
 
 [ReverseCharacters](https://packagecontrol.io/packages/ReverseCharacters) - Sublime-Text Plugin to reverse selected text
 
@@ -5862,6 +6321,8 @@ to PEP8 (Style Guide for Python Code).
 [RevertFontSize](https://packagecontrol.io/packages/RevertFontSize) - Sublime Text plugin to quickly revert to a preferred font size
 
 [Review Myself](https://packagecontrol.io/packages/Review%20Myself) - An in-source todo management plugin for Subline Text 3, lists todos in your sources, helps you know what should do next.
+
+[Rhai](https://packagecontrol.io/packages/Rhai) - Rhai syntax highlighting for Sublime Text.
 
 [RhetosDSL](https://packagecontrol.io/packages/RhetosDSL) - Rhetos DSL syntax support for Sublime text
 
@@ -5879,13 +6340,15 @@ to PEP8 (Style Guide for Python Code).
 
 [Rmate](https://packagecontrol.io/packages/Rmate) - A way to use rmate with Sublime Text 2
 
+[RoRvsWild Color Schemes](https://packagecontrol.io/packages/RoRvsWild%20Color%20Schemes) - Accessible Textmate and Sublime text color schemes based on RoRvsWild colors.
+
 [RoboType](https://packagecontrol.io/packages/RoboType) - Automatically emulate typing text from your clipboard
 
 [Robot Framework](https://packagecontrol.io/packages/Robot%20Framework) - Provides basic tools for working with Robot Framework text files in Sublime Text 2.
 
 [RobotFrameworkAssistant](https://packagecontrol.io/packages/RobotFrameworkAssistant) - Robot Framework plugin for Sublime Text3
 
-[RocketNative Snippets](https://packagecontrol.io/packages/RocketNative%20Snippets) - Rocketseat React Native snippets for Sublime Text Editor
+[RocketNative Snippets](https://packagecontrol.io/packages/RocketNative%20Snippets) - [DEPRECATED] Rocketseat React Native snippets for Sublime Text Editor
 
 [Rocks](https://packagecontrol.io/packages/Rocks) - This project have continuous integration testing for automating code coverage in realtime for Python on SublimeText. This plugin simplify development process and check more quickly the problems
 
@@ -5908,6 +6371,8 @@ to PEP8 (Style Guide for Python Code).
 [Rsync SSH](https://packagecontrol.io/packages/Rsync%20SSH) - Keep remote directories in sync with local projects.
 
 [RuboCop](https://packagecontrol.io/packages/RuboCop) - A Sublime Text RuboCop plugin.
+
+[RubocopDaemon](https://packagecontrol.io/packages/RubocopDaemon) - A Sublime Text plugin to use rubocop-daemon
 
 [Ruby Block Converter](https://packagecontrol.io/packages/Ruby%20Block%20Converter) - A Sublime Text plugin which adds a command that toggles ruby blocks between braces and do-ends.
 
@@ -5951,13 +6416,19 @@ to PEP8 (Style Guide for Python Code).
 
 [Rubycritic](https://packagecontrol.io/packages/Rubycritic) - Sublime plugin to make a rubycritic assessment of current file, and automatically open it in the browser
 
+[Rubyfmt](https://packagecontrol.io/packages/Rubyfmt) - Sublime plugin to autoformat Ruby code with Rubyfmt
+
 [RulerColumn](https://packagecontrol.io/packages/RulerColumn) - A Sublime Text plugin that shows ruler columns only on lines where the text overflows.
+
+[RulerProximityIndicator](https://packagecontrol.io/packages/RulerProximityIndicator) - Ruler Proximity Indicator plugin for Sublime Text
 
 [Run](https://packagecontrol.io/packages/Run) - Let&#x27;s run some command lines on SublimeText 3
 
 [Run Apps](https://packagecontrol.io/packages/Run%20Apps) - Run or launch external applications, system commands, customized scripts from command pallete. Just like &quot;!xxx&quot; in VIM.
 
 [Run In InDesign](https://packagecontrol.io/packages/Run%20In%20InDesign) - Sublime Text 3 plugin for running javascripts with Indesign
+
+[Run Task](https://packagecontrol.io/packages/Run%20Task) - A Sublime Text package for running custom workspace tasks
 
 [RunCommand](https://packagecontrol.io/packages/RunCommand) - Run arbitraty plugin-defined commands
 
@@ -5971,11 +6442,19 @@ to PEP8 (Style Guide for Python Code).
 
 [RustAutoComplete](https://packagecontrol.io/packages/RustAutoComplete) - A SublimeText binding for RACER (Rust auto completion tool)
 
+[RustAutoImport](https://packagecontrol.io/packages/RustAutoImport) - Automatically add use statement imports for Rust from ST3
+
 [RustCookbookSnippets](https://packagecontrol.io/packages/RustCookbookSnippets) - Sublime snippets for Rust cookbook recipes
 
 [RustFmt](https://packagecontrol.io/packages/RustFmt) - Sublime Text plugin that formats Rust code with rustfmt
 
 [RustFormat](https://packagecontrol.io/packages/RustFormat) - Rust formatting for Sublime Text
+
+[S-Expressions Syntax](https://packagecontrol.io/packages/S-Expressions%20Syntax) - Sublime Text 3 syntax definition for S-Expressions
+
+[SACS](https://packagecontrol.io/packages/SACS) - SACS syntax for Sublime Text 3
+
+[SAMB](https://packagecontrol.io/packages/SAMB) - SAMB (server assembly framework) syntax and snippets
 
 [SAS Programming](https://packagecontrol.io/packages/SAS%20Programming) - For using SAS Institute&#x27;s Analytics &amp; Data Management system.
 
@@ -6003,9 +6482,13 @@ to PEP8 (Style Guide for Python Code).
 
 [SDLang](https://packagecontrol.io/packages/SDLang) - Sublime Text syntax highlighting for SDLang files
 
+[SEPath](https://packagecontrol.io/packages/SEPath) - Sublime Text 3 plugin to quickly open path from file on the same place or in the file manager
+
 [SEWL](https://packagecontrol.io/packages/SEWL) - Sublime Text package for SEWL
 
 [SFTP](https://packagecontrol.io/packages/SFTP) - Commercial SFTP/FTP plugin - upload, sync, browse, remote edit, diff and vcs integration
+
+[SFV](https://packagecontrol.io/packages/SFV) - Syntax highlighting for SFV files
 
 [SHARC or Blackfin DSP assembly highlighting](https://packagecontrol.io/packages/SHARC%20or%20Blackfin%20DSP%20assembly%20highlighting) - Syntax def for the SHARC/blackfin DSP boards&#x27; assembly language.
 
@@ -6023,15 +6506,19 @@ to PEP8 (Style Guide for Python Code).
 
 [SML (Standard ML)](https://packagecontrol.io/packages/SML%20%28Standard%20ML%29) - Resources for Standard ML in Sublime Text 2, including syntax highlighting, a build system, and snippets.
 
+[SNMP MIB Syntax](https://packagecontrol.io/packages/SNMP%20MIB%20Syntax) - Syntax Highlighting for SNMP MIB files (SMIv2)
+
 [SPARC Assembly](https://packagecontrol.io/packages/SPARC%20Assembly) - Provides SPARC assembly syntax highlighting and snippets for Sublime Text 2/3.
 
 [SPARQL](https://packagecontrol.io/packages/SPARQL) - SPARQL syntax highlighting for Sublime Text
 
-[SPARQL Runner](https://packagecontrol.io/packages/SPARQL%20Runner) - A Sublime Text 2/3 plugin to run SPARQL queries inside the editor
+[SPARQL Runner](https://packagecontrol.io/packages/SPARQL%20Runner) - A Sublime Text 2/3 plugin to run SPARQL queries inside the editor. Now with authentication and parameter options.
 
 [SPICE Circuit Simulator](https://packagecontrol.io/packages/SPICE%20Circuit%20Simulator) - SPICE for Sublime Text
 
 [SPIP](https://packagecontrol.io/packages/SPIP) - Plugin Sublime Text 2/3 qui ajoute la syntaxe SPIP.
+
+[SPWN Language](https://packagecontrol.io/packages/SPWN%20Language) - SPWN support for Sublime text 3
 
 [SQF Language](https://packagecontrol.io/packages/SQF%20Language) - Sublime Text 2/3 highlighter for Bohemia Interactive&#x27;s SQF Language.
 
@@ -6053,25 +6540,27 @@ to PEP8 (Style Guide for Python Code).
 
 [SSH Config](https://packagecontrol.io/packages/SSH%20Config) - SSH Config language and completions
 
-[SSL](https://packagecontrol.io/packages/SSL) - SSL for Linux.
-
 [ST2SyntaxFromFileName](https://packagecontrol.io/packages/ST2SyntaxFromFileName) - Sublime Text 2 plugin to assign syntax to buffers, based on the file name.
 
 [STVenvWrapper](https://packagecontrol.io/packages/STVenvWrapper) - Wrapper for Virtual Environment Access with SublimeREPL
 
 [ST_AWK](https://packagecontrol.io/packages/ST_AWK) - Use awk to process your text lines in your Sublime Text tab!
 
+[SUCC Syntax Highlighting](https://packagecontrol.io/packages/SUCC%20Syntax%20Highlighting) - SUCC syntax highlighting for Sublime Text 3
+
 [SVG Icon Snippets](https://packagecontrol.io/packages/SVG%20Icon%20Snippets) - Sublime Text completions for a variety of popular SVG icons
 
 [SVG Icons](https://packagecontrol.io/packages/SVG%20Icons) - A collection of SVG icon snippets for Sublime Text 
 
-[SVG to JSX](https://packagecontrol.io/packages/SVG%20to%20JSX) - Converts raw SVG in an open Sublime buffer to valid JSX
+[SVG Preview](https://packagecontrol.io/packages/SVG%20Preview) - Sublime Text plugin to preview SVG files.
 
-[SVG-SMIL-Snippets](https://packagecontrol.io/packages/SVG-SMIL-Snippets) - A set of custom SVG-SMIL snippets for Sublime Text 2/3
+[SVG Viewer](https://packagecontrol.io/packages/SVG%20Viewer) - Sublime Text 3 plugin for viewing SVG files as pictures
+
+[SVG to JSX](https://packagecontrol.io/packages/SVG%20to%20JSX) - Converts raw SVG in an open Sublime buffer to valid JSX
 
 [SVG-Snippets](https://packagecontrol.io/packages/SVG-Snippets) - :beginner: A set of custom SVG snippets for Sublime Text 2/3
 
-[SVGO](https://packagecontrol.io/packages/SVGO) - SVGO plugin for Sublime Text
+[SVGO](https://packagecontrol.io/packages/SVGO) - SVGO plugin for Sublime Text 🐯
 
 [SVN](https://packagecontrol.io/packages/SVN) - Full-featured commercial Subversion plugin with a focus on usability
 
@@ -6091,27 +6580,21 @@ to PEP8 (Style Guide for Python Code).
 
 [Sandor's Glowfish Colour Scheme](https://packagecontrol.io/packages/Sandor%27s%20Glowfish%20Colour%20Scheme) - Sublime Text 2/3 Glowfish Theme with vintage hacker look
 
-[SaneSnippets](https://packagecontrol.io/packages/SaneSnippets) - Sublime Text 2 snippets optimized for humans, not robots.
+[SaneSnippets](https://packagecontrol.io/packages/SaneSnippets) - Sublime Text snippets optimized for humans, not robots
 
 [SasSubmit](https://packagecontrol.io/packages/SasSubmit) - Sublime plugin sending command to SAS
-
-[SashaSublime](https://packagecontrol.io/packages/SashaSublime) - Theme and color scheme, where all elements are good visible
 
 [Sass](https://packagecontrol.io/packages/Sass) - Sass and SCSS syntax for Sublime Text
 
 [Sass-Director](https://packagecontrol.io/packages/Sass-Director) - A Sublime Plugin for managing your Sass project via the manifest file
 
-[SassBeautify](https://packagecontrol.io/packages/SassBeautify) - A Sublime Text plugin that beautifies Sass files.
-
-[SassBuilder](https://packagecontrol.io/packages/SassBuilder) - Sublime Text SASS compiler based on source directory config file.
+[SassBeautify](https://packagecontrol.io/packages/SassBeautify) - [not maintained] A Sublime Text plugin that beautifies Sass files.
 
 [SassSolution](https://packagecontrol.io/packages/SassSolution) - sublime plugin to autocomplete all vars and mixins in files you set in the setting file
 
 [Sassy Comments](https://packagecontrol.io/packages/Sassy%20Comments) - Intuitive Sass commenting for Sublime Text 2/3.
 
-[Save Copy As](https://packagecontrol.io/packages/Save%20Copy%20As) - save a copy of current file without opening the new file
-
-[Scaffolder](https://packagecontrol.io/packages/Scaffolder) - A plugin to create projects based on user-defined scaffolds.
+[Save Copy As](https://packagecontrol.io/packages/Save%20Copy%20As) - save a copy of current file without opening the new file in Sublime Text editor
 
 [Scaffolding](https://packagecontrol.io/packages/Scaffolding) - Sublime Text 2 Scaffolding Plugin
 
@@ -6127,9 +6610,9 @@ to PEP8 (Style Guide for Python Code).
 
 [ScalaTest](https://packagecontrol.io/packages/ScalaTest) - Scala/Test plug-in for Sublime Text 2
 
-[ScalaWorksheet](https://packagecontrol.io/packages/ScalaWorksheet) - Worksheet functionality for Scala in Sublime Text 3.
-
 [Scalafmt](https://packagecontrol.io/packages/Scalafmt) - Scala formatter for Sublime Text 3, powered by Scalafmt and Nailgun
+
+[ScalafmtEnhanced](https://packagecontrol.io/packages/ScalafmtEnhanced) - Sublime Text 3 plugin to invoke scalafmt, a code formatter for Scala.
 
 [Scalariform](https://packagecontrol.io/packages/Scalariform) - The wrapper of Scalariform - scala source code formatter
 
@@ -6145,6 +6628,8 @@ to PEP8 (Style Guide for Python Code).
 
 [Schemr](https://packagecontrol.io/packages/Schemr) - A color scheme selector for Sublime Text.
 
+[Schnapsum](https://packagecontrol.io/packages/Schnapsum) - Create &quot;schnapsum&#x27; with The Sublime Text
+
 [Scilab](https://packagecontrol.io/packages/Scilab) - Scilab syntax highlighter for Sublime Text. Scilab is an open source software for numerical computation (http://scilab.org).
 
 [Scoggle](https://packagecontrol.io/packages/Scoggle) - Sublime Text 3 Plugin to Toggle Between Scala and Test Code
@@ -6155,9 +6640,13 @@ to PEP8 (Style Guide for Python Code).
 
 [ScopeContext](https://packagecontrol.io/packages/ScopeContext) - Scope based context that can be reused by another plugins
 
-[ScopeHunter](https://packagecontrol.io/packages/ScopeHunter) - A plugin for Sublime Text that gets the scope under the cursor. http://facelessuser.github.io/ScopeHunter/
+[ScopeHunter](https://packagecontrol.io/packages/ScopeHunter) - A plugin for Sublime Text that gets the scope under the cursor.
 
 [ScopeStatus](https://packagecontrol.io/packages/ScopeStatus) - A Sublime Text 2 plugin for displaying the syntax scope at the current cursor position in the status bar.
+
+[Scopus Query Compiler](https://packagecontrol.io/packages/Scopus%20Query%20Compiler) - A Sublime Text 3 package for compiling Scopus Advanced Search queries.
+
+[Scopus Syntax Highlighter](https://packagecontrol.io/packages/Scopus%20Syntax%20Highlighter) - A Sublime Text 3 package for highlighting  the syntax used by the Advanced Search feature in Scopus.
 
 [Scrapy](https://packagecontrol.io/packages/Scrapy) - scrapy support for sublime text
 
@@ -6233,6 +6722,8 @@ to PEP8 (Style Guide for Python Code).
 
 [Selenium Snippets](https://packagecontrol.io/packages/Selenium%20Snippets) - Sublime Text 2/3 snippets for the Selenium WebDriver Python bindings
 
+[Semantic Highlighter](https://packagecontrol.io/packages/Semantic%20Highlighter) - 🌈 Highlights similar variables on focus
+
 [Semantic UI](https://packagecontrol.io/packages/Semantic%20UI) - Snippets for the Semantic UI framework
 
 [Semi](https://packagecontrol.io/packages/Semi) - Sublime Text 3 plugin for Semi
@@ -6267,8 +6758,6 @@ to PEP8 (Style Guide for Python Code).
 
 [Serpent Syntax](https://packagecontrol.io/packages/Serpent%20Syntax) - ✨ a Sublime Text 3 syntax definition for Serpent
 
-[ServiceNow API Autocompletion](https://packagecontrol.io/packages/ServiceNow%20API%20Autocompletion) - Autocompletion for ServiceNow API within Sublime Text
-
 [Sesame](https://packagecontrol.io/packages/Sesame) - Add, open, remove, switch, and manage projects and folders, using the command palette and key bindings.
 
 [Session Manager](https://packagecontrol.io/packages/Session%20Manager) - A flexible and easy to use Session Manager
@@ -6289,11 +6778,11 @@ to PEP8 (Style Guide for Python Code).
 
 [Sf4Helpers](https://packagecontrol.io/packages/Sf4Helpers) - Symfony 4 Command Line Plugin for Sublime Text 3
 
-[Sfortzando](https://packagecontrol.io/packages/Sfortzando) - ABC Notation syntax, snippets, autocomplete, and more, for Sublime Text.
+[Sfortzando](https://packagecontrol.io/packages/Sfortzando) - ABC Notation syntax, snippets, and more, for Sublime Text.
 
 [Shader Syntax (GLSL HLSL Cg)](https://packagecontrol.io/packages/Shader%20Syntax%20%28GLSL%20HLSL%20Cg%29) - GLSL/HLSL/Cg syntax highlighting for Sublime Text 2 &amp; 3
 
-[ShaderLanguages](https://packagecontrol.io/packages/ShaderLanguages) - Sublime Text syntax highlighting files for various shader languages.
+[Shadowenv](https://packagecontrol.io/packages/Shadowenv) - No description provided
 
 [Share File](https://packagecontrol.io/packages/Share%20File) - Sublime Plugin to share the current opened file, by uploading it to server, and others can download it
 
@@ -6310,6 +6799,8 @@ to PEP8 (Style Guide for Python Code).
 [ShellStatus](https://packagecontrol.io/packages/ShellStatus) - Run shell command and output its result to status bar.
 
 [ShellVE](https://packagecontrol.io/packages/ShellVE) - Automagically opens a shell with a project&#x27;s virtual environment already started.
+
+[Sheller](https://packagecontrol.io/packages/Sheller) - A brand new package to work with Command Prompt without using Command Prompt.
 
 [Shen](https://packagecontrol.io/packages/Shen) - Shen language support for Sublime Text 3
 
@@ -6329,6 +6820,10 @@ to PEP8 (Style Guide for Python Code).
 
 [Show Open Files](https://packagecontrol.io/packages/Show%20Open%20Files) - Simple plugin for Sublime Text to show the number of open files in the status bar.
 
+[Show Unicode Name](https://packagecontrol.io/packages/Show%20Unicode%20Name) - Show the unicode name and code point in the status bar on Sublime Text
+
+[ShowDefinitionEx](https://packagecontrol.io/packages/ShowDefinitionEx) - Visually showing definition
+
 [ShowEncoding](https://packagecontrol.io/packages/ShowEncoding) - 🔤 Simple plugin for Sublime Text 2 to show the file encoding in the status bar
 
 [ShowTexdoc](https://packagecontrol.io/packages/ShowTexdoc) - A plugin for Sublime Text which helps to show LaTeX package documents
@@ -6343,7 +6838,9 @@ to PEP8 (Style Guide for Python Code).
 
 [SideBarHider](https://packagecontrol.io/packages/SideBarHider) - Sublime Text 3 plugin to automatically hide the side bar when it loses focus
 
-[SideBarTools](https://packagecontrol.io/packages/SideBarTools) - Duplicate files and copy paths from the Side Bar in Sublime Text 3
+[SideBarMenuAdvanced](https://packagecontrol.io/packages/SideBarMenuAdvanced) - Custom Sublime Text 3 SideBar context menu
+
+[SideBarTools](https://packagecontrol.io/packages/SideBarTools) - Duplicate or compare files and copy paths from the Side Bar in Sublime Text 3
 
 [SidebarHoverToggle](https://packagecontrol.io/packages/SidebarHoverToggle) - A sublime text 3 plugin that opens and closes the sidebar, based on where your mouse is
 
@@ -6351,9 +6848,9 @@ to PEP8 (Style Guide for Python Code).
 
 [Sightly](https://packagecontrol.io/packages/Sightly) - A language syntax for the Sightly language embedded in html.
 
-[Sign](https://packagecontrol.io/packages/Sign) - Sublime Text plugin to insert name, date, and timestamp.
-
 [SikuliTools](https://packagecontrol.io/packages/SikuliTools) - A collection of tools for creation of SikuliX tests with SublimeText
+
+[Silence Color Scheme](https://packagecontrol.io/packages/Silence%20Color%20Scheme) - Light and dark color scheme for Sublime Text and Visual Studio Code.
 
 [Silex Snippets](https://packagecontrol.io/packages/Silex%20Snippets) - Sublime Text package with useful snippets for Silex, the PHP micro-framework.
 
@@ -6375,15 +6872,13 @@ to PEP8 (Style Guide for Python Code).
 
 [Simple JSX](https://packagecontrol.io/packages/Simple%20JSX) - Simple Sublime Text 3 JSX implementation
 
-[Simple MVC Framework Snippets](https://packagecontrol.io/packages/Simple%20MVC%20Framework%20Snippets) - Collection of Nova Framework Snippets for Sublime Text
-
 [Simple Print Function](https://packagecontrol.io/packages/Simple%20Print%20Function) - Simple print function for Sublime Text. Handles printing current file, selection, or clipboard.
 
 [Simple Rails Navigator](https://packagecontrol.io/packages/Simple%20Rails%20Navigator) - Sublime Text 2 plugin for navigating Ruby on Rails applications
 
-[SimpleClone](https://packagecontrol.io/packages/SimpleClone) - A Sublime Text plugin for lightning-fast file cloning. Compatible with both ST2 and ST3.
+[SimpleAdd](https://packagecontrol.io/packages/SimpleAdd) - Sublime Text plugin for computing the sum of numerical terms in a region of text.
 
-[SimpleConfig](https://packagecontrol.io/packages/SimpleConfig) - Syntax Highlighting for the SimpleConfig configuration language
+[SimpleClone](https://packagecontrol.io/packages/SimpleClone) - A Sublime Text plugin for lightning-fast file cloning. Compatible with both ST2 and ST3.
 
 [SimpleCov](https://packagecontrol.io/packages/SimpleCov) - Visualise SimpleCov Ruby test coverage in Sublime Text 3.
 
@@ -6413,6 +6908,8 @@ to PEP8 (Style Guide for Python Code).
 
 [SingleTrailingNewLine](https://packagecontrol.io/packages/SingleTrailingNewLine) - A Sublime Text package to make sure that there is exactly one trailing newline at the end of a file.
 
+[Singularity Definition File Syntax](https://packagecontrol.io/packages/Singularity%20Definition%20File%20Syntax) - Syntax Highlighting for Singularity Definition Files
+
 [SingularitySnippets](https://packagecontrol.io/packages/SingularitySnippets) - A Singularity.gs plugin for Sublime Text 3
 
 [Sinon](https://packagecontrol.io/packages/Sinon) - Snippets for sinon.js assertions
@@ -6423,13 +6920,15 @@ to PEP8 (Style Guide for Python Code).
 
 [Six - Future JavaScript Syntax](https://packagecontrol.io/packages/Six%20-%20Future%20JavaScript%20Syntax) - Syntax highlighting definition for ECMA Script language extensions provided by the Six compiler
 
+[Sk-ST3](https://packagecontrol.io/packages/Sk-ST3) - Skript Language Modern Syntax Highlighting. Skript is a Minecraft plugin that allows you to write codes with plain english and use it as plugins
+
 [Skeleton Snippet](https://packagecontrol.io/packages/Skeleton%20Snippet) - No description provided
 
 [Sketch.js](https://packagecontrol.io/packages/Sketch.js) - Completions and snippets for Sketch.js.
 
 [Skins](https://packagecontrol.io/packages/Skins) - Easily switch theme and color scheme of Sublime Text with only one command.
 
-[SkoolkitZ80](https://packagecontrol.io/packages/SkoolkitZ80) - Z80 Assembly language syntax package for Skoolkit .skool files in SublimeText 3
+[SkoolkitZ80](https://packagecontrol.io/packages/SkoolkitZ80) - Z80 Assembly language syntax for Skoolkit .skool files in SublimeText 3
 
 [Slack](https://packagecontrol.io/packages/Slack) - A ST3 plugin which sends messages, code selections and  files to slack.com channels/groups/users.
 
@@ -6447,6 +6946,8 @@ to PEP8 (Style Guide for Python Code).
 
 [Slugify](https://packagecontrol.io/packages/Slugify) - Convert the selected text to a slug.
 
+[Slyblime](https://packagecontrol.io/packages/Slyblime) - Interactive Lisp IDE with REPL, Inspector, Debugger and more for Sublime Text 4.
+
 [Smali](https://packagecontrol.io/packages/Smali) - A syntax highlighter for the Dalvik bytecode language, Smali
 
 [Smart Backspace](https://packagecontrol.io/packages/Smart%20Backspace) - Adds smart backspace capability found in JetBrains IDEs
@@ -6463,8 +6964,6 @@ to PEP8 (Style Guide for Python Code).
 
 [Smart Region](https://packagecontrol.io/packages/Smart%20Region) - Open and search files directly from your source code.
 
-[Smart Repeat](https://packagecontrol.io/packages/Smart%20Repeat) - 🔃 Plugin for Sublime Text 2/3, Smart Repeat helps to repeat code with incremental/decremental numbers.
-
 [Smart Title Case](https://packagecontrol.io/packages/Smart%20Title%20Case) - Smarter title casing for Sublime Text
 
 [Smart VHDL](https://packagecontrol.io/packages/Smart%20VHDL) - Syntax Highlighting, Snippets, code navigation and more for VHDL
@@ -6477,23 +6976,35 @@ to PEP8 (Style Guide for Python Code).
 
 [SmartMoveToTheEol](https://packagecontrol.io/packages/SmartMoveToTheEol) - &quot;Smart Move To The Eol&quot; Sublime Plugin
 
-[SmartNewWindow](https://packagecontrol.io/packages/SmartNewWindow) - Create new Sublime Text window by replicating existing workspace folders
+[SmartNewWindow](https://packagecontrol.io/packages/SmartNewWindow) - Create new Sublime Text window by replicating existing workspace folders.
 
 [Smartisan](https://packagecontrol.io/packages/Smartisan) - A Sublime Text plugin that integrates Laravel 4&#x27;s artisan. Automatically builds menu based on available commands.
 
 [Smarty](https://packagecontrol.io/packages/Smarty) - Smarty for Sublime Text
 
+[SmojSubmit](https://packagecontrol.io/packages/SmojSubmit) - A sublime plugin to submit code to OJs
+
 [Snake](https://packagecontrol.io/packages/Snake) - Snake game for Sublime Text 2 &amp; 3
 
 [Snakecasts-theme](https://packagecontrol.io/packages/Snakecasts-theme) - Snakecasts syntax theme for Sublime Text 3
+
+[Snappy](https://packagecontrol.io/packages/Snappy) - Reads Snappy files in Sublime Text. Snappy files are opened in read-only mode.
+
+[Snazzy Color Scheme](https://packagecontrol.io/packages/Snazzy%20Color%20Scheme) - Color scheme based on Sindre Sorhus&#x27; Snazzy
+
+[SnipTeX](https://packagecontrol.io/packages/SnipTeX) - A collection of 90+ LaTeX snippets
 
 [Snippet Destroyer](https://packagecontrol.io/packages/Snippet%20Destroyer) - Destroy all Sublime Text completions and snippets
 
 [SnippetCaller](https://packagecontrol.io/packages/SnippetCaller) - Snippet system on top of default sublime snippets
 
+[SnippetIndex](https://packagecontrol.io/packages/SnippetIndex) - Sublime Text Plugin for Snippet Index 
+
 [SnippetMaker](https://packagecontrol.io/packages/SnippetMaker) - Makes managing snippets easy in Sublime Text
 
 [SnippetManager](https://packagecontrol.io/packages/SnippetManager) - Create snippet with hotkey
+
+[SnippetSkydragon](https://packagecontrol.io/packages/SnippetSkydragon) - No description provided
 
 [SnippetX](https://packagecontrol.io/packages/SnippetX) - A Sublime Text 3 plugin for combining tabular data with snippets
 
@@ -6503,9 +7014,9 @@ to PEP8 (Style Guide for Python Code).
 
 [Snowball Syntax](https://packagecontrol.io/packages/Snowball%20Syntax) - Syntax Highlighting for Snowball framwork destinated to stemming
 
-[Soar Tools](https://packagecontrol.io/packages/Soar%20Tools) - Package for Soar development in Sublime Text
+[Snowflake](https://packagecontrol.io/packages/Snowflake) - A sublime text 3 package to highlight the Snowflake SQL code.
 
-[Software](https://packagecontrol.io/packages/Software) - Track your programming activity in real-time in Sublime Text
+[Soar Tools](https://packagecontrol.io/packages/Soar%20Tools) - Package for Soar development in Sublime Text
 
 [Solarized Color Scheme](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) - Solarized color scheme for Sublime Text 3
 
@@ -6513,9 +7024,9 @@ to PEP8 (Style Guide for Python Code).
 
 [Solidity Docstring Generator](https://packagecontrol.io/packages/Solidity%20Docstring%20Generator) - Sublime Plugin for generating Solidity Docstrings
 
-[Solium Gutter](https://packagecontrol.io/packages/Solium%20Gutter) - Sublime Text Solium Gutter - Solidity Linter plugin
+[Solisp](https://packagecontrol.io/packages/Solisp) - Sublime package for solisp syntax highlighting
 
-[Solo Snippets](https://packagecontrol.io/packages/Solo%20Snippets) - Solo snippets for Sublime Text 3
+[Solium Gutter](https://packagecontrol.io/packages/Solium%20Gutter) - Sublime Text Solium Gutter - Solidity Linter plugin
 
 [Sonic Pi](https://packagecontrol.io/packages/Sonic%20Pi) - Command sonic Pi from sublime
 
@@ -6561,19 +7072,17 @@ to PEP8 (Style Guide for Python Code).
 
 [SpaceSnippets](https://packagecontrol.io/packages/SpaceSnippets) - Insert some chars and spaces will be added automatically
 
-[Spandoc](https://packagecontrol.io/packages/Spandoc) - Sublime Text plugin that uses Pandoc to convert text in nearly every possible format into each other and with Spandoc you can use it inside Sublime Text!
-
-[Spark](https://packagecontrol.io/packages/Spark) - Spark syntax highlighting for Sublime Text 2
-
 [Spec Finder](https://packagecontrol.io/packages/Spec%20Finder) - Shortcut for sublime text to switch between the file and it&#x27;s spec
 
 [Spec Focuser](https://packagecontrol.io/packages/Spec%20Focuser) - Sublime Text plugin for toggling focus on currently selected spec
 
 [Specificity Calculator](https://packagecontrol.io/packages/Specificity%20Calculator) - Press Command+Option+Shift+S to find the specificity of CSS selectors on the current line
 
+[Specman](https://packagecontrol.io/packages/Specman) - Specman package for sublime text
+
 [Sphere Online Judge](https://packagecontrol.io/packages/Sphere%20Online%20Judge) - Sublime Text plugin to view Sphere Online Judge problem content from the GUI
 
-[Sphinx Office](https://packagecontrol.io/packages/Sphinx%20Office) - Here you find a sublime text plugin for creating letters, reports, or books from reStructured Text files using sphinx.
+[Sphinx Ref Helper](https://packagecontrol.io/packages/Sphinx%20Ref%20Helper) - Plugin for Sublime Text 3 that searches all docs in folder for Sphinx references and auto generates :ref:`` in current doc
 
 [SpiderScript](https://packagecontrol.io/packages/SpiderScript) - Spider syntax highlighting and code snippets for Sublime Text 3. www.spiderlang.org
 
@@ -6587,8 +7096,6 @@ to PEP8 (Style Guide for Python Code).
 
 [SplitScreen](https://packagecontrol.io/packages/SplitScreen) - ST2 Plugin to create custom split screen ratios
 
-[SplitScreen-Resizer](https://packagecontrol.io/packages/SplitScreen-Resizer) - Sublime Text 2 Plugin to switch and resize 2-Columns layout in the fastest and most comfortable way.
-
 [Splunk Conf File Syntax Highlighting](https://packagecontrol.io/packages/Splunk%20Conf%20File%20Syntax%20Highlighting) - Syntax highlighting for Splunk .conf files in Sublime Text 2 &amp; 3
 
 [Splunk Format](https://packagecontrol.io/packages/Splunk%20Format) - Sublime Text 3 plugin to prettify Splunk searches
@@ -6597,6 +7104,8 @@ to PEP8 (Style Guide for Python Code).
 
 [Spotify](https://packagecontrol.io/packages/Spotify) - Control Spotify from Sublime Text 2 or 3.
 
+[SpotifyPlayer (Ubuntu)](https://packagecontrol.io/packages/SpotifyPlayer%20%28Ubuntu%29) - run Play, Pause, Stop, Next and Previous in the sublime spotify
+
 [SpotifyWeb](https://packagecontrol.io/packages/SpotifyWeb) - Displays the current track in the status bar of Sublime Text.
 
 [Sprak Syntax & Completions for else Heartbreak()](https://packagecontrol.io/packages/Sprak%20Syntax%20%26%20Completions%20for%20else%20Heartbreak%28%29) - SublimeText Syntax Definitions for Sprak the language used in the game Else Heart.break()
@@ -6604,6 +7113,8 @@ to PEP8 (Style Guide for Python Code).
 [SproutCore Snippets and JSHint Integration](https://packagecontrol.io/packages/SproutCore%20Snippets%20and%20JSHint%20Integration) - A SproutCore package for Sublime Text 2
 
 [SqlBeautifier](https://packagecontrol.io/packages/SqlBeautifier) - A sublime plugin to format SQL. It supports both sublime 2 and 3.
+
+[Sqlx Builder](https://packagecontrol.io/packages/Sqlx%20Builder) - A plugin of Sublime Text3 for build sqlx script
 
 [Squib Snippets](https://packagecontrol.io/packages/Squib%20Snippets) - SublimeText snippets for Squibbing.
 
@@ -6614,8 +7125,6 @@ to PEP8 (Style Guide for Python Code).
 [StGitlab](https://packagecontrol.io/packages/StGitlab) - Sublime text Gitlab manager
 
 [Stack Overflow Snippets](https://packagecontrol.io/packages/Stack%20Overflow%20Snippets) - Search Stack Overflow and get code snippets from answers directly to your Sublime Text
-
-[StackExchangeQuery](https://packagecontrol.io/packages/StackExchangeQuery) - StackExchange API Query for SublimeText3
 
 [StackMob JS Snippets](https://packagecontrol.io/packages/StackMob%20JS%20Snippets) - StackMob JavaScript Snippets for Sublime Text Editor
 
@@ -6643,6 +7152,8 @@ to PEP8 (Style Guide for Python Code).
 
 [StataEditor](https://packagecontrol.io/packages/StataEditor) - Stata Editor for Sublime Text 3
 
+[StataLinux](https://packagecontrol.io/packages/StataLinux) - Sublime Text 3 plugin that adds support for Stata (all versions) in Linux.
+
 [Statement](https://packagecontrol.io/packages/Statement) - Attemp of language-independent source code tokenization and manipulation
 
 [Status Bar File Size](https://packagecontrol.io/packages/Status%20Bar%20File%20Size) - Show the file size in the Sublime Text status bar
@@ -6663,6 +7174,8 @@ to PEP8 (Style Guide for Python Code).
 
 [StepList](https://packagecontrol.io/packages/StepList) - Sublime Text plugin. Displays all RSpec/Cucumber steps in the current project
 
+[StickWithMarkdownSnippets](https://packagecontrol.io/packages/StickWithMarkdownSnippets) - Still markdown syntax flavored markdown snippets
+
 [StickySearch](https://packagecontrol.io/packages/StickySearch) - Sublime Text 3 plugin - persistent highlight of selected text
 
 [StoryScript Highlight](https://packagecontrol.io/packages/StoryScript%20Highlight) - No description provided
@@ -6671,7 +7184,7 @@ to PEP8 (Style Guide for Python Code).
 
 [Strapdown Markdown Preview](https://packagecontrol.io/packages/Strapdown%20Markdown%20Preview) - Markdown preview plugin for Sublime Text 3 using Strapdown.js. No server-side processing is required as Strapdown.js is purely browser-based Markdown converter using Twitter Bootstrap for theming support.
 
-[StrapdownJS Boilerplate](https://packagecontrol.io/packages/StrapdownJS%20Boilerplate) - No description provided
+[StrapdownJS Boilerplate](https://packagecontrol.io/packages/StrapdownJS%20Boilerplate) - A simple StrapdownJS Boilerplate!
 
 [Streamer Mode](https://packagecontrol.io/packages/Streamer%20Mode) - A &quot;streamer mode&quot; for Sublime Text 3.
 
@@ -6733,9 +7246,11 @@ to PEP8 (Style Guide for Python Code).
 
 [Sublime Bookmarks](https://packagecontrol.io/packages/Sublime%20Bookmarks) - a better bookmark system for SublimeText
 
+[Sublime ES7 React Redux ReactNative JS snippets](https://packagecontrol.io/packages/Sublime%20ES7%20React%20Redux%20ReactNative%20JS%20snippets) - Sublime ES7 React/Redux/React-Native/JS snippets
+
 [Sublime Files](https://packagecontrol.io/packages/Sublime%20Files) - Sublime Text 2/3 plugin for keyboard driven file navigation
 
-[Sublime Input](https://packagecontrol.io/packages/Sublime%20Input) - :pencil: Send STDIN input to programs using comments in Sublime Text 2/3
+[Sublime Input](https://packagecontrol.io/packages/Sublime%20Input) - Send STDIN input to programs using comments in Sublime Text 2/3
 
 [Sublime JS](https://packagecontrol.io/packages/Sublime%20JS) - Writing Sublime plugins with JavaScript.
 
@@ -6813,7 +7328,7 @@ to PEP8 (Style Guide for Python Code).
 
 [SublimeLinter-addon-filter](https://packagecontrol.io/packages/SublimeLinter-addon-filter) - Provide filter functions for SL
 
-[SublimeLinter-addon-goto-flash](https://packagecontrol.io/packages/SublimeLinter-addon-goto-flash) - Highlight jump/goto position
+[SublimeLinter-addon-goto-flash](https://packagecontrol.io/packages/SublimeLinter-addon-goto-flash) - Distraction free editing and jump visuals
 
 [SublimeLinter-addon-toggler](https://packagecontrol.io/packages/SublimeLinter-addon-toggler) - Provide some toggle commands for SL. Esp. enable/disable a linter per shortcut
 
@@ -6830,6 +7345,12 @@ to PEP8 (Style Guide for Python Code).
 [SublimeLinter-coffeelint](https://packagecontrol.io/packages/SublimeLinter-coffeelint) - SublimeLinter plugin for CoffeeScript, using coffeelint.
 
 [SublimeLinter-contrib-CFLint](https://packagecontrol.io/packages/SublimeLinter-contrib-CFLint) - SublimeLinter plugin for Adobe ColdFusion, using CFLint.
+
+[SublimeLinter-contrib-PSScriptAnalyzer](https://packagecontrol.io/packages/SublimeLinter-contrib-PSScriptAnalyzer) - Sublime Text Linter for PowerShell Core
+
+[SublimeLinter-contrib-Powershell](https://packagecontrol.io/packages/SublimeLinter-contrib-Powershell) - SublimeLinter plugin for PowerShell
+
+[SublimeLinter-contrib-SpellCheckLinter](https://packagecontrol.io/packages/SublimeLinter-contrib-SpellCheckLinter) - A sublime text 3 linter for cspell based spell checking in source code files
 
 [SublimeLinter-contrib-alex](https://packagecontrol.io/packages/SublimeLinter-contrib-alex) - SublimeLinter plugin for Alex
 
@@ -6851,11 +7372,17 @@ to PEP8 (Style Guide for Python Code).
 
 [SublimeLinter-contrib-check-source-formatting](https://packagecontrol.io/packages/SublimeLinter-contrib-check-source-formatting) - SublimeLinter plugin for the check-source-formatter linter
 
+[SublimeLinter-contrib-checkmake](https://packagecontrol.io/packages/SublimeLinter-contrib-checkmake) - A linter plugin for SublimeLinter that provides an interface to checkmake, a linter for Makefiles
+
 [SublimeLinter-contrib-checkpatch](https://packagecontrol.io/packages/SublimeLinter-contrib-checkpatch) - This linter plugin for SublimeLinter provides an interface to linux kernel &#x27;checkpatch.pl&#x27; tool for C linting.
+
+[SublimeLinter-contrib-checkstyle](https://packagecontrol.io/packages/SublimeLinter-contrib-checkstyle) - SublimeLinter addon for Checkstyle (Codestyle-check for Java)
 
 [SublimeLinter-contrib-cheetah-flake](https://packagecontrol.io/packages/SublimeLinter-contrib-cheetah-flake) - A SublimeLinter plugin for cheetah-flake (https://github.com/asottile/cheetah_lint)
 
 [SublimeLinter-contrib-clang-tidy](https://packagecontrol.io/packages/SublimeLinter-contrib-clang-tidy) - A linter for clang-tidy
+
+[SublimeLinter-contrib-clj-kondo](https://packagecontrol.io/packages/SublimeLinter-contrib-clj-kondo) - SublimeLinter support for the clj-kondo Clojure linter
 
 [SublimeLinter-contrib-cloudformation](https://packagecontrol.io/packages/SublimeLinter-contrib-cloudformation) - SublimeLinter plugin for Cloudformation files
 
@@ -6866,6 +7393,8 @@ to PEP8 (Style Guide for Python Code).
 [SublimeLinter-contrib-cookstyle](https://packagecontrol.io/packages/SublimeLinter-contrib-cookstyle) - SublimeLinter 3 plugin for Ruby, using cookstyle.
 
 [SublimeLinter-contrib-credo](https://packagecontrol.io/packages/SublimeLinter-contrib-credo) - Elixir linter using credo for Sublime Text 3 with SublimeLinter
+
+[SublimeLinter-contrib-csl](https://packagecontrol.io/packages/SublimeLinter-contrib-csl) - SublimeLinter plugin for the Citation Style Language (CSL)
 
 [SublimeLinter-contrib-csstree](https://packagecontrol.io/packages/SublimeLinter-contrib-csstree) - This linter plugin for SublimeLinter provides an interface to csstree-validator.
 
@@ -6887,7 +7416,7 @@ to PEP8 (Style Guide for Python Code).
 
 [SublimeLinter-contrib-epcomp](https://packagecontrol.io/packages/SublimeLinter-contrib-epcomp) - SublimeLinter plugin for epcomp from the Prospero Extended Pascal compiler.
 
-[SublimeLinter-contrib-erlc](https://packagecontrol.io/packages/SublimeLinter-contrib-erlc) - [Python] SublimeLinter plugin for Erlang, using erlc.
+[SublimeLinter-contrib-erblint](https://packagecontrol.io/packages/SublimeLinter-contrib-erblint) - ERB Linter for Sublime Text 3
 
 [SublimeLinter-contrib-eslint_d](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint_d) - This linter plugin for SublimeLinter provides an interface to eslint_d
 
@@ -6902,6 +7431,8 @@ to PEP8 (Style Guide for Python Code).
 [SublimeLinter-contrib-git-lint-commit](https://packagecontrol.io/packages/SublimeLinter-contrib-git-lint-commit) - A SublimeLinter plugin for linting Git commit messages with git-lint-commit
 
 [SublimeLinter-contrib-glsl](https://packagecontrol.io/packages/SublimeLinter-contrib-glsl) - SublimeLinter plugin for glslangValidator
+
+[SublimeLinter-contrib-glslc](https://packagecontrol.io/packages/SublimeLinter-contrib-glslc) - No description provided
 
 [SublimeLinter-contrib-glua](https://packagecontrol.io/packages/SublimeLinter-contrib-glua) - SublimeLinter 3 plugin for GMod Lua, using gluac -p.
 
@@ -6918,6 +7449,8 @@ to PEP8 (Style Guide for Python Code).
 [SublimeLinter-contrib-happiness](https://packagecontrol.io/packages/SublimeLinter-contrib-happiness) - Linter support for Happiness
 
 [SublimeLinter-contrib-hdevtools](https://packagecontrol.io/packages/SublimeLinter-contrib-hdevtools) - SublimeLinter plugin for haskell linting via `hdevtools check`
+
+[SublimeLinter-contrib-healthier](https://packagecontrol.io/packages/SublimeLinter-contrib-healthier) - SublimeLinter plugin for Healthier Linter
 
 [SublimeLinter-contrib-htmlhint](https://packagecontrol.io/packages/SublimeLinter-contrib-htmlhint) - A SublimeLinter plugin for HTML, using HTMLHint.
 
@@ -6943,15 +7476,13 @@ to PEP8 (Style Guide for Python Code).
 
 [SublimeLinter-contrib-lacheck](https://packagecontrol.io/packages/SublimeLinter-contrib-lacheck) - This linter plugin for SublimeLinter provides an interface to lacheck.
 
-[SublimeLinter-contrib-lessc](https://packagecontrol.io/packages/SublimeLinter-contrib-lessc) - A Sublime linter plugin for less
-
 [SublimeLinter-contrib-lesshint](https://packagecontrol.io/packages/SublimeLinter-contrib-lesshint) - SublimeLinter for LESS files
 
 [SublimeLinter-contrib-lintr](https://packagecontrol.io/packages/SublimeLinter-contrib-lintr) - No description provided
 
 [SublimeLinter-contrib-livecodelint](https://packagecontrol.io/packages/SublimeLinter-contrib-livecodelint) - LiveCode linter for SublimeLinter
 
-[SublimeLinter-contrib-lslint](https://packagecontrol.io/packages/SublimeLinter-contrib-lslint) - This linter plugin for SublimeLinter provides an interface to lslint
+[SublimeLinter-contrib-lslint](https://packagecontrol.io/packages/SublimeLinter-contrib-lslint) - LSL linting for Sublime Text 3
 
 [SublimeLinter-contrib-lua-globals](https://packagecontrol.io/packages/SublimeLinter-contrib-lua-globals) - SublimeLinter that finds globals in lua files.
 
@@ -6977,6 +7508,8 @@ to PEP8 (Style Guide for Python Code).
 
 [SublimeLinter-contrib-php-cs-fixer](https://packagecontrol.io/packages/SublimeLinter-contrib-php-cs-fixer) - SublimeLinter plugin for php, using php-cs-fixer.
 
+[SublimeLinter-contrib-phpins](https://packagecontrol.io/packages/SublimeLinter-contrib-phpins) - Sublime text phpins linter for php
+
 [SublimeLinter-contrib-phpstan](https://packagecontrol.io/packages/SublimeLinter-contrib-phpstan) - A SublimeLinter plugin for PHPStan static analysis
 
 [SublimeLinter-contrib-polylint](https://packagecontrol.io/packages/SublimeLinter-contrib-polylint) - SublimeLinter plugin for polylint
@@ -6985,13 +7518,11 @@ to PEP8 (Style Guide for Python Code).
 
 [SublimeLinter-contrib-protoc-gen-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-protoc-gen-lint) - SublimeLinter plugin for Protocol Buffers, using protoc-gen-lint.
 
-[SublimeLinter-contrib-pug-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-pug-lint) - SublimeLinter plugin for Pug (formerly Jade), using pug-lint
-
 [SublimeLinter-contrib-puppet](https://packagecontrol.io/packages/SublimeLinter-contrib-puppet) - SublimeLinter 3 plugin for Puppet, using puppet.
 
 [SublimeLinter-contrib-puppet-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-puppet-lint) - SublimeLinter 3 plugin for Puppet, using puppet-lint.
 
-[SublimeLinter-contrib-raml-cop](https://packagecontrol.io/packages/SublimeLinter-contrib-raml-cop) - SublimeLinter plugin for RAML, using raml-cop.
+[SublimeLinter-contrib-qmllint](https://packagecontrol.io/packages/SublimeLinter-contrib-qmllint) - SublimeLinter Plugin for QML Linting.
 
 [SublimeLinter-contrib-reek](https://packagecontrol.io/packages/SublimeLinter-contrib-reek) - SublimeLinter 3 plugin for Ruby, using reek.
 
@@ -7005,6 +7536,8 @@ to PEP8 (Style Guide for Python Code).
 
 [SublimeLinter-contrib-rustc](https://packagecontrol.io/packages/SublimeLinter-contrib-rustc) - SublimeLinter plugin for Rust
 
+[SublimeLinter-contrib-salt-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-salt-lint) - This linter plugin for SublimeLinter provides an interface to salt-lint
+
 [SublimeLinter-contrib-sass-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-sass-lint) - SublimeLinter plugin for Sass/SCSS syntax, using sass-lint (node.js).
 
 [SublimeLinter-contrib-scalac](https://packagecontrol.io/packages/SublimeLinter-contrib-scalac) - SublimeLinter 3 plugin for Scala, using scalac
@@ -7012,6 +7545,8 @@ to PEP8 (Style Guide for Python Code).
 [SublimeLinter-contrib-scalastyle](https://packagecontrol.io/packages/SublimeLinter-contrib-scalastyle) - SublimeLinter 3 plugin for Scala, using Scalastyle
 
 [SublimeLinter-contrib-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint) - SublimeLinter plugin for Sass scss syntax, using scss-lint
+
+[SublimeLinter-contrib-selene](https://packagecontrol.io/packages/SublimeLinter-contrib-selene) - SublimeLinter plugin for lua, using selene
 
 [SublimeLinter-contrib-semistandard](https://packagecontrol.io/packages/SublimeLinter-contrib-semistandard) - No description provided
 
@@ -7029,11 +7564,15 @@ to PEP8 (Style Guide for Python Code).
 
 [SublimeLinter-contrib-standard](https://packagecontrol.io/packages/SublimeLinter-contrib-standard) - No description provided
 
+[SublimeLinter-contrib-standardrb](https://packagecontrol.io/packages/SublimeLinter-contrib-standardrb) - SublimeLinter 3 plugin for Ruby, using Standard, a wrapper for Rubocop.
+
+[SublimeLinter-contrib-staticcheck](https://packagecontrol.io/packages/SublimeLinter-contrib-staticcheck) - This linter plugin for SublimeLinter provides an interface to staticcheck.
+
 [SublimeLinter-contrib-stylelint_d](https://packagecontrol.io/packages/SublimeLinter-contrib-stylelint_d) - SublimeLinter plugin for stylelint_d
 
 [SublimeLinter-contrib-stylint](https://packagecontrol.io/packages/SublimeLinter-contrib-stylint) - SublimeLinter plugin for Stylint
 
-[SublimeLinter-contrib-sublime-syntax](https://packagecontrol.io/packages/SublimeLinter-contrib-sublime-syntax) - SublimeLinter 3 plugin running syntax tests in Sublime Text
+[SublimeLinter-contrib-sublime-syntax](https://packagecontrol.io/packages/SublimeLinter-contrib-sublime-syntax) - SublimeLinter plugin for running syntax tests in Sublime Text
 
 [SublimeLinter-contrib-swaglint](https://packagecontrol.io/packages/SublimeLinter-contrib-swaglint) - A Sublime Text integration for swaglint
 
@@ -7041,7 +7580,13 @@ to PEP8 (Style Guide for Python Code).
 
 [SublimeLinter-contrib-tailor](https://packagecontrol.io/packages/SublimeLinter-contrib-tailor) - Sublime Linter 3 plugin for swift with tailor
 
+[SublimeLinter-contrib-terraform](https://packagecontrol.io/packages/SublimeLinter-contrib-terraform) -  This linter plugin for SublimeLinter provides an interface to Terraform validate
+
 [SublimeLinter-contrib-textlint](https://packagecontrol.io/packages/SublimeLinter-contrib-textlint) - This linter plugin for SublimeLinter provides an interface to ESLint
+
+[SublimeLinter-contrib-tlint](https://packagecontrol.io/packages/SublimeLinter-contrib-tlint) - tlint-sublime-plugin
+
+[SublimeLinter-contrib-ts-standard](https://packagecontrol.io/packages/SublimeLinter-contrib-ts-standard) - Adds support for ts-standard in SublimeLinter.
 
 [SublimeLinter-contrib-twiglint](https://packagecontrol.io/packages/SublimeLinter-contrib-twiglint) - SublimeLinter3 plugin for twig
 
@@ -7071,6 +7616,8 @@ to PEP8 (Style Guide for Python Code).
 
 [SublimeLinter-csslint](https://packagecontrol.io/packages/SublimeLinter-csslint) - SublimeLinter plugin for CSS, using csslint.
 
+[SublimeLinter-erlc](https://packagecontrol.io/packages/SublimeLinter-erlc) - SublimeLinter plugin for Erlang, using erlc
+
 [SublimeLinter-eslint](https://packagecontrol.io/packages/SublimeLinter-eslint) - This linter plugin for SublimeLinter provides an interface to ESLint
 
 [SublimeLinter-flake8](https://packagecontrol.io/packages/SublimeLinter-flake8) - SublimeLinter plugin for python, using flake8.
@@ -7082,6 +7629,8 @@ to PEP8 (Style Guide for Python Code).
 [SublimeLinter-ghc](https://packagecontrol.io/packages/SublimeLinter-ghc) - SublimeLinter 3 plugin for Haskell, using ghc -Wall.
 
 [SublimeLinter-gjslint](https://packagecontrol.io/packages/SublimeLinter-gjslint) - SublimeLinter plugin for JavaScript, using gjslint.
+
+[SublimeLinter-golangcilint](https://packagecontrol.io/packages/SublimeLinter-golangcilint) - This linter plugin for SublimeLinter provides an interface to golangci-lint.
 
 [SublimeLinter-golint](https://packagecontrol.io/packages/SublimeLinter-golint) - This linter plugin for SublimeLinter provides an interface to golint.
 
@@ -7125,6 +7674,8 @@ to PEP8 (Style Guide for Python Code).
 
 [SublimeLinter-phpmd](https://packagecontrol.io/packages/SublimeLinter-phpmd) - SublimeLinter plugin for php, using phpmd.
 
+[SublimeLinter-pug-lint](https://packagecontrol.io/packages/SublimeLinter-pug-lint) - SublimeLinter plugin for Pug (formerly Jade), using pug-lint
+
 [SublimeLinter-pycodestyle](https://packagecontrol.io/packages/SublimeLinter-pycodestyle) - SublimeLinter plugin for python, using pycodestyle.
 
 [SublimeLinter-pydocstyle](https://packagecontrol.io/packages/SublimeLinter-pydocstyle) - SublimeLinter plugin for python, using pydocstyle.
@@ -7134,6 +7685,8 @@ to PEP8 (Style Guide for Python Code).
 [SublimeLinter-pylint](https://packagecontrol.io/packages/SublimeLinter-pylint) - SublimeLinter plugin for python, using pylint.
 
 [SublimeLinter-pyyaml](https://packagecontrol.io/packages/SublimeLinter-pyyaml) - Deprecated plugin for SublimeLinter for pyyaml. Use yamllint instead.
+
+[SublimeLinter-raml-cop](https://packagecontrol.io/packages/SublimeLinter-raml-cop) - SublimeLinter plugin for RAML, using raml-cop.
 
 [SublimeLinter-rst](https://packagecontrol.io/packages/SublimeLinter-rst) - Deprecated SublimeLinter plugin for reStructuredText, using docutils.
 
@@ -7181,9 +7734,11 @@ to PEP8 (Style Guide for Python Code).
 
 [SublimeSBT](https://packagecontrol.io/packages/SublimeSBT) - SBT build tool integration for Sublime Text 2 and Sublime Text 3.
 
-[SublimeServer](https://packagecontrol.io/packages/SublimeServer) - Make Sublime as a HTTP server, compatible with sublime 3
+[SublimeServer](https://packagecontrol.io/packages/SublimeServer) - [DEAD PROJECT]Make Sublime as a HTTP server, compatible with sublime 3
 
 [SublimeSimpleSync](https://packagecontrol.io/packages/SublimeSimpleSync) - Simple ST2/ST3 plugin for synchronize local and remote files
+
+[SublimeSmartBASIC](https://packagecontrol.io/packages/SublimeSmartBASIC) - SmartBASIC language syntax file for Sublime Text editor.
 
 [SublimeTalkincode](https://packagecontrol.io/packages/SublimeTalkincode) - Sublime Text 2 plugin for share source code and publish topic to Talkincode
 
@@ -7231,6 +7786,8 @@ to PEP8 (Style Guide for Python Code).
 
 [SummitLinter](https://packagecontrol.io/packages/SummitLinter) - SublimeLinter plugin for the CorvisaCloud Summit platform
 
+[SumoSwissKnife](https://packagecontrol.io/packages/SumoSwissKnife) - Sublime Text Swiss Knife For Sumo Logic
+
 [SunCycle](https://packagecontrol.io/packages/SunCycle) - Sublime Text layout switch based on sunrise and sunset at your location.
 
 [Sunnyvale Color Scheme](https://packagecontrol.io/packages/Sunnyvale%20Color%20Scheme) - Sunnyvale Theme for Sublime Text, Textmate and Chrome DevTools
@@ -7255,7 +7812,7 @@ to PEP8 (Style Guide for Python Code).
 
 [SuperSelect](https://packagecontrol.io/packages/SuperSelect) - Extended Sublime selection capabilities 
 
-[SuperSettings](https://packagecontrol.io/packages/SuperSettings) - Sublime Text package which allows you to have different settings per folder or project by simply using per-directory settings files.
+[SuperSettings](https://packagecontrol.io/packages/SuperSettings) - A Sublime Text package that enables per-directory configuration.
 
 [Superlime](https://packagecontrol.io/packages/Superlime) - Save as root in SublimeText - 
 
@@ -7271,7 +7828,11 @@ to PEP8 (Style Guide for Python Code).
 
 [Susy Snippets](https://packagecontrol.io/packages/Susy%20Snippets) - Susy Functions and Mixins for Sublime Text
 
-[Svelte](https://packagecontrol.io/packages/Svelte) - 💡Sublime Text syntax highlighting for Svelte components
+[Svelte](https://packagecontrol.io/packages/Svelte) - 💡Sublime Text syntax highlighting for Svelte 3 components
+
+[Svelte Snippets](https://packagecontrol.io/packages/Svelte%20Snippets) - Svelte snippets for Sublime Text
+
+[Swan](https://packagecontrol.io/packages/Swan) - sublime plugin of smartprogram
 
 [Swap Selections](https://packagecontrol.io/packages/Swap%20Selections) - Swaps the text of the current selections. A command for Sublime Text 2 and 3.
 
@@ -7283,9 +7844,9 @@ to PEP8 (Style Guide for Python Code).
 
 [Swift Completion](https://packagecontrol.io/packages/Swift%20Completion) - Minimal swift completion for sublime text
 
-[Swift Foundation Completions](https://packagecontrol.io/packages/Swift%20Foundation%20Completions) - A SublimeText autocomplete snippet package for the Swift Foundation framework.
+[Swift Format](https://packagecontrol.io/packages/Swift%20Format) - Swift Formatter / Syntax Checker for Sublime Text 3
 
-[Swift for F*ing Sublime](https://packagecontrol.io/packages/Swift%20for%20F%2Aing%20Sublime) - Swift language grammar that doesn&#x27;t suck.
+[Swift Foundation Completions](https://packagecontrol.io/packages/Swift%20Foundation%20Completions) - A SublimeText autocomplete snippet package for the Swift Foundation framework.
 
 [SwiftKitten](https://packagecontrol.io/packages/SwiftKitten) - Swift autocompleter for Sublime Text, via the adorable SourceKitten framework
 
@@ -7296,8 +7857,6 @@ to PEP8 (Style Guide for Python Code).
 [Switch File Deluxe](https://packagecontrol.io/packages/Switch%20File%20Deluxe) - Switch header/source based on generic suffixes (not just the extension).
 
 [Switch Script](https://packagecontrol.io/packages/Switch%20Script) - A Sublime Text 2 plugin for switching between header and implementation scripts.
-
-[Switch Settings](https://packagecontrol.io/packages/Switch%20Settings) - This Sublime Text package makes it possible to switch another settings (User/Preferences.sublime-settings).
 
 [Switch View in Group](https://packagecontrol.io/packages/Switch%20View%20in%20Group) - :pencil2: Fixes Sublime Text 2&#x27;s view/tab-switching behaviour to rotate inside the current group, rather than spanning between groups.
 
@@ -7317,6 +7876,8 @@ to PEP8 (Style Guide for Python Code).
 
 [Symitar](https://packagecontrol.io/packages/Symitar) - Symitar Syntax Highlighting &amp; Snippets
 
+[Sync Merge Scheme](https://packagecontrol.io/packages/Sync%20Merge%20Scheme) - Sync UI Schemes between Sublime Text and Sublime Merge
+
 [Sync Settings](https://packagecontrol.io/packages/Sync%20Settings) - Sync Settings - The cross-platform solution to keep Sublime Text configuration synchronized
 
 [Sync View Scroll](https://packagecontrol.io/packages/Sync%20View%20Scroll) - sublimetext3 sync scroll among views
@@ -7332,6 +7893,10 @@ to PEP8 (Style Guide for Python Code).
 [Syncrow](https://packagecontrol.io/packages/Syncrow) - Create and Sync Snippets.
 
 [Synesthesia](https://packagecontrol.io/packages/Synesthesia) - Sublime Text plugin for highlighting text with pretty colours
+
+[Synonymizer](https://packagecontrol.io/packages/Synonymizer) - Find and chose synonyms directly from within sublime
+
+[Syntax Highlighting Scopes Showroom](https://packagecontrol.io/packages/Syntax%20Highlighting%20Scopes%20Showroom) - Highlights syntax scopes to simplify syntax highlighting extensions development
 
 [Syntax Highlighting for PostCSS](https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20PostCSS) - PostCSS syntax highlighting for Sublime Text.
 
@@ -7357,11 +7922,11 @@ to PEP8 (Style Guide for Python Code).
 
 [SyntaxFold](https://packagecontrol.io/packages/SyntaxFold) - Sublime Text Plugin that provides a configurable command and popup for folding code based on syntax
 
-[SyntaxHighlightTools](https://packagecontrol.io/packages/SyntaxHighlightTools) - Easier Syntax Highlight and Theme Definition.
-
-[SyntaxHighlighter Reloaded Color Scheme](https://packagecontrol.io/packages/SyntaxHighlighter%20Reloaded%20Color%20Scheme) - Sublime Text SyntaxHighlighter Theme
+[SyntaxHighlighter Reloaded Color Scheme](https://packagecontrol.io/packages/SyntaxHighlighter%20Reloaded%20Color%20Scheme) - SyntaxHighlighter Theme for Sublime Text Editor
 
 [SyntaxManager](https://packagecontrol.io/packages/SyntaxManager) - Applying settings to a given syntax/extension
+
+[SynthWave 84 - Color Scheme](https://packagecontrol.io/packages/SynthWave%2084%20-%20Color%20Scheme) - Synthwave inspired colour theme for Sublime Text
 
 [SysLog](https://packagecontrol.io/packages/SysLog) - Syslog Config Highlighting for Sublime Text
 
@@ -7377,29 +7942,33 @@ to PEP8 (Style Guide for Python Code).
 
 [TJ3-syntax-sublimetext2](https://packagecontrol.io/packages/TJ3-syntax-sublimetext2) - Taskjuggler 3 syntax and code snippets for Sublime Text 2
 
+[TLAPlus](https://packagecontrol.io/packages/TLAPlus) - TLA+ syntax highlighting for Sublime Text 3
+
 [TM1 Planning Analytics Developer Tools](https://packagecontrol.io/packages/TM1%20Planning%20Analytics%20Developer%20Tools) - Sublime-TM1 is a Sublime Text 3 add-in that assists TM1 / Planning Analytics developers
 
 [TOML](https://packagecontrol.io/packages/TOML) - Sublime Text 2/3 syntax highlighting for .toml/.tml format
 
+[TSL Text Scraping Language](https://packagecontrol.io/packages/TSL%20Text%20Scraping%20Language) - Python-based text scraping language (pseudo code-style)
+
 [TSQLEasy](https://packagecontrol.io/packages/TSQLEasy) - TSQL Easy is a plugin for Sublime Text, that adds possibility to read/write/execute sql requests to Microsoft SQL Server through the use of pyodbc library.
 
-[TWiki](https://packagecontrol.io/packages/TWiki) - TWiki and Foswiki markup editing package for Sublime Text 2 and 3
+[TWiki](https://packagecontrol.io/packages/TWiki) - Sublime Text package that provides language support for the TWiki and Foswiki markup language 
 
 [TXL syntax highlighting](https://packagecontrol.io/packages/TXL%20syntax%20highlighting) - Syntax 
 
 [TXT2PYNB](https://packagecontrol.io/packages/TXT2PYNB) - Converts text script to iPython notebook
 
-[TYPO3 Fluid Snippets](https://packagecontrol.io/packages/TYPO3%20Fluid%20Snippets) - Add snippets for TYPO3 Fluid core ViewHelpers to Sublime Text Editor.
-
 [Tab Filter](https://packagecontrol.io/packages/Tab%20Filter) - A simple Sublime plugin to filter tabs open in the current window
 
-[TabNine](https://packagecontrol.io/packages/TabNine) - Sublime Text client for TabNine
+[TabNav](https://packagecontrol.io/packages/TabNav) - Sublime Text plugin for keyboard navigation of tables in text files. Supports: Markdown, Org Mode, Textile, CSV.
 
 [TabNukerNuker](https://packagecontrol.io/packages/TabNukerNuker) - Fix sublime text&#x27;s broken spaces indentation
 
 [TabSnippets](https://packagecontrol.io/packages/TabSnippets) - Fix annoying SublimeText issue with TAB inserting completion and not desired snippet
 
 [TabTeleport](https://packagecontrol.io/packages/TabTeleport) - TabTeleport is a plugin for the Sublime Text 3, which helps navigate between editor tabs without using a mouse.
+
+[TabToSpaceConverter](https://packagecontrol.io/packages/TabToSpaceConverter) - Convert tabs to spaces in Sublime Text and preserve inline alignments.
 
 [Tabify](https://packagecontrol.io/packages/Tabify) - A Sublime Text 3 package for viewing tab-delimited files
 
@@ -7411,9 +7980,11 @@ to PEP8 (Style Guide for Python Code).
 
 [Tabletop Simulator Lua](https://packagecontrol.io/packages/Tabletop%20Simulator%20Lua) - A plugin for Sublime Text to load and write Lua Scripts for Tabletop Simulator.
 
+[Tabnine](https://packagecontrol.io/packages/Tabnine) - Tabnine Autocomplete AI: JavaScript, Python, TypeScript, PHP, C/C++, HTML/CSS, Go, Java, Ruby, C#, Rust, SQL, Bash, Kotlin, Julia, Lua, OCaml, Perl, Haskell, React
+
 [Tabright](https://packagecontrol.io/packages/Tabright) - Plugin for Sublimetext to create new tabs on the right.
 
-[TabsExtra](https://packagecontrol.io/packages/TabsExtra) - Sublime Plugin with sticky tabs, more tab closing options, and additional menu items. http://facelessuser.github.io/TabsExtra/
+[TabsExtra](https://packagecontrol.io/packages/TabsExtra) - Sublime Plugin with sticky tabs, more tab closing options, and additional menu items.
 
 [TabsLimiter](https://packagecontrol.io/packages/TabsLimiter) - A Sublime Text plugin to limit the number of tabs. Once the limit is reached, newer tabs will just replace old ones.
 
@@ -7427,13 +7998,21 @@ to PEP8 (Style Guide for Python Code).
 
 [Tagify](https://packagecontrol.io/packages/Tagify) - Put tags in your code
 
+[Tailwind CSS](https://packagecontrol.io/packages/Tailwind%20CSS) - A Sublime Text CSS syntax extension with support for Tailwind CSS
+
 [Tailwind CSS Autocomplete](https://packagecontrol.io/packages/Tailwind%20CSS%20Autocomplete) - Tailwind CSS Autocomplete for Sublime Text 3
 
 [Tailwind CSS Docs](https://packagecontrol.io/packages/Tailwind%20CSS%20Docs) - Easily navigate to Tailwind CSS docs pages from within Sublime Text
 
+[Tailwind Reorder](https://packagecontrol.io/packages/Tailwind%20Reorder) - No description provided
+
+[TailwindCSSAutocomplete](https://packagecontrol.io/packages/TailwindCSSAutocomplete) - No description provided
+
 [Takana](https://packagecontrol.io/packages/Takana) - Takana Sublime Text Plugin
 
 [TamarinProver](https://packagecontrol.io/packages/TamarinProver) - Repository for text editor (sublime) syntax highlighting
+
+[Target](https://packagecontrol.io/packages/Target) - Thrustmaster T.A.R.G.E.T. for Sublime Text 3.
 
 [Task](https://packagecontrol.io/packages/Task) - Sublime Text Task Plugin
 
@@ -7454,6 +8033,8 @@ to PEP8 (Style Guide for Python Code).
 [TeaCode Helper](https://packagecontrol.io/packages/TeaCode%20Helper) - No description provided
 
 [Teaspoon](https://packagecontrol.io/packages/Teaspoon) - Sublime Text 2 plugin for running javascript tests.(By teaspoon)
+
+[Teenage Color Scheme](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) - A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments.
 
 [Telerik AppBuilder](https://packagecontrol.io/packages/Telerik%20AppBuilder) - Sublime Package for Telerik AppBuilder
 
@@ -7481,13 +8062,15 @@ to PEP8 (Style Guide for Python Code).
 
 [Terminality](https://packagecontrol.io/packages/Terminality) - A Sublime Text 3 Plugin for Sublime Text&#x27;s Internal Console
 
-[Terminus](https://packagecontrol.io/packages/Terminus) - Best Terminal Emulator of Sublime Text.
+[Terminus](https://packagecontrol.io/packages/Terminus) - Bring a real terminal to Sublime Text
 
 [TernJS](https://packagecontrol.io/packages/TernJS) - TernJS plugin for Sublime Text
 
 [Terrafmt](https://packagecontrol.io/packages/Terrafmt) - Sublime Text - Format Terraform files when saving
 
 [Terraform](https://packagecontrol.io/packages/Terraform) - Terraform (HCL) configuration file syntax highlighting for Sublime Text 2 and 3
+
+[TerraformSnippets-AWS](https://packagecontrol.io/packages/TerraformSnippets-AWS) - Terraform snippets for Sublime Text 3
 
 [Test](https://packagecontrol.io/packages/Test) - Run your tests at the speed of thought.
 
@@ -7507,9 +8090,13 @@ to PEP8 (Style Guide for Python Code).
 
 [TestRSpec](https://packagecontrol.io/packages/TestRSpec) - RSpec plugin for Sublime Text 3
 
+[Testo Highlighter](https://packagecontrol.io/packages/Testo%20Highlighter) - package repository for Testo framework
+
+[Text Highlighter](https://packagecontrol.io/packages/Text%20Highlighter) - No description provided
+
 [Text Marker](https://packagecontrol.io/packages/Text%20Marker) - 🖍 Text Marker (Highlighter) highlights words in Sublime Text
 
-[Text Pastry](https://packagecontrol.io/packages/Text%20Pastry) - Extend the power of multiple selections in Sublime Text 2/3. Modify selections, insert numeric sequences, incremental numbers, generate uuids, date ranges, insert continuously from a word list and more.
+[Text Pastry](https://packagecontrol.io/packages/Text%20Pastry) - Extend the power of multiple selections in Sublime Text. Modify selections, insert numeric sequences, incremental numbers, generate uuids, date ranges, insert continuously from a word list and more.
 
 [Text Reader](https://packagecontrol.io/packages/Text%20Reader) - Text Reading Mode for Sublime Text 2
 
@@ -7519,11 +8106,11 @@ to PEP8 (Style Guide for Python Code).
 
 [TextFormatting](https://packagecontrol.io/packages/TextFormatting) - Adds text-formatting tricks to Sublime Text.  Mostly for PEP8 formatting.
 
+[TextToSpeech](https://packagecontrol.io/packages/TextToSpeech) - Text-to-speech (TTS) plugin for Sublime Text.
+
 [Theme - Afterglow](https://packagecontrol.io/packages/Theme%20-%20Afterglow) - A minimal dark Theme for Sublime Text 2 and 3
 
 [Theme - Alpenglow](https://packagecontrol.io/packages/Theme%20-%20Alpenglow) - Spiritual successor to @yabatadesign&#x27;s Afterglow theme for Sublime Text 2/3
-
-[Theme - Aprosopo](https://packagecontrol.io/packages/Theme%20-%20Aprosopo) - A Sublime Text Theme
 
 [Theme - Aqua](https://packagecontrol.io/packages/Theme%20-%20Aqua) - A Sublime Text 2 theme to match the native OS X AppKit and ProKit themes.
 
@@ -7563,6 +8150,8 @@ to PEP8 (Style Guide for Python Code).
 
 [Theme - Cyanide](https://packagecontrol.io/packages/Theme%20-%20Cyanide) - Minimal dark theme for Sublime Text 3
 
+[Theme - DAneo](https://packagecontrol.io/packages/Theme%20-%20DAneo) - A theme for Sublime Text 3.2+ inspired by the popular DA UI
+
 [Theme - DC](https://packagecontrol.io/packages/Theme%20-%20DC) - Dark interface theme for SublimeText
 
 [Theme - Dark Eight](https://packagecontrol.io/packages/Theme%20-%20Dark%20Eight) - A dark theme matching Windows 8&#x27;s chrome for Sublime Text 2/3
@@ -7597,11 +8186,11 @@ to PEP8 (Style Guide for Python Code).
 
 [Theme - Fox](https://packagecontrol.io/packages/Theme%20-%20Fox) - A UI + syntax theme for @SublimeText based on Mozilla&#x27;s Firefox Developer Edition.
 
-[Theme - Freesia](https://packagecontrol.io/packages/Theme%20-%20Freesia) - Freesia theme for Sublime Text 3.
+[Theme - Freesia](https://packagecontrol.io/packages/Theme%20-%20Freesia) - Freesia theme for Sublime Text 3. (Unmaintained.)
 
 [Theme - Glacier](https://packagecontrol.io/packages/Theme%20-%20Glacier) - Glacier is a flat, colorful theme/scheme combo for Sublime Text.
 
-[Theme - Gravity](https://packagecontrol.io/packages/Theme%20-%20Gravity) - A Sublime Text 3 theme that feels right at home on macOS
+[Theme - Gravity](https://packagecontrol.io/packages/Theme%20-%20Gravity) - A Sublime Text theme that feels right at home on macOS
 
 [Theme - Haft Lang](https://packagecontrol.io/packages/Theme%20-%20Haft%20Lang) - Dark, flat, and minimal theme with pretty color schemes for Sublime Text.
 
@@ -7635,7 +8224,7 @@ to PEP8 (Style Guide for Python Code).
 
 [Theme - Moka](https://packagecontrol.io/packages/Theme%20-%20Moka) - Moka theme for Sublime Text 2/3 (unmaintained)
 
-[Theme - Monokai Pro](https://packagecontrol.io/packages/Theme%20-%20Monokai%20Pro) - Beautiful functionality for professional developers, from the author of the original Monokai color scheme.
+[Theme - Monokai Pro](https://packagecontrol.io/packages/Theme%20-%20Monokai%20Pro) - Professional theme and matching icons, from the author of the original Monokai color scheme.
 
 [Theme - Monokai+](https://packagecontrol.io/packages/Theme%20-%20Monokai%2B) - A Monokai+ theme for Sublime Text 3. Already adapt to Build 3143.
 
@@ -7643,11 +8232,13 @@ to PEP8 (Style Guide for Python Code).
 
 [Theme - Night](https://packagecontrol.io/packages/Theme%20-%20Night) - Night Theme for Sublime Text 2
 
-[Theme - Nil](https://packagecontrol.io/packages/Theme%20-%20Nil) - Minimalist Sublime Text 2 UI dark and light themes and color schemes. Includes HDPI support for retina displays.
+[Theme - Nil](https://packagecontrol.io/packages/Theme%20-%20Nil) - Minimalist Sublime Text 2 UI dark and light themes and color schemes. Includes HDPI support for retina displays. (Unmaintained)
 
 [Theme - Numix](https://packagecontrol.io/packages/Theme%20-%20Numix) - Numix theme for Sublime Text 3
 
 [Theme - Numix Light](https://packagecontrol.io/packages/Theme%20-%20Numix%20Light) - Numix light theme for Sublime Text 3
+
+[Theme - One](https://packagecontrol.io/packages/Theme%20-%20One) - A port of Atom&#x27;s One Dark and One Light UI and Syntax Themes.
 
 [Theme - One Dark](https://packagecontrol.io/packages/Theme%20-%20One%20Dark) - One Dark theme for Sublime Text
 
@@ -7657,17 +8248,17 @@ to PEP8 (Style Guide for Python Code).
 
 [Theme - Outlined](https://packagecontrol.io/packages/Theme%20-%20Outlined) - An adaptive theme for Sublime Text 3
 
-[Theme - Pacific](https://packagecontrol.io/packages/Theme%20-%20Pacific) - Sublime 3 theme based on Codecademy latest editor
+[Theme - Pacific](https://packagecontrol.io/packages/Theme%20-%20Pacific) - Sublime 3 theme based on Codecademy latest editor. Also available in ATOM and VISUAL STUDIO CODE
 
 [Theme - Petroleum](https://packagecontrol.io/packages/Theme%20-%20Petroleum) - A very dark clone of Soda Theme
 
 [Theme - Phoenix](https://packagecontrol.io/packages/Theme%20-%20Phoenix) - Dark &amp; Light custom UI themes with colors variations for Sublime Text 2
 
-[Theme - Piatto](https://packagecontrol.io/packages/Theme%20-%20Piatto) - Flat style theme for Sublime Text
+[Theme - Pigment](https://packagecontrol.io/packages/Theme%20-%20Pigment) - Slick Sublime Text theme that adapts!
 
 [Theme - Praxis](https://packagecontrol.io/packages/Theme%20-%20Praxis) - A Sublime Text 3 theme based on the Monokai color scheme
 
-[Theme - Primer](https://packagecontrol.io/packages/Theme%20-%20Primer) - A UI + syntax theme for @SublimeText inspired by GitHub&#x27;s UI.
+[Theme - Primer](https://packagecontrol.io/packages/Theme%20-%20Primer) - ⚠️ No longer supported ⚠️ - A UI + syntax theme for @SublimeText inspired by GitHub&#x27;s UI.
 
 [Theme - Pseudo OSX](https://packagecontrol.io/packages/Theme%20-%20Pseudo%20OSX) - Sublime Text 2 UI theme
 
@@ -7680,8 +8271,6 @@ to PEP8 (Style Guide for Python Code).
 [Theme - Refined](https://packagecontrol.io/packages/Theme%20-%20Refined) - A Sublime Text 2 theme, forked from the Aqua Theme.
 
 [Theme - Refresh](https://packagecontrol.io/packages/Theme%20-%20Refresh) - Sublime Text 2 UI theme
-
-[Theme - Sea Lion](https://packagecontrol.io/packages/Theme%20-%20Sea%20Lion) - Sea Lion Theme for Sublime Text 3
 
 [Theme - Seti Monokai](https://packagecontrol.io/packages/Theme%20-%20Seti%20Monokai) - 🍁 Modified Set of Seti_UI, Monokai Color Scheme for Sublime Text 3
 
@@ -7733,6 +8322,8 @@ to PEP8 (Style Guide for Python Code).
 
 [Theme - itg.flat](https://packagecontrol.io/packages/Theme%20-%20itg.flat) - A flat theme for Sublime Text that supports both retina and non-retina.
 
+[Theme - zero-dark](https://packagecontrol.io/packages/Theme%20-%20zero-dark) - No description provided
+
 [ThemeAutomator](https://packagecontrol.io/packages/ThemeAutomator) - :eyeglasses: Sets a color scheme by filetype
 
 [ThemeScheduler](https://packagecontrol.io/packages/ThemeScheduler) - Sublime plugin to change your theme or apply filters to your themes at different times of the day
@@ -7761,8 +8352,6 @@ to PEP8 (Style Guide for Python Code).
 
 [TicketMaster](https://packagecontrol.io/packages/TicketMaster) - Sublime Plugin for creating GitHub Issues from TODO tags
 
-[TideSDK Autocomplete](https://packagecontrol.io/packages/TideSDK%20Autocomplete) - TideSDK API autocompletion for Sublime Text editor
-
 [TidyHTML5](https://packagecontrol.io/packages/TidyHTML5) - Cleanup you html files with SublimeTidyHTML. Parse your files with W3C&#x27;s tidy-html5 locally. No php required nor webservice call.
 
 [TidyTabs](https://packagecontrol.io/packages/TidyTabs) - A simple plugin for Sublime Text that allows old tabs to be closed with a configurable keystroke (ctrl-alt-w by default).
@@ -7773,13 +8362,15 @@ to PEP8 (Style Guide for Python Code).
 
 [Timestamp converter](https://packagecontrol.io/packages/Timestamp%20converter) - A plugin to manage timestamp in Sublime Text
 
-[TinTin++ Syntax Highlighter](https://packagecontrol.io/packages/TinTin%2B%2B%20Syntax%20Highlighter) - Sublime Text 3 Syntax Highlighter for TinTin++ Scripts.
-
-TinTin++ is a terminal-based MUD client.
-
 [Tinacious Design colour scheme](https://packagecontrol.io/packages/Tinacious%20Design%20colour%20scheme) - :traffic_light: Tinacious Design syntax theme for Sublime Text.
 
+[Tinkerwell](https://packagecontrol.io/packages/Tinkerwell) - Tinker with your PHP projects like never before.
+
 [Tint](https://packagecontrol.io/packages/Tint) - Tint - Terminal in a Tab (for sublime)
+
+[TinyCodeCounter](https://packagecontrol.io/packages/TinyCodeCounter) - Character counter that helps you keep track of how close you are to 280 characters and allows you to easily remove whitespace when writing tiny code to be posted on Twitter!
+
+[TinyScheme Auto-Complete](https://packagecontrol.io/packages/TinyScheme%20Auto-Complete) - A Sublime Text Auto-Complete plugin for TinyScheme (a dialect of Scheme programming language).
 
 [Titan Edge Highlighter](https://packagecontrol.io/packages/Titan%20Edge%20Highlighter) - Titan Edge Highlighter
 
@@ -7843,6 +8434,8 @@ TinTin++ is a terminal-based MUD client.
 
 [TomDoc+](https://packagecontrol.io/packages/TomDoc%2B) - TomDoc package for Sublime Text 2
 
+[Tomato Time](https://packagecontrol.io/packages/Tomato%20Time) - a sublime plugin to use tomato time
+
 [TomcatMavenHotReload](https://packagecontrol.io/packages/TomcatMavenHotReload) - ST plugin to update static resources in META-INF when using Tomcat maven plugin
 
 [Tomorrow Color Schemes](https://packagecontrol.io/packages/Tomorrow%20Color%20Schemes) - Tomorrow Color Schemes for SublimeText 2
@@ -7850,6 +8443,8 @@ TinTin++ is a terminal-based MUD client.
 [Tomorrow Night Italics Color Scheme](https://packagecontrol.io/packages/Tomorrow%20Night%20Italics%20Color%20Scheme) - Tomorrow Night Color Schemes for SublimeText 3, with Italics on comments!
 
 [Toned Color Scheme](https://packagecontrol.io/packages/Toned%20Color%20Scheme) - No description provided
+
+[Tony Water](https://packagecontrol.io/packages/Tony%20Water) - 一个拖泥带水的 sublime-text 插件
 
 [ToolRunner](https://packagecontrol.io/packages/ToolRunner) - Execute a command-line tool with the contents of the buffer
 
@@ -7859,7 +8454,7 @@ TinTin++ is a terminal-based MUD client.
 
 [TopCoder Helper](https://packagecontrol.io/packages/TopCoder%20Helper) - A Sublime Text 3 plugin that helps you write TopCoder problems
 
-[Topas Syntax](https://packagecontrol.io/packages/Topas%20Syntax) - Syntax highlighting for TOPAS parameter files
+[Topas Syntax](https://packagecontrol.io/packages/Topas%20Syntax) - Syntax highlighting for TOPAS in Sublime Text
 
 [Tornado](https://packagecontrol.io/packages/Tornado) - Template syntax for Python&#x27;s Tornado web framework.
 
@@ -7887,11 +8482,9 @@ TinTin++ is a terminal-based MUD client.
 
 [TrailingSpaces](https://packagecontrol.io/packages/TrailingSpaces) - Highlight trailing spaces and delete them in a flash.
 
-[Trainz Config](https://packagecontrol.io/packages/Trainz%20Config) - Language definition for Trainz Config.txt files for Sublime Text
+[Trainz Config](https://packagecontrol.io/packages/Trainz%20Config) - Language definition for Trainz Config.txt files for VSCode
 
 [Transcrypt](https://packagecontrol.io/packages/Transcrypt) - Encode and decode text in Sublime Text 3
-
-[Transience](https://packagecontrol.io/packages/Transience) - A Sublime Text 2 and 3 plugin that ensures you will always have a permanent preview of a transient file open when all tabs are closed wherever possible
 
 [Translate](https://packagecontrol.io/packages/Translate) - a translation plugin for sublime text 2
 
@@ -7927,8 +8520,6 @@ TinTin++ is a terminal-based MUD client.
 
 [Troubleshooting](https://packagecontrol.io/packages/Troubleshooting) - Troubleshooting and error reporting tools for Sublime Text users.
 
-[Tryton Snippets](https://packagecontrol.io/packages/Tryton%20Snippets) - No description provided
-
 [TtcnComplete](https://packagecontrol.io/packages/TtcnComplete) - Sublime Text 3 plugin that offers auto-completion, Goto Definition and syntax highlight for TTCN-3 and ASN.1
 
 [Tubaina (afc)](https://packagecontrol.io/packages/Tubaina%20%28afc%29) - Package for sublime with syntax highlight and snippets of tubaina&#x27;s afc format
@@ -7943,13 +8534,15 @@ TinTin++ is a terminal-based MUD client.
 
 [Turtle RDF Syntax](https://packagecontrol.io/packages/Turtle%20RDF%20Syntax) - Syntax highlighting for Turtle RDF data
 
+[Tutkain](https://packagecontrol.io/packages/Tutkain) - A Sublime Text package for writing Clojure, powered by nREPL
+
 [Twee](https://packagecontrol.io/packages/Twee) - Twee syntax highlighting for Sublime Text 2.
 
 [TweetLine](https://packagecontrol.io/packages/TweetLine) - make it easy to tweet from sublime text 2
 
 [TwelfTools](https://packagecontrol.io/packages/TwelfTools) - No description provided
 
-[Twig](https://packagecontrol.io/packages/Twig) - No description provided
+[Twig](https://packagecontrol.io/packages/Twig) - A Sublime Text Package that provides syntax highlighting, completions, snippets &amp; more for PHP Twig templates.
 
 [Twilight+](https://packagecontrol.io/packages/Twilight%2B) - Twilight color scheme for Sublime Text with Markdown highlighting
 
@@ -7971,8 +8564,6 @@ TinTin++ is a terminal-based MUD client.
 
 [TypeShort](https://packagecontrol.io/packages/TypeShort) - Replace placeholders into corresponding replacements in real-time while typing.
 
-[TypeSnippets](https://packagecontrol.io/packages/TypeSnippets) - Typographical and mathematical snippets for Sublime Text
-
 [TypeTodo](https://packagecontrol.io/packages/TypeTodo) - Sublime plugin that holds source code TODO comments within database
 
 [TypescriptCompletion](https://packagecontrol.io/packages/TypescriptCompletion) - Typescript auto completion with your project method name, and inject method manually with a module/class/method dictionary build from your TypeScript project 
@@ -7987,6 +8578,8 @@ TinTin++ is a terminal-based MUD client.
 
 [Typora Markdown App (OSX)](https://packagecontrol.io/packages/Typora%20Markdown%20App%20%28OSX%29) - Open your current file with Typora.app markdown editor in Sublime 2/3
 
+[UCFHighlighter](https://packagecontrol.io/packages/UCFHighlighter) - A Sublime Text 3 Package for Highlighting ISE UCF files for VHDL
+
 [UHM Syntax](https://packagecontrol.io/packages/UHM%20Syntax) - Syntax highlighting for UHM scripts (u-he Hive wavetables)
 
 [UIkit autocomplete](https://packagecontrol.io/packages/UIkit%20autocomplete) - Sublime Plugin
@@ -7996,6 +8589,8 @@ TinTin++ is a terminal-based MUD client.
 [UNIFA](https://packagecontrol.io/packages/UNIFA) - A collection of plugins for Sublime Text to ease working in the UNIFA Environment.
 
 [URLEncode](https://packagecontrol.io/packages/URLEncode) - Sublime Plugin to URL Encode/Decode
+
+[USFOS](https://packagecontrol.io/packages/USFOS) - USFOS syntax for Sublime Text 3
 
 [UWSC](https://packagecontrol.io/packages/UWSC) - Syntax highlighting and keyword completions for uws script on Sublime Text 2 and 3
 
@@ -8008,6 +8603,10 @@ TinTin++ is a terminal-based MUD client.
 [Ubuntu Unity Recents](https://packagecontrol.io/packages/Ubuntu%20Unity%20Recents) - It keeps a list of recents open folders in ubuntu unity launcher
 
 [UbuntuPaste](https://packagecontrol.io/packages/UbuntuPaste) - Sublime Text 2 plugin to paste code snippets to Ubuntu pastebin.
+
+[Ultimate Dark](https://packagecontrol.io/packages/Ultimate%20Dark) - The ultimate dark colour scheme for code
+
+[Ultimate Dark Neo](https://packagecontrol.io/packages/Ultimate%20Dark%20Neo) - Sublime Text 3 theme + scheme, inspired by Spacegray + Mariana
 
 [Ulysses Style Sheets](https://packagecontrol.io/packages/Ulysses%20Style%20Sheets) - Sublime Text 2 plugin for Ulysses Style Sheets
 
@@ -8034,8 +8633,6 @@ TinTin++ is a terminal-based MUD client.
 [UnicodeMath](https://packagecontrol.io/packages/UnicodeMath) - Plugin for Sublime for inserting unicode math symbols and emoji
 
 [UnicodeNormalizer](https://packagecontrol.io/packages/UnicodeNormalizer) - 🐶😺🐹 UnicodeNormalizer: A Sublime Text 3 package which allows for switching unicode normalization formats. 
-
-[UnicodeTeX](https://packagecontrol.io/packages/UnicodeTeX) - Plugin for unicode character entry in Sublime Text, targeted at LuaTeX.
 
 [UnindentPreprocessor](https://packagecontrol.io/packages/UnindentPreprocessor) - A plugin for Sublime Text for unindenting line when inserting preprocessor directive in C/C++ code
 
@@ -8073,6 +8670,10 @@ TinTin++ is a terminal-based MUD client.
 
 [Unquote](https://packagecontrol.io/packages/Unquote) - Simple ST3 plugin to provide shortcut for removing quotes around a selection
 
+[Unreal Shader](https://packagecontrol.io/packages/Unreal%20Shader) - Unreal Engine 4 shader editing, syntax hightlighting and more
+
+[Unreal Snippets](https://packagecontrol.io/packages/Unreal%20Snippets) - A collection of Sublime Text 3 snippets for writing Unreal Engine 4 game code
+
 [UnrealScriptIDE](https://packagecontrol.io/packages/UnrealScriptIDE) - Auto-completion, Syntax Highlighting, Go to Declaration, Build and Run and more..
 
 [Unsplash](https://packagecontrol.io/packages/Unsplash) - Unsplash for Sublime Text
@@ -8083,11 +8684,13 @@ TinTin++ is a terminal-based MUD client.
 
 [Updater](https://packagecontrol.io/packages/Updater) - Auto updater for Sublime Text 2 - currently Windows only
 
-[UrlConverter](https://packagecontrol.io/packages/UrlConverter) - A Sublime Text 3 package which converts raw urls to html/markdown links.
+[UrlConverter](https://packagecontrol.io/packages/UrlConverter) - 🌏 A Sublime Text 3 package which converts raw urls to html/markdown links.
+
+[Urtext](https://packagecontrol.io/packages/Urtext) - Urtext is a syntax and system for writing using plaintext. It is for prose writing, research, documentation, journaling, project organization, notetaking, and any other writing or information management that can be done in text form. For desktop use (PC/Mac/Linux) Urtext is implemented in Sublime Text.
 
 [UseStrict](https://packagecontrol.io/packages/UseStrict) - Package for Sublime Text 3. Insert &quot;use strict&quot; directive to the top of the file.
 
-[VAlign](https://packagecontrol.io/packages/VAlign) - Vertical alignment plugin for Sublime Text 2 and 3.
+[VAlign](https://packagecontrol.io/packages/VAlign) - Vertical alignment plugin for Sublime Text 2 and 3
 
 [VBDotNet](https://packagecontrol.io/packages/VBDotNet) - VB.Net Syntax for Sublime Text
 
@@ -8119,11 +8722,13 @@ TinTin++ is a terminal-based MUD client.
 
 [Vala-TMBundle](https://packagecontrol.io/packages/Vala-TMBundle) - A TextMate bundle for Vala development.
 
-[Vale](https://packagecontrol.io/packages/Vale) - A Sublime Text 3 package for Vale, the customizable linter for prose.
+[Vale](https://packagecontrol.io/packages/Vale) - A Sublime Text 3 client for Vale Server.
 
 [Valgrind](https://packagecontrol.io/packages/Valgrind) - Syntax highlighting and shortcuts for Valgrind in Sublime Text 3.
 
 [Vanilla lodash Snippets](https://packagecontrol.io/packages/Vanilla%20lodash%20Snippets) - lodash functions as snippets for Sublime Text
+
+[Vaporwave](https://packagecontrol.io/packages/Vaporwave) - Sublime Text Color Scheme
 
 [Var Type](https://packagecontrol.io/packages/Var%20Type) - No description provided
 
@@ -8147,13 +8752,19 @@ TinTin++ is a terminal-based MUD client.
 
 [Verilog Gadget](https://packagecontrol.io/packages/Verilog%20Gadget) - 🔧 Verilog plugin for Sublime Text 2/3. It helps to generate a simple testbench, instantiate a module, insert a user-header, repeat codes with formatted incremental/decremental numbers, etc.
 
+[View Bookmarks](https://packagecontrol.io/packages/View%20Bookmarks) - A sublime package to list all bookmarks
+
 [View In Browser](https://packagecontrol.io/packages/View%20In%20Browser) - Open the contents of your current view/tab in a web browser
 
 [View Movement](https://packagecontrol.io/packages/View%20Movement) - Add more advanced movement commands for Sublime Text 2
 
+[ViewSetting](https://packagecontrol.io/packages/ViewSetting) - Command to quickly retrieve the value of a setting in Sublime.
+
 [VimL](https://packagecontrol.io/packages/VimL) - VimL Package for Sublime Text.
 
 [VimModelines](https://packagecontrol.io/packages/VimModelines) - Sublime Text 3 plugin to parse and apply Vim modelines
+
+[Vimprov](https://packagecontrol.io/packages/Vimprov) - Simple vim-inspired extension for sublime text 3
 
 [Vintage Escape](https://packagecontrol.io/packages/Vintage%20Escape) - Closes the completion menu and exits insert mode when escape is pressed in Sublime Text 2 and 3 vintage vim mode.
 
@@ -8175,8 +8786,6 @@ TinTin++ is a terminal-based MUD client.
 
 [Vintageous](https://packagecontrol.io/packages/Vintageous) - Vi/Vim emulation for Sublime Text 3
 
-[Vintageous - Region To Selection](https://packagecontrol.io/packages/Vintageous%20-%20Region%20To%20Selection) - Vintageous: Convert your current search hits to a selection, All: Select other parts with same scope name, region to selection command.
-
 [VintageousOrigami](https://packagecontrol.io/packages/VintageousOrigami) - Add Vim like pane management to Vintageous using SublimeText/Origami
 
 [VintageousPluginSurround](https://packagecontrol.io/packages/VintageousPluginSurround) - Experimental plugin for Vintageous
@@ -8189,13 +8798,19 @@ TinTin++ is a terminal-based MUD client.
 
 [Visual Studio Bold Color Scheme](https://packagecontrol.io/packages/Visual%20Studio%20Bold%20Color%20Scheme) - Visual Studio with bold keywords color scheme for Sublime Text
 
+[Visual Studio Code Plus Scheme](https://packagecontrol.io/packages/Visual%20Studio%20Code%20Plus%20Scheme) - Visual Studio Code Colour Scheme for Sublime
+
 [Visual Studio Dark](https://packagecontrol.io/packages/Visual%20Studio%20Dark) - Dark Visual Studio color scheme for Sublime Text
+
+[Visual studio code](https://packagecontrol.io/packages/Visual%20studio%20code) - Open visual studio code from sublime, light integration
 
 [VisualChanger](https://packagecontrol.io/packages/VisualChanger) - VisualChanger allows you to add profiles that affect the editor settings and its plugins
 
 [Visualforce](https://packagecontrol.io/packages/Visualforce) - Visualforce bundle for Sublime Text 
 
 [VisualforcePreview](https://packagecontrol.io/packages/VisualforcePreview) - Provide basic functionality for a user to preview a Visualforce page in sublime
+
+[VisualizeZeroWidthChars](https://packagecontrol.io/packages/VisualizeZeroWidthChars) - [Deprecated] A Sublime Text 3 plugin which indicates locations of zero-width chars by default.
 
 [Vlt](https://packagecontrol.io/packages/Vlt) - (CQ) VLT integration for Sublime Text 2.
 
@@ -8204,8 +8819,6 @@ TinTin++ is a terminal-based MUD client.
 [VoiceCode](https://packagecontrol.io/packages/VoiceCode) - Sublime Text plugin that lets VoiceCode remote-control the editor
 
 [Volt](https://packagecontrol.io/packages/Volt) - Volt syntax highlight for Sublime Text 2/Textmate
-
-[Vorhees](https://packagecontrol.io/packages/Vorhees) - Dedicated JSON environment for Sublime Text 2
 
 [Voxa Framework Snippets](https://packagecontrol.io/packages/Voxa%20Framework%20Snippets) - Code snippets to speed up your Alexa skill development using the Voxa Framework
 
@@ -8225,8 +8838,6 @@ TinTin++ is a terminal-based MUD client.
 
 [Vuejs Snippets Airbnb](https://packagecontrol.io/packages/Vuejs%20Snippets%20Airbnb) - Vuejs Snippets for Sublime Text following Airbnb Styleguide
 
-[Vuetify](https://packagecontrol.io/packages/Vuetify) - Vuetify sublime extension
-
 [Vuln](https://packagecontrol.io/packages/Vuln) - Sublime Vuln Plugin
 
 [VvPHPDollar](https://packagecontrol.io/packages/VvPHPDollar) - Sublime Text Plugin for a convenient way to insert PHP Dollar.
@@ -8244,6 +8855,8 @@ WIP,  not production ready yet
 [WEOML Syntax](https://packagecontrol.io/packages/WEOML%20Syntax) - HTML syntax supercharged to recognize WEO keys in Sublime Text 3
 
 [WLST](https://packagecontrol.io/packages/WLST) - Sublime Text Plugin for WLST
+
+[WML](https://packagecontrol.io/packages/WML) - Adds support for the Wesnoth Markup Language.
 
 [WP Keygen](https://packagecontrol.io/packages/WP%20Keygen) - No description provided
 
@@ -8277,7 +8890,7 @@ WIP,  not production ready yet
 
 [WebDavSync](https://packagecontrol.io/packages/WebDavSync) - No description provided
 
-[WebDevShell](https://packagecontrol.io/packages/WebDevShell) - WebDevShell is a plugin for executing shell commands related to web apps development in Sublime Text. 
+[WebDevShell](https://packagecontrol.io/packages/WebDevShell) - Execute shell commands related to web apps development: Laravel Artisan, Composer, NPM, Yarn, Python, PHP, PHPStan, Psalm, ESLint and more!
 
 [WebExPert - ColorScheme](https://packagecontrol.io/packages/WebExPert%20-%20ColorScheme) - No description provided
 
@@ -8288,6 +8901,8 @@ WIP,  not production ready yet
 [WebGLCompletions](https://packagecontrol.io/packages/WebGLCompletions) - WebGL Completions for Sublime Text
 
 [WebHare](https://packagecontrol.io/packages/WebHare) - WebHare integration for Sublime Text
+
+[WebIDL](https://packagecontrol.io/packages/WebIDL) - Sublime Text syntax highlighting for WebIDL syntax defined by W3C
 
 [WebOS](https://packagecontrol.io/packages/WebOS) - Sublime Text plugin for doing development of WebOS apps for LG TVs
 
@@ -8307,6 +8922,8 @@ WIP,  not production ready yet
 
 [White Night Color Scheme](https://packagecontrol.io/packages/White%20Night%20Color%20Scheme) - White Night - an easy-on-the-eyes Sublime Text (2/3) color scheme
 
+[Whitelines](https://packagecontrol.io/packages/Whitelines) - A colour scheme for Sublime Text which is styled after Whitelines notepads
+
 [Whitespace](https://packagecontrol.io/packages/Whitespace) - Remove Trailing Whitespace for Sublime Text
 
 [Whitespace Diff Trim](https://packagecontrol.io/packages/Whitespace%20Diff%20Trim) - Only trim trailing whitespace on new lines.
@@ -8325,7 +8942,7 @@ WIP,  not production ready yet
 
 [Wiki](https://packagecontrol.io/packages/Wiki) - A simple system for maintaining a flat-file personal wiki in Sublime Text 2
 
-[Wild Cherry](https://packagecontrol.io/packages/Wild%20Cherry) - :princess::tulip::japanese_ogre: a fairy-tale inspired theme, with tasteful use of emojis
+[Wild Cherry](https://packagecontrol.io/packages/Wild%20Cherry) - :princess::tulip::japanese_ogre: A fairy-tale inspired theme, with tasteful use of emojis
 
 [Wildlife Color Scheme](https://packagecontrol.io/packages/Wildlife%20Color%20Scheme) - A vibrant colour scheme with git-gutter and SublimeLinter support. It supports over 75 languages 
 
@@ -8339,6 +8956,8 @@ WIP,  not production ready yet
 
 [Window Mode](https://packagecontrol.io/packages/Window%20Mode) - Displays the mode of each window in the status bar.
 
+[Windsor](https://packagecontrol.io/packages/Windsor) - The Sublime Text plugin for Windsor
+
 [Wisedu TrunPage Snippets](https://packagecontrol.io/packages/Wisedu%20TrunPage%20Snippets) - TrunPage snippet
 
 [Witch Hazel](https://packagecontrol.io/packages/Witch%20Hazel) - Witch Hazel color scheme package for Sublime Text
@@ -8347,7 +8966,9 @@ WIP,  not production ready yet
 
 [With Python](https://packagecontrol.io/packages/With%20Python) - &quot;Replace with Python&quot; for Sublime Text 2
 
-[WoWDevelopment](https://packagecontrol.io/packages/WoWDevelopment) - World of Warcraft syntax highlight, auto-completion and global finder/highlighter for Sublime Text 2/3.
+[Witness color scheme](https://packagecontrol.io/packages/Witness%20color%20scheme) - An approximation of Jonathan Blow&#x27;s Emacs color scheme for Sublime Text.
+
+[WoWDevelopment](https://packagecontrol.io/packages/WoWDevelopment) - World of Warcraft syntax highlight, auto-completion and global finder/highlighter for Sublime Text 2/3/4.
 
 [Wok](https://packagecontrol.io/packages/Wok) - A Sublimetext Package for wok, the static website generator. 
 
@@ -8387,9 +9008,13 @@ WIP,  not production ready yet
 
 [WordPress Generate Salts](https://packagecontrol.io/packages/WordPress%20Generate%20Salts) - A Sublime Text 3 Plugin for generating new WordPress salt keys.
 
+[WordPress Gutenburg Blocks Autocompletions](https://packagecontrol.io/packages/WordPress%20Gutenburg%20Blocks%20Autocompletions) - Autocompletion for Gutenberg blocks.
+
 [WordPress Internationalization (i18n)](https://packagecontrol.io/packages/WordPress%20Internationalization%20%28i18n%29) - Sublime WordPress I18N
 
 [WordPress Readme to Markdown](https://packagecontrol.io/packages/WordPress%20Readme%20to%20Markdown) - Sublime Text 2/3 - WordPress Readme to Markdown
+
+[WordPress Salts](https://packagecontrol.io/packages/WordPress%20Salts) - Context-aware WordPress salt key insertion for PHP, YAML and DotEnv files without the need of an internet-connection
 
 [WordPress Snippets](https://packagecontrol.io/packages/WordPress%20Snippets) - Wordpress Snippets for Sublime Text 3
 
@@ -8411,8 +9036,6 @@ WIP,  not production ready yet
 
 [WrapAsYouType](https://packagecontrol.io/packages/WrapAsYouType) - Sublime Text plugin that performs hard word wrapping within specified sections, in real time as the user types
 
-[WrapCommand](https://packagecontrol.io/packages/WrapCommand) - A Command Wrapper providing an unified and easy to use interface regarding variable expansion.
-
 [WrapIt](https://packagecontrol.io/packages/WrapIt) - Wrap Contents With Specific Code
 
 [WrapStatement](https://packagecontrol.io/packages/WrapStatement) - Attempt to make nice statements wrapping that hits first ruler (80 symbols by default) length
@@ -8423,9 +9046,13 @@ WIP,  not production ready yet
 
 [Writeapp](https://packagecontrol.io/packages/Writeapp) - A Sublime Text 2 plugin for saving files to Write.app
 
+[Writer Color Scheme](https://packagecontrol.io/packages/Writer%20Color%20Scheme) - A color scheme for focused long-form writing
+
 [Writing Color Scheme](https://packagecontrol.io/packages/Writing%20Color%20Scheme) - Theme for writing articles in Sublime Text using Latex or Markdown
 
 [Writing Style](https://packagecontrol.io/packages/Writing%20Style) - Improve your writing style with this Sublime Text package
+
+[Wux Weapp Snippets](https://packagecontrol.io/packages/Wux%20Weapp%20Snippets) - Wux Weapp Snippets Plugin for Sublime Text 2/3.
 
 [X to Y](https://packagecontrol.io/packages/X%20to%20Y) - sublime-text 2 package to duplicate lines while replacing x by y, width by height so on...
 
@@ -8461,8 +9088,6 @@ WIP,  not production ready yet
 
 [XmlDocs](https://packagecontrol.io/packages/XmlDocs) - SublimeText plugin for handling xml-based documentation in C-Sharp files.
 
-[XpressEngine](https://packagecontrol.io/packages/XpressEngine) - XpressEngine Snippets for Sublime Text
-
 [XssEncode](https://packagecontrol.io/packages/XssEncode) - Converts characters from one encoding to another using a transformation.
 
 [Xtemplate](https://packagecontrol.io/packages/Xtemplate) - Syntax highlighting &amp; snippets for the Xtemplate
@@ -8473,7 +9098,7 @@ WIP,  not production ready yet
 
 [YAMLMacros](https://packagecontrol.io/packages/YAMLMacros) - A macro system for YAML files powered by Python. Intended for Sublime Text development.
 
-[YUI Compressor](https://packagecontrol.io/packages/YUI%20Compressor) - Sublime Text 2 YUI-Compressor plugin
+[YASMJinja2](https://packagecontrol.io/packages/YASMJinja2) - Jinja2 Syntax Support for TextMate and Sublime Text
 
 [Yaf Completions](https://packagecontrol.io/packages/Yaf%20Completions) - php yaf completions for sublime
 
@@ -8481,9 +9106,11 @@ WIP,  not production ready yet
 
 [YandexTranslate](https://packagecontrol.io/packages/YandexTranslate) - Yandex Translate plugin for SublimeText
 
+[YandexWiki](https://packagecontrol.io/packages/YandexWiki) - Sublime Text syntax support for Yandex Wiki.
+
 [Yang Syntax Highlighting](https://packagecontrol.io/packages/Yang%20Syntax%20Highlighting) - Sublime Text syntax highlighting for YANG
 
-[Yara Rule Syntax](https://packagecontrol.io/packages/Yara%20Rule%20Syntax) - Yara package for ST2/ST3
+[Yara Rule Syntax](https://packagecontrol.io/packages/Yara%20Rule%20Syntax) - YARA package for Sublime Text
 
 [Yate](https://packagecontrol.io/packages/Yate) - A textmate bundle for the Yate language
 
@@ -8491,19 +9118,19 @@ WIP,  not production ready yet
 
 [Yellow Blog Extensions](https://packagecontrol.io/packages/Yellow%20Blog%20Extensions) - Sublime Text 3 Extensions for blogs based on Yellow
 
-[Yesod](https://packagecontrol.io/packages/Yesod) - No description provided
-
 [Yet Another Launcher](https://packagecontrol.io/packages/Yet%20Another%20Launcher) - Yet Another Launcher - a Sublime Text 3 launcher plugin
 
 [YetAnotherCodeSearch](https://packagecontrol.io/packages/YetAnotherCodeSearch) - SublimeText 3 plugin fo working with CodeSearch
 
 [Yii Framework 1.1 Snippets](https://packagecontrol.io/packages/Yii%20Framework%201.1%20Snippets) - Code snippets for developing with Yii framework
 
-[Yii Framework Docs Search](https://packagecontrol.io/packages/Yii%20Framework%20Docs%20Search) - A Sublime Text plugin for search in Yii Framework documentation
-
 [Yii2 Auto-complete](https://packagecontrol.io/packages/Yii2%20Auto-complete) - Autocomplete Triggers for Sublime Text
 
 [Yii2 Snippets](https://packagecontrol.io/packages/Yii2%20Snippets) - Yii2 snippets for Sublime Text
+
+[Yin color scheme](https://packagecontrol.io/packages/Yin%20color%20scheme) - No description provided
+
+[Yosys](https://packagecontrol.io/packages/Yosys) - Yosys syntax highlighter for the Sublime Text 3 editor
 
 [YouCompleteMe](https://packagecontrol.io/packages/YouCompleteMe) - Sublime Text 3 Plugin for YCMD
 
@@ -8519,9 +9146,13 @@ WIP,  not production ready yet
 
 [Zap Gremlins](https://packagecontrol.io/packages/Zap%20Gremlins) - A Zap Gremlins plugin for Sublime Text 2.
 
-[Zeal](https://packagecontrol.io/packages/Zeal) - Zeal for Sublime Text 2/3
+[Zeal](https://packagecontrol.io/packages/Zeal) - Zeal docset browser integration for Sublime Text
+
+[Zeek Language](https://packagecontrol.io/packages/Zeek%20Language) - Zeek scripting language highlighting/support for Sublime Text
 
 [ZeitgeistLogger](https://packagecontrol.io/packages/ZeitgeistLogger) - Sublime plugin which logs events to zeitgeist
+
+[Zen Language](https://packagecontrol.io/packages/Zen%20Language) - Sublime Text Package for the Zen Language
 
 [Zen Tabs](https://packagecontrol.io/packages/Zen%20Tabs) - The ultimate plugin for Sublime Text 2/3 to keep your tabs in Zen
 
@@ -8539,7 +9170,7 @@ WIP,  not production ready yet
 
 [Zimpl](https://packagecontrol.io/packages/Zimpl) - ZIMPL Sublime Text package
 
-[Zip Browser](https://packagecontrol.io/packages/Zip%20Browser) - Open a panel to browse and edit zip file&#x27;s content on opening a zip file. .sublime-package also supported.
+[ZipContents](https://packagecontrol.io/packages/ZipContents) - A ZIP archive browser for Sublime Text 3
 
 [Zissou Color Schemes](https://packagecontrol.io/packages/Zissou%20Color%20Schemes) - The Life Aquatic inspired themes for TextMate &amp; Sublime Text 
 
@@ -8573,7 +9204,13 @@ WIP,  not production ready yet
 
 [bioSyntax](https://packagecontrol.io/packages/bioSyntax) -  Syntax highlighting for computational biology. [ Sublime submodule ]
 
+[blif_sis](https://packagecontrol.io/packages/blif_sis) - BLIF (SIS&#x27; Berkeley Logic Interchange Format) syntax highlighter and autocompleter package for Sublime Text
+
 [bourbon_completions](https://packagecontrol.io/packages/bourbon_completions) - A Sublime Text package that enables autocompletion for the Bourbon Sass library.
+
+[bst syntax](https://packagecontrol.io/packages/bst%20syntax) - sublime syntax definition for LaTeX Bibliography Style (bst) files
+
+[build2](https://packagecontrol.io/packages/build2) - Sublime Text Package for build2 Integration
 
 [cFos ml syntax](https://packagecontrol.io/packages/cFos%20ml%20syntax) - Syntax highlighting for cFos ml-files
 
@@ -8617,6 +9254,8 @@ WIP,  not production ready yet
 
 [devebkit](https://packagecontrol.io/packages/devebkit) - deveb önyüz çatısı için yardımcı Sublime Text eklentisi.
 
+[dired](https://packagecontrol.io/packages/dired) - A Sublime Text 3 plugin that displays a directory in a view, allowing easy file manipulation, loosely copied from emacs dired mode.
+
 [distractionless](https://packagecontrol.io/packages/distractionless) - Automatic windowed distraction free mode while editing in Sublime Text.
 
 [dle snippets sublime](https://packagecontrol.io/packages/dle%20snippets%20sublime) - Vue + Element Snippets for Sublime Text
@@ -8625,7 +9264,11 @@ WIP,  not production ready yet
 
 [doi2bibSublime](https://packagecontrol.io/packages/doi2bibSublime) - Automatically attempt to convert a DOI to BibTeX entry.
 
+[dotsyntax](https://packagecontrol.io/packages/dotsyntax) - Highlight dotfiles your way.
+
 [eCSStractor](https://packagecontrol.io/packages/eCSStractor) - Sublime Text plugin for extracting class names from HTML and generate CSS stylesheet for following work.
+
+[eScript Syntax](https://packagecontrol.io/packages/eScript%20Syntax) - eScript package for Sublime
 
 [eZ Publish Syntax](https://packagecontrol.io/packages/eZ%20Publish%20Syntax) - Sublime Text 2/3 eZ Publish Syntax &amp; Snippets
 
@@ -8649,8 +9292,6 @@ WIP,  not production ready yet
 
 [fish](https://packagecontrol.io/packages/fish) - A robust Sublime Text syntax package for fish
 
-[five_easy_color_schemes](https://packagecontrol.io/packages/five_easy_color_schemes) - Monokai, Solarized, and three other popular color schemes for Sublime Text
-
 [fluent-logger](https://packagecontrol.io/packages/fluent-logger) - fluentd logging tool for sublime text editor
 
 [fundamentals Snippets](https://packagecontrol.io/packages/fundamentals%20Snippets) - Sublime Text Snippets for fundamentals: https://github.com/thespacedoctor/fundamentals
@@ -8671,17 +9312,15 @@ WIP,  not production ready yet
 
 [greybeard theme](https://packagecontrol.io/packages/greybeard%20theme) - greybeard is a fork of brogrammer a dark, flat, sexy monokai colored theme for sublime text
 
-[gruvbox](https://packagecontrol.io/packages/gruvbox) - Sublime Text themes &amp; color schemes with pastel &#x27;retro groove&#x27; colors
+[gruvbox](https://packagecontrol.io/packages/gruvbox) - 🎨 Sublime Text themes &amp; color schemes with pastel &#x27;retro groove&#x27; colors
 
-[haoide](https://packagecontrol.io/packages/haoide) - HaoIDE is a Sublime Text 3 plugin for Salesforce1 and Force.com Development
+[haoide](https://packagecontrol.io/packages/haoide) - Stop upgrade, most of features were delivered in https://github.com/xjsender/haoide-vscode
 
 [hextoASCII](https://packagecontrol.io/packages/hextoASCII) - Plugin for Sublime Text 2 and 3: converter from ASCII to hex, and from hex to ASCII
 
-[hg4subl](https://packagecontrol.io/packages/hg4subl) - A simple Sublime Text plugin for hg. I am calling it hg4subl. Its completely inspired by sublime-text-2-git which I use.
-
 [i3 wm](https://packagecontrol.io/packages/i3%20wm) - i3wm syntax for Sublime Text 2/3
 
-[iA Writer](https://packagecontrol.io/packages/iA%20Writer) - Open your current file with Mou.app markdown editor in Sublime 2/3
+[iA Writer](https://packagecontrol.io/packages/iA%20Writer) - Open your current file with iA Writer editor in Sublime 2/3
 
 [iA Writer opener](https://packagecontrol.io/packages/iA%20Writer%20opener) - Open current file in iA Writer
 
@@ -8753,11 +9392,13 @@ WIP,  not production ready yet
 
 [lioshiTheme](https://packagecontrol.io/packages/lioshiTheme) - A dark theme for sublime text
 
+[liquidsoap](https://packagecontrol.io/packages/liquidsoap) - liquidsoap syntax definition for sublime text 3/4
+
 [lispindent](https://packagecontrol.io/packages/lispindent) - sublime-lispindent is a plugin for sublime text 2/3 that properly indents lisp code.
 
 [list2csv](https://packagecontrol.io/packages/list2csv) - Plugin for converting lists to comma separated 
 
-[ludik](https://packagecontrol.io/packages/ludik) - steludio emulation for sublime 2 (http://sublimetext.com)
+[ludik](https://packagecontrol.io/packages/ludik) - navigation hotkeys and templates for Eludia.pm/dia.pm framework (https://github.com/do-/dia.pm)
 
 [lufylegendDev](https://packagecontrol.io/packages/lufylegendDev) - Powerful lufylegend develop plugin for sublime text 2/3
 
@@ -8773,15 +9414,17 @@ WIP,  not production ready yet
 
 [multiAlign](https://packagecontrol.io/packages/multiAlign) - Sublime Text plugin for stepwise alignment of multiple alignment characters
 
-[muukii](https://packagecontrol.io/packages/muukii) - Color Scheme
-
 [myPDDL](https://packagecontrol.io/packages/myPDDL) - PDDL Syntax Highlighting, Snippets, Domain Visualization and more for Sublime Text
 
 [nRepeat](https://packagecontrol.io/packages/nRepeat) - A port of the repeat functionality of the universal-argument from Emacs to SublimeText3.
 
+[naomi-syntax](https://packagecontrol.io/packages/naomi-syntax) - Sublime Text enhanced syntax highlighting for JavaScript ES6/ES7/ES2015/ES2016/ES2017+, Babel, FlowType, React JSX, Styled Components, HTML5, SCSS3, PHP 7, phpDoc, PHPUnit, MQL4. Basic: Git config files.
+
 [neko nml syntax](https://packagecontrol.io/packages/neko%20nml%20syntax) - .NML Syntax Highlighting and Auto Completion for Core Lib
 
 [nemoDreaming](https://packagecontrol.io/packages/nemoDreaming) - nemoDreaming theme and snippets for Sublime Text
+
+[nextflow](https://packagecontrol.io/packages/nextflow) - Nextflow workflow syntax highlighting and snippets for Sublime Text 3
 
 [ng-snippets](https://packagecontrol.io/packages/ng-snippets) - Snippets of AngularJS for Sublime Text
 
@@ -8821,7 +9464,7 @@ WIP,  not production ready yet
 
 [phJade](https://packagecontrol.io/packages/phJade) - Syntax highlighting for Jade in Sublime Text 3 with php sintax
 
-[phpDocumentor](https://packagecontrol.io/packages/phpDocumentor) - [DEPRECATED] phpDocumentor Support for Sublime Text 2
+[phpDocumentor](https://packagecontrol.io/packages/phpDocumentor) - 📃 [DEPRECATED] phpDocumentor Support for Sublime Text 2
 
 [phpfmt](https://packagecontrol.io/packages/phpfmt) - This is a stable snapshot (version 6125cf9) of the phpfmt plugin for Sublime Text
 
@@ -8835,15 +9478,13 @@ WIP,  not production ready yet
 
 [polyglot Snippets](https://packagecontrol.io/packages/polyglot%20Snippets) - Sublime Text Snippets for polyglot: https://github.com/thespacedoctor/polyglot
 
-[pqmarkup](https://packagecontrol.io/packages/pqmarkup) - No description provided
-
 [q KDB](https://packagecontrol.io/packages/q%20KDB) - Sublime Text Plugin for q/kdb
 
 [qasm_highlighting](https://packagecontrol.io/packages/qasm_highlighting) - Sublime Text 3 package for QASM and QuMIS syntax highlighting.
 
 [qooxdoo Tools](https://packagecontrol.io/packages/qooxdoo%20Tools) - A qooxdoo package for Sublime Text 2
 
-[rainbow_csv](https://packagecontrol.io/packages/rainbow_csv) - Highlight columns in CSV and TSV files and run queries in SQL-like language
+[rainbow_csv](https://packagecontrol.io/packages/rainbow_csv) - 🌈Rainbow CSV - Sublime Text Package: Highlight columns in CSV and TSV files and run queries in SQL-like language
 
 [razor-tmpl](https://packagecontrol.io/packages/razor-tmpl) - razor-tmpl syntax definition &amp; snippets for Sublime Text 3 or 2(not tested)
 
@@ -8859,6 +9500,8 @@ WIP,  not production ready yet
 
 [requirementstxt](https://packagecontrol.io/packages/requirementstxt) - requirements.txt support for Python
 
+[ride](https://packagecontrol.io/packages/ride) - Sublime Text 3 package for Lingua Franka (LF) syntax highlighting, snippets and auto-completions.
+
 [rockfinder Snippets](https://packagecontrol.io/packages/rockfinder%20Snippets) - Sublime Text Snippets for rockfinder: https://github.com/thespacedoctor/rockfinder
 
 [rspec-snippets](https://packagecontrol.io/packages/rspec-snippets) - Sublime Text 2 Rspec Snippets
@@ -8867,11 +9510,11 @@ WIP,  not production ready yet
 
 [sablecc-syntax](https://packagecontrol.io/packages/sablecc-syntax) - Syntax definition of SableCC for sublime-text/textmate
 
+[schema-rb](https://packagecontrol.io/packages/schema-rb) - Sublime Text 3 package for quick navigation across tables in schema.rb
+
 [scriptcs](https://packagecontrol.io/packages/scriptcs) - A scriptcs plug-in for Sublime Text.
 
 [shoulda-matchers Snippets](https://packagecontrol.io/packages/shoulda-matchers%20Snippets) - Group of Sublime Text snippets for thoughtbot/shoulda-matchers
-
-[simple_ConTeXt](https://packagecontrol.io/packages/simple_ConTeXt) - A Sublime Text 3 package providing features for writing and building ConTeXt documents.
 
 [smart less build](https://packagecontrol.io/packages/smart%20less%20build) - sublime text 3 on save less builder
 
@@ -8905,8 +9548,6 @@ WIP,  not production ready yet
 
 [sublime-split-navigation](https://packagecontrol.io/packages/sublime-split-navigation) - Navigate between split windows using the keyboard
 
-[sublime-symfony](https://packagecontrol.io/packages/sublime-symfony) - Useful hotkeys to work with Symfony
-
 [sublime-text-2-buildview](https://packagecontrol.io/packages/sublime-text-2-buildview) - A Sublime Text 2/3 plugin to show build output in a view.
 
 [sublimelint](https://packagecontrol.io/packages/sublimelint) - Error highlighting in Sublime Text.
@@ -8920,6 +9561,8 @@ WIP,  not production ready yet
 [tabr](https://packagecontrol.io/packages/tabr) - Replace your current selections with a dynamically created tab order.
 
 [tastic Snippets](https://packagecontrol.io/packages/tastic%20Snippets) - Sublime Text Snippets for tastic: https://github.com/thespacedoctor/tastic
+
+[templatejs](https://packagecontrol.io/packages/templatejs) - Syntax highlight for template.js
 
 [termX](https://packagecontrol.io/packages/termX) - MacTerminal is a SublimeText plugin. It opens new Terminal tab (on current or new window if necessary). It&#x27;s working with Terminal and iTerm.
 
@@ -8955,7 +9598,7 @@ WIP,  not production ready yet
 
 [x86 and x86_64 Assembly](https://packagecontrol.io/packages/x86%20and%20x86_64%20Assembly) - A bundle for TextMate/Sublime Text providing syntax highlighting for x86 assembly code.
 
-[xmake](https://packagecontrol.io/packages/xmake) - A XMake integration in Sublime Text
+[xmake](https://packagecontrol.io/packages/xmake) - 🍔 A XMake integration in Sublime Text
 
 [xml-guesser](https://packagecontrol.io/packages/xml-guesser) - Sublime Text 2 plugin to do the right thing with XML files not named correctly
 
@@ -8965,16 +9608,13 @@ WIP,  not production ready yet
 
 [yUML](https://packagecontrol.io/packages/yUML) - yUML (yuml.me) support for Sublime Text.
 
-[yardgen](https://packagecontrol.io/packages/yardgen) - Yardgen is a package for the Sublime Text editor.
-
+[yardgen](https://packagecontrol.io/packages/yardgen) - No description provided
 
 [yardoc](https://packagecontrol.io/packages/yardoc) - SublimeText plugin to generate yardoc
 
 [yasi-indenter](https://packagecontrol.io/packages/yasi-indenter) - Sublime Text plugin for correct s-expression indentation using yasi
 
 [zenburn](https://packagecontrol.io/packages/zenburn) - Zenburn color scheme.
-
-[zero-dark](https://packagecontrol.io/packages/zero-dark) - Sublime Text 3 Web Dev Color Scheme
 
 [zmq](https://packagecontrol.io/packages/zmq) - minimal messaging interface for Sublime Text 3
 
